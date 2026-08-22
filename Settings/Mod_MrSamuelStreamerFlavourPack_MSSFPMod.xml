@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MSSFP.Settings">
+		<Active10SecondsToSpeed>True</Active10SecondsToSpeed>
+		<EnableSubNormalSpeeds>False</EnableSubNormalSpeeds>
+		<FactionLeaderRaidChance>0.0504585616</FactionLeaderRaidChance>
+		<MonitoredSpeeds>
+			<li>Paused</li>
+			<li>Normal</li>
+		</MonitoredSpeeds>
+		<EnableOrbJumpEvents>False</EnableOrbJumpEvents>
+		<BlackHoleLightCap>1</BlackHoleLightCap>
+		<BlackHoleGrowthEnabled>False</BlackHoleGrowthEnabled>
+		<BlackHoleGrowthRate>0.323522836</BlackHoleGrowthRate>
+		<BlackHoleGrowthMax>5.07549381</BlackHoleGrowthMax>
+		<SunSizeScaleRate>5</SunSizeScaleRate>
+		<SunSizeScaleMax>32</SunSizeScaleMax>
+		<RubyVeinSpawnChance>0.00500000035</RubyVeinSpawnChance>
+		<ExtraBuildables />
+		<NoReplaceFactionLeader>True</NoReplaceFactionLeader>
+		<ShowHauntDevDashboard>False</ShowHauntDevDashboard>
+		<EnableKillHaunts>False</EnableKillHaunts>
+		<EnableLoversRetreat>True</EnableLoversRetreat>
+		<EnableTrekBeamers>False</EnableTrekBeamers>
+		<EnableSkylanternRaids>True</EnableSkylanternRaids>
+		<IEDLifespanDays>5</IEDLifespanDays>
+		<IEDDecayDetonateChance>0.116335839</IEDDecayDetonateChance>
+		<EnableMercenaryHiring>False</EnableMercenaryHiring>
+		<EnableCodexPunch>False</EnableCodexPunch>
+	</ModSettings>
+</SettingsBlock>

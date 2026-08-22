@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="aRandomKiwi.RimThemes.Settings">
+		<cornerInfoMode>2</cornerInfoMode>
+		<ludeonLogoMode>2</ludeonLogoMode>
+		<rimthemesLogoMode>2</rimthemesLogoMode>
+		<expansionsIconsMode>2</expansionsIconsMode>
+		<curTheme>samurai.rimthemes§Clan</curTheme>
+		<disableCustomFonts>True</disableCustomFonts>
+		<disableParticle>False</disableParticle>
+		<disableCustomLoader>True</disableCustomLoader>
+		<dialogStacking>2</dialogStacking>
+		<menuAlignment>2</menuAlignment>
+		<hideLoadingText>True</hideLoadingText>
+		<disableMainVideoBg>True</disableMainVideoBg>
+		<forceVanillaVideoBgWhenNoVBG>True</forceVanillaVideoBgWhenNoVBG>
+		<curRandomBg>-1§Phoebe Chillax</curRandomBg>
+		<lastVersionInfo>RimThemes NX rev10</lastVersionInfo>
+		<disableTinyCustomFont>True</disableTinyCustomFont>
+		<enableCentipedeTheme>False</enableCentipedeTheme>
+		<enableClassicCassandraTheme>True</enableClassicCassandraTheme>
+		<enableCyberpunkTheme>False</enableCyberpunkTheme>
+		<enableThrumboTheme>False</enableThrumboTheme>
+	</ModSettings>
+</SettingsBlock>

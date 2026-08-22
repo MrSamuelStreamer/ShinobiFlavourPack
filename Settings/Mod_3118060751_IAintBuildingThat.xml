@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="IAintBuildingThat.Settings">
+		<hiddenBuildables>
+			<li>MSSFP_AICore</li>
+			<li>MSSFP_AICore_LoadedVariant</li>
+			<li>MSSFP_Vending_Machine</li>
+			<li>AG_ForsakenForge</li>
+			<li>VBE_EspressoMachineBuilding</li>
+			<li>VCE_CheesePress</li>
+			<li>VCE_DeepFrier</li>
+			<li>VBE_GinStill</li>
+			<li>VBE_VodkaDrum</li>
+			<li>VBE_TequilaBarrel</li>
+			<li>VBE_WhiskeyCask</li>
+			<li>VBE_AmbrandyDistillery</li>
+			<li>VBE_SodaFountain</li>
+			<li>VBE_Bar</li>
+			<li>FermentingBarrel</li>
+			<li>NutrientPasteDispenser</li>
+			<li>Hopper</li>
+			<li>AB_ExoticDoor</li>
+			<li>AB_ExoticAutoDoor</li>
+			<li>AB_ExoticWall</li>
+			<li>AB_ExoticColumn</li>
+			<li>VCE_CanningMachine</li>
+			<li>BS_AndroidFuelRefinery</li>
+		</hiddenBuildables>
+		<revealHiddenCombo>
+			<ctrl>True</ctrl>
+			<alt>True</alt>
+		</revealHiddenCombo>
+		<menuCombo />
+	</ModSettings>
+</SettingsBlock>
