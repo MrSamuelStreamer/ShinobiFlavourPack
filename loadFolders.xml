@@ -6,5 +6,7 @@
 		<li IfModActive="Ludeon.RimWorld.Royalty">Compatibility/Ludeon.RimWorld.Royalty</li>
 		<li IfModActive="snafu.japanworld">Compatibility/snafu.japanworld</li>
 		<li IfModActive="stevezero.repairablegear">Compatibility/stevezero.repairablegear</li>
+		<li IfModActive="oskarpotocki.vfe.empire">Compatibility/oskarpotocki.vfe.empire</li>
+		<li IfModActive="oskarpotocki.vfe.deserters">Compatibility/oskarpotocki.vfe.deserters</li>
 	</v1.6>
 </loadFolders>

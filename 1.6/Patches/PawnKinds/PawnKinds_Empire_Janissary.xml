@@ -1,20 +1,97 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelRequired</xpath>
-        <value>
-            <apparelRequired>
-                <li>KRC_CommanderOvercoat</li>
-                <li>KRC_RabbitHelmetTypeA</li>
-                <li>KRC_CommanderCoat</li>
-            </apparelRequired>
-        </value>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelRequired</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]</xpath>
+                    <value>
+                        <apparelRequired />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelRequired</xpath>
+                <value>
+                    <apparelRequired>
+                        <li>KRC_CommanderOvercoat</li>
+                        <li>KRC_RabbitHelmetTypeA</li>
+                        <li>KRC_CommanderCoat</li>
+                    </apparelRequired>
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelRequired</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
     </Operation>
 
-    <Operation Class="PatchOperationReplace">
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelTags</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]</xpath>
+                    <value>
+                        <apparelTags />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelTags</xpath>
+                <value>
+                    <apparelTags />
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelTags</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
+    </Operation>
+
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/specificApparelRequirements</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]</xpath>
+                    <value>
+                        <specificApparelRequirements />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/specificApparelRequirements</xpath>
+                <value>
+                    <specificApparelRequirements />
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/specificApparelRequirements</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
+    </Operation>
+
+    <Operation Class="PatchOperationConditional">
         <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelColor</xpath>
-        <value>
-            <apparelColor>(39,36,31)</apparelColor>
-        </value>
+        <match Class="PatchOperationReplace">
+            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelColor</xpath>
+            <value>
+                <apparelColor>(39,36,31)</apparelColor>
+            </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]</xpath>
+            <value>
+                <apparelColor>(39,36,31)</apparelColor>
+            </value>
+        </nomatch>
     </Operation>
 </Patch>
