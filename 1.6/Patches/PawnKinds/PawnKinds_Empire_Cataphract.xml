@@ -3,7 +3,7 @@
     <Operation Class="PatchOperationReplace">
         <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelRequired</xpath>
         <value>
-            <apparelRequired>
+            <apparelRequired Inherit="False">
                 <li>KRC_RhinoArmor</li>
                 <li>KRC_RhinoHelmetTypeA</li>
                 <li>KRC_RcFatigues</li>
@@ -11,12 +11,24 @@
         </value>
     </Operation>
 
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/specificApparelRequirements</xpath>
+        <value>
+            <specificApparelRequirements Inherit="False" />
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]</xpath>
+        <value>
+            <apparelTags Inherit="False" />
+        </value>
+    </Operation>
+
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/weaponTags</xpath>
         <value>
-            <weaponTags>
-                <li>RCorpMelee</li>
-            </weaponTags>
+            <li>RCorpMelee</li>
         </value>
     </Operation>
 

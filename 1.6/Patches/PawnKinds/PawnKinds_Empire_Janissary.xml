@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/apparelRequired</xpath>
+    <!-- apparelRequired is on JanissaryBase; adding it here with Inherit=False overrides VFE-Empire's parent restyle. -->
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]</xpath>
         <value>
-            <apparelRequired>
+            <apparelRequired Inherit="False">
                 <li>KRC_CommanderOvercoat</li>
                 <li>KRC_RabbitHelmetTypeA</li>
                 <li>KRC_CommanderCoat</li>
             </apparelRequired>
+            <apparelTags Inherit="False" />
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/specificApparelRequirements</xpath>
+        <value>
+            <specificApparelRequirements Inherit="False" />
         </value>
     </Operation>
 

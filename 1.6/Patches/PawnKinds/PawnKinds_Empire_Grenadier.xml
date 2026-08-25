@@ -3,11 +3,19 @@
     <Operation Class="PatchOperationReplace">
         <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Grenadier"]/apparelRequired</xpath>
         <value>
-            <apparelRequired>
+            <apparelRequired Inherit="False">
                 <li>KRC_ReindeerArmor</li>
                 <li>KRC_ReindeerHelmetTypeB</li>
                 <li>KRC_RcFatigues</li>
             </apparelRequired>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Grenadier"]</xpath>
+        <value>
+            <apparelTags Inherit="False" />
+            <specificApparelRequirements Inherit="False" />
         </value>
     </Operation>
 
