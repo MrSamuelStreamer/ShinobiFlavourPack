@@ -1,23 +1,82 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelRequired</xpath>
-        <value>
-            <apparelRequired Inherit="False">
-                <li>KRC_RhinoCaptainArmor</li>
-                <li>KRC_RhinoCaptainHelmet</li>
-                <li>KRC_RcFatigues</li>
-            </apparelRequired>
-        </value>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelRequired</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]</xpath>
+                    <value>
+                        <apparelRequired />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelRequired</xpath>
+                <value>
+                    <apparelRequired>
+                        <li>KRC_RhinoCaptainArmor</li>
+                        <li>KRC_RhinoCaptainHelmet</li>
+                        <li>KRC_RcFatigues</li>
+                    </apparelRequired>
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelRequired</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
     </Operation>
 
-    <Operation Class="PatchOperationAdd">
-        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]</xpath>
-        <value>
-            <apparelTags Inherit="False" />
-            <specificApparelRequirements Inherit="False" />
-            <apparelColor>(39,36,31)</apparelColor>
-        </value>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelTags</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]</xpath>
+                    <value>
+                        <apparelTags />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelTags</xpath>
+                <value>
+                    <apparelTags />
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelTags</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
+    </Operation>
+
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/specificApparelRequirements</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]</xpath>
+                    <value>
+                        <specificApparelRequirements />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/specificApparelRequirements</xpath>
+                <value>
+                    <specificApparelRequirements />
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/specificApparelRequirements</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
     </Operation>
 
     <Operation Class="PatchOperationAdd">
@@ -27,18 +86,114 @@
         </value>
     </Operation>
 
-    <!-- Ranged child has no apparelRequired; prestige cataphract lives on StellicGuardBase. -->
-    <Operation Class="PatchOperationAdd">
-        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]</xpath>
-        <value>
-            <apparelRequired Inherit="False">
-                <li>KRC_RhinoCaptainArmor</li>
-                <li>KRC_RhinoCaptainHelmet</li>
-                <li>KRC_RcFatigues</li>
-            </apparelRequired>
-            <apparelTags Inherit="False" />
-            <specificApparelRequirements Inherit="False" />
-            <apparelColor>(39,36,31)</apparelColor>
-        </value>
+    <Operation Class="PatchOperationConditional">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelColor</xpath>
+        <match Class="PatchOperationReplace">
+            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelColor</xpath>
+            <value>
+                <apparelColor>(39,36,31)</apparelColor>
+            </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]</xpath>
+            <value>
+                <apparelColor>(39,36,31)</apparelColor>
+            </value>
+        </nomatch>
+    </Operation>
+
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelRequired</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]</xpath>
+                    <value>
+                        <apparelRequired />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelRequired</xpath>
+                <value>
+                    <apparelRequired>
+                        <li>KRC_RhinoCaptainArmor</li>
+                        <li>KRC_RhinoCaptainHelmet</li>
+                        <li>KRC_RcFatigues</li>
+                    </apparelRequired>
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelRequired</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
+    </Operation>
+
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelTags</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]</xpath>
+                    <value>
+                        <apparelTags />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelTags</xpath>
+                <value>
+                    <apparelTags />
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelTags</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
+    </Operation>
+
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/specificApparelRequirements</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]</xpath>
+                    <value>
+                        <specificApparelRequirements />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/specificApparelRequirements</xpath>
+                <value>
+                    <specificApparelRequirements />
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/specificApparelRequirements</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
+    </Operation>
+
+    <Operation Class="PatchOperationConditional">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelColor</xpath>
+        <match Class="PatchOperationReplace">
+            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelColor</xpath>
+            <value>
+                <apparelColor>(39,36,31)</apparelColor>
+            </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]</xpath>
+            <value>
+                <apparelColor>(39,36,31)</apparelColor>
+            </value>
+        </nomatch>
     </Operation>
 </Patch>

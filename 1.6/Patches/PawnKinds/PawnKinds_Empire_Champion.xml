@@ -1,23 +1,82 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-    <Operation Class="PatchOperationReplace">
-        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelRequired</xpath>
-        <value>
-            <apparelRequired Inherit="False">
-                <li>KRC_ReindeerCaptainHelmet</li>
-                <li>KRC_ReindeerCaptainArmor</li>
-                <li>KRC_RcFatigues</li>
-            </apparelRequired>
-        </value>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelRequired</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]</xpath>
+                    <value>
+                        <apparelRequired />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelRequired</xpath>
+                <value>
+                    <apparelRequired>
+                        <li>KRC_ReindeerCaptainHelmet</li>
+                        <li>KRC_ReindeerCaptainArmor</li>
+                        <li>KRC_RcFatigues</li>
+                    </apparelRequired>
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelRequired</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
     </Operation>
 
-    <!-- Override inherited fighter tags / undershirt rules so extra Royalty gear is not rolled. -->
-    <Operation Class="PatchOperationAdd">
-        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]</xpath>
-        <value>
-            <apparelTags Inherit="False" />
-            <specificApparelRequirements Inherit="False" />
-        </value>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelTags</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]</xpath>
+                    <value>
+                        <apparelTags />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelTags</xpath>
+                <value>
+                    <apparelTags />
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelTags</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
+    </Operation>
+
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationConditional">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/specificApparelRequirements</xpath>
+                <nomatch Class="PatchOperationAdd">
+                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]</xpath>
+                    <value>
+                        <specificApparelRequirements />
+                    </value>
+                </nomatch>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/specificApparelRequirements</xpath>
+                <value>
+                    <specificApparelRequirements />
+                </value>
+            </li>
+            <li Class="PatchOperationAttributeSet">
+                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/specificApparelRequirements</xpath>
+                <attribute>Inherit</attribute>
+                <value>False</value>
+            </li>
+        </operations>
     </Operation>
 
     <Operation Class="PatchOperationAdd">
@@ -27,10 +86,19 @@
         </value>
     </Operation>
 
-    <Operation Class="PatchOperationReplace">
+    <Operation Class="PatchOperationConditional">
         <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelColor</xpath>
-        <value>
-            <apparelColor>(39,36,31)</apparelColor>
-        </value>
+        <match Class="PatchOperationReplace">
+            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/apparelColor</xpath>
+            <value>
+                <apparelColor>(39,36,31)</apparelColor>
+            </value>
+        </match>
+        <nomatch Class="PatchOperationAdd">
+            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Champion"]</xpath>
+            <value>
+                <apparelColor>(39,36,31)</apparelColor>
+            </value>
+        </nomatch>
     </Operation>
 </Patch>
