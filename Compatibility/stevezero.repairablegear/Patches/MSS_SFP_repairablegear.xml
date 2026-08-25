@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="RG_SimpleRepairTable"]/label</xpath>
+        <value>
+            <label>Simple Clothing Bench</label>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="RG_ElectricRepairTable"]/label</xpath>
+        <value>
+            <label>Electric Clothing Bench</label>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="RG_SimpleRepairTable"]/description</xpath>
+        <value>
+            <description>A workbench equipped with minimal tools required to create and repair clothing. Work on this bench is slow.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/ThingDef[defName="RG_ElectricRepairTable"]/description</xpath>
+        <value>
+            <description>A workbench equipped with all the tools required to create and repair items. Can work without electricity at 40% of normal speed.</description>
+        </value>
+    </Operation>
+</Patch>

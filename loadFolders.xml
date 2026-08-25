@@ -4,5 +4,7 @@
 		<li>Common</li>
 		<li>1.6</li>
 		<li IfModActive="Ludeon.RimWorld.Royalty">Compatibility/Ludeon.RimWorld.Royalty</li>
+		<li IfModActive="snafu.japanworld">Compatibility/snafu.japanworld</li>
+		<li IfModActive="stevezero.repairablegear">Compatibility/stevezero.repairablegear</li>
 	</v1.6>
 </loadFolders>

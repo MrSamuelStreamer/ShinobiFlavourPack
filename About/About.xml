@@ -22,5 +22,11 @@
         <li>Ludeon.RimWorld</li>
         <li>Ludeon.RimWorld.Royalty</li>
         <li>mss.flavourpack</li>
+        <li>snafu.japanworld</li>
+        <li>alt4s.agility</li>
+        <li>dragonissa.charactereditorskillfix</li>
+        <li>stevezero.repairablegear</li>
+        <li>oskarpotocki.vfe.empire</li>
+        <li>oskarpotocki.vfe.deserters</li>
     </loadAfter>
 </ModMetaData>

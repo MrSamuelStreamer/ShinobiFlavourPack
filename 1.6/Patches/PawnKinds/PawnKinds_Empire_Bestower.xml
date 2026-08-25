@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/PawnKindDef[defName="Empire_Royal_Bestower"]/apparelRequired</xpath>
+        <value>
+            <apparelRequired>
+                <li>KRC_CommanderOvercoat</li>
+                <li>KRC_CommanderCoat</li>
+                <li>KRC_CommanderBeret</li>
+                <li>KRC_RcTurtleneck</li>
+            </apparelRequired>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/PawnKindDef[defName="Empire_Royal_Bestower"]/apparelColor</xpath>
+        <value>
+            <apparelColor>(39,36,31)</apparelColor>
+        </value>
+    </Operation>
+</Patch>

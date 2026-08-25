@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/apparelRequired</xpath>
+        <value>
+            <apparelRequired>
+                <li>KRC_RhinoCaptainArmor</li>
+                <li>KRC_RhinoCaptainHelmet</li>
+                <li>KRC_RcFatigues</li>
+            </apparelRequired>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]/weaponTags</xpath>
+        <value>
+            <weaponTags>
+                <li>RCorpMelee</li>
+            </weaponTags>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">   <!-- add NOT replace to pawnkind to overwrite inherit -->
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardMelee"]</xpath>
+        <value>
+            <apparelColor>(39,36,31)</apparelColor>
+        </value>
+    </Operation>
+
+        <Operation Class="PatchOperationReplace">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]/apparelRequired</xpath>
+        <value>
+            <apparelRequired>
+                <li>KRC_RhinoCaptainArmor</li>
+                <li>KRC_RhinoCaptainHelmet</li>
+                <li>KRC_RcFatigues</li>
+            </apparelRequired>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">   <!-- add NOT replace to pawnkind to overwrite inherit -->
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_StellicGuardRanged"]</xpath> 
+        <value>
+            <apparelColor>(39,36,31)</apparelColor>
+        </value>
+    </Operation>
+</Patch>
