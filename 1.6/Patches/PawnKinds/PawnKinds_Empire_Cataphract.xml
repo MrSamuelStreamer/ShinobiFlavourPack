@@ -1,104 +1,29 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-    <Operation Class="PatchOperationSequence">
-        <operations>
-            <li Class="PatchOperationConditional">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelRequired</xpath>
-                <nomatch Class="PatchOperationAdd">
-                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]</xpath>
-                    <value>
-                        <apparelRequired />
-                    </value>
-                </nomatch>
-            </li>
-            <li Class="PatchOperationReplace">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelRequired</xpath>
-                <value>
-                    <apparelRequired>
-                        <li>KRC_RhinoArmor</li>
-                        <li>KRC_RhinoHelmetTypeA</li>
-                        <li>KRC_RcFatigues</li>
-                    </apparelRequired>
-                </value>
-            </li>
-            <li Class="PatchOperationAttributeSet">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelRequired</xpath>
-                <attribute>Inherit</attribute>
-                <value>False</value>
-            </li>
-        </operations>
-    </Operation>
-
-    <Operation Class="PatchOperationSequence">
-        <operations>
-            <li Class="PatchOperationConditional">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelTags</xpath>
-                <nomatch Class="PatchOperationAdd">
-                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]</xpath>
-                    <value>
-                        <apparelTags />
-                    </value>
-                </nomatch>
-            </li>
-            <li Class="PatchOperationReplace">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelTags</xpath>
-                <value>
-                    <apparelTags />
-                </value>
-            </li>
-            <li Class="PatchOperationAttributeSet">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelTags</xpath>
-                <attribute>Inherit</attribute>
-                <value>False</value>
-            </li>
-        </operations>
-    </Operation>
-
-    <Operation Class="PatchOperationSequence">
-        <operations>
-            <li Class="PatchOperationConditional">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/specificApparelRequirements</xpath>
-                <nomatch Class="PatchOperationAdd">
-                    <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]</xpath>
-                    <value>
-                        <specificApparelRequirements />
-                    </value>
-                </nomatch>
-            </li>
-            <li Class="PatchOperationReplace">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/specificApparelRequirements</xpath>
-                <value>
-                    <specificApparelRequirements />
-                </value>
-            </li>
-            <li Class="PatchOperationAttributeSet">
-                <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/specificApparelRequirements</xpath>
-                <attribute>Inherit</attribute>
-                <value>False</value>
-            </li>
-        </operations>
+    <Operation Class="PatchOperationReplace">
+        <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelRequired</xpath>
+        <value>
+            <apparelRequired>
+                <li>KRC_RhinoArmor</li>
+                <li>KRC_RhinoHelmetTypeA</li>
+                <li>KRC_RcFatigues</li>
+            </apparelRequired>
+        </value>
     </Operation>
 
     <Operation Class="PatchOperationAdd">
         <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/weaponTags</xpath>
         <value>
-            <li>RCorpMelee</li>
+            <weaponTags>
+                <li>RCorpMelee</li>
+            </weaponTags>
         </value>
     </Operation>
 
-    <Operation Class="PatchOperationConditional">
+    <Operation Class="PatchOperationReplace">
         <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelColor</xpath>
-        <match Class="PatchOperationReplace">
-            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/apparelColor</xpath>
-            <value>
-                <apparelColor>(39,36,31)</apparelColor>
-            </value>
-        </match>
-        <nomatch Class="PatchOperationAdd">
-            <xpath>Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]</xpath>
-            <value>
-                <apparelColor>(39,36,31)</apparelColor>
-            </value>
-        </nomatch>
+        <value>
+            <apparelColor>(39,36,31)</apparelColor>
+        </value>
     </Operation>
 </Patch>

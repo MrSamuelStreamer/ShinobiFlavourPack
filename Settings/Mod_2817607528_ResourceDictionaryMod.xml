@@ -5180,6 +5180,368 @@
 				<li>scarlet refinery_building</li>
 				<li>compressed scarlet sludge_item</li>
 				<li>scarlet mechanites_item</li>
+				<li>airdrop_building</li>
+				<li>factory floor_terrain</li>
+				<li>emergency light_building</li>
+				<li>parking spot_building</li>
+				<li>weapon book_item</li>
+				<li>x-1 cybernetic body defense suit_item</li>
+				<li>xma-1 "leviathan" mechanized combat armature_item</li>
+				<li>xma-1 "leviathan" mca helmet_item</li>
+				<li>laboratory counter_building</li>
+				<li>laboratory station_building</li>
+				<li>research terminal_building</li>
+				<li>追加装甲（機械化ウマ）_item</li>
+				<li>強化装甲（機械化ウマ）_item</li>
+				<li>先進装甲（機械化ウマ）_item</li>
+				<li>小型ブースター（機械化ウマ）_item</li>
+				<li>脚部ブースター（機械化ウマ）_item</li>
+				<li>先進コア（機械化ウマ）_item</li>
+				<li>強化蹄（機械化ウマ）_item</li>
+				<li>強化顎（機械化ウマ）_item</li>
+				<li>白獣の角（機械化ウマ）_item</li>
+				<li>白獣王の角（機械化ウマ）_item</li>
+				<li>機械化ウマ（梱包）_item</li>
+				<li>機械化ウマ_pawn</li>
+				<li>packed snowdrift_building</li>
+				<li>emergency weather radar_building</li>
+				<li>rain-soaked ground_terrain</li>
+				<li>dangerous floodwater_terrain</li>
+				<li>deep floodwater_terrain</li>
+				<li>extreme floodwater_terrain</li>
+				<li>hairline earthquake fractures_terrain</li>
+				<li>fault-fractured ground_terrain</li>
+				<li>laterally spread ground_terrain</li>
+				<li>earthquake fault scarp_terrain</li>
+				<li>earthquake collapse chasm_terrain</li>
+				<li>sinkhole chasm_terrain</li>
+				<li>flood mud_terrain</li>
+				<li>eroded flood channel_terrain</li>
+				<li>wildfire burn scar_terrain</li>
+				<li>landslide debris field_terrain</li>
+				<li>landslide head scarp_terrain</li>
+				<li>packed avalanche deposit_terrain</li>
+				<li>active lava_terrain</li>
+				<li>cooled lava rock_terrain</li>
+				<li>disaster-grade composite_item</li>
+				<li>disaster sensor array_building</li>
+				<li>emergency siren_building</li>
+				<li>emergency shelter hub_building</li>
+				<li>reinforced wall_building</li>
+				<li>reinforced emergency door_building</li>
+				<li>flood levee_building</li>
+				<li>storm drain_building</li>
+				<li>persona bond forge_building</li>
+				<li>bonding core_item</li>
+				<li>bulwark mask_item</li>
+				<li>blessed shield_item</li>
+				<li>blessed halberd_item</li>
+				<li>neutroshine_item</li>
+				<li>holo decoy_building</li>
+				<li>micro turret_building</li>
+				<li>writers table_building</li>
+				<li>typewriter table_building</li>
+				<li>newspaper_item</li>
+				<li>bang bus_building</li>
+				<li>bunsen_building</li>
+				<li>dinghy_building</li>
+				<li>dirtbike_building</li>
+				<li>frog_building</li>
+				<li>highwayman_building</li>
+				<li>mule_building</li>
+				<li>prowler_building</li>
+				<li>roadkill_building</li>
+				<li>scytheman_building</li>
+				<li>toad_building</li>
+				<li>traveller_building</li>
+				<li>bulldog_building</li>
+				<li>charley_building</li>
+				<li>mosquito_building</li>
+				<li>roadrunner_building</li>
+				<li>smuggler_building</li>
+				<li>snatcher_building</li>
+				<li>tango_building</li>
+				<li>trawler_building</li>
+				<li>wagon_building</li>
+				<li>warbird_building</li>
+				<li>wisent_building</li>
+				<li>refueling pump_building</li>
+				<li>garage bench_building</li>
+				<li>tank trap_building</li>
+				<li>garage door (1x4)_building</li>
+				<li>garage door (1x5)_building</li>
+				<li>auto garage door (1x4)_building</li>
+				<li>auto garage door (1x5)_building</li>
+				<li>vehicle engine block_item</li>
+				<li>vehicle alternator_item</li>
+				<li>vehicle exhaust_item</li>
+				<li>vehicle suspension_item</li>
+				<li>vehicle wheel_item</li>
+				<li>vehicle battery_item</li>
+				<li>vehicle fuel tank_item</li>
+				<li>vehicle transmission_item</li>
+				<li>vehicle radiator_item</li>
+				<li>vehicle wiring_item</li>
+				<li>bang bus_pawn</li>
+				<li>bunsen_pawn</li>
+				<li>dinghy_pawn</li>
+				<li>dirtbike_pawn</li>
+				<li>frog_pawn</li>
+				<li>highwayman_pawn</li>
+				<li>mule_pawn</li>
+				<li>prowler_pawn</li>
+				<li>roadkill_pawn</li>
+				<li>scytheman_pawn</li>
+				<li>toad_pawn</li>
+				<li>traveller_pawn</li>
+				<li>bulldog_pawn</li>
+				<li>charley_pawn</li>
+				<li>mosquito_pawn</li>
+				<li>roadrunner_pawn</li>
+				<li>smuggler_pawn</li>
+				<li>snatcher_pawn</li>
+				<li>tango_pawn</li>
+				<li>trawler_pawn</li>
+				<li>wagon_pawn</li>
+				<li>warbird_pawn</li>
+				<li>wisent_pawn</li>
+				<li>laser sword_item</li>
+				<li>laser pistol_item</li>
+				<li>laser smg_item</li>
+				<li>laser rifle_item</li>
+				<li>laser shotgun_item</li>
+				<li>laser sniper rifle_item</li>
+				<li>laser minigun_item</li>
+				<li>tesla gun_item</li>
+				<li>salvaged laser pistol_item</li>
+				<li>salvaged laser rifle_item</li>
+				<li>salvaged laser shotgun_item</li>
+				<li>salvaged laser sniper rifle_item</li>
+				<li>uf bed_building</li>
+				<li>uf double bed_building</li>
+				<li>uf triple bed_building</li>
+				<li>uf four-person bed_building</li>
+				<li>uf pet bed_building</li>
+				<li>uf crib_building</li>
+				<li>uf employee wardrobe_building</li>
+				<li>uf wardrobe_building</li>
+				<li>uf cabinet_building</li>
+				<li>uf low cabinet_building</li>
+				<li>uf single cabinet_building</li>
+				<li>uf book shelf_building</li>
+				<li>uf bedside table_building</li>
+				<li>uf brainwasher_building</li>
+				<li>uf big window_building</li>
+				<li>uf window_building</li>
+				<li>uf temperature control terminal_building</li>
+				<li>uf ground light_building</li>
+				<li>uf ground line light_building</li>
+				<li>uf wall lamp_building</li>
+				<li>uf sun lamp_building</li>
+				<li>uf pendant lamp_building</li>
+				<li>uf garden lamp_building</li>
+				<li>uf floor lamp_building</li>
+				<li>uf street lamp_building</li>
+				<li>uf street lamp (advertisement)_building</li>
+				<li>uf street lamp (single)_building</li>
+				<li>uf tree lamp_building</li>
+				<li>uf tree lamp (yellow)_building</li>
+				<li>uf tree lamp (sakura)_building</li>
+				<li>uf shrub lamp_building</li>
+				<li>uf big street lamp_building</li>
+				<li>uf column lamp_building</li>
+				<li>uf column sun lamp_building</li>
+				<li>uf invisible column_building</li>
+				<li>uf table 1x1_building</li>
+				<li>uf table 1x2_building</li>
+				<li>uf table 2x2_building</li>
+				<li>uf table 2x4_building</li>
+				<li>uf linked table_building</li>
+				<li>uf school desk_building</li>
+				<li>uf stool_building</li>
+				<li>uf chair_building</li>
+				<li>uf couch_building</li>
+				<li>uf double couch_building</li>
+				<li>uf double bench_building</li>
+				<li>uf beach lounger_building</li>
+				<li>uf sunshader_building</li>
+				<li>uf shelf_building</li>
+				<li>uf bookcase_building</li>
+				<li>uf road edge line_building</li>
+				<li>decoration - uf road edge line corner_building</li>
+				<li>decoration flower_building</li>
+				<li>decoration model_building</li>
+				<li>decoration model ii_building</li>
+				<li>decoration model iii_building</li>
+				<li>decoration goldencube_building</li>
+				<li>decoration device_building</li>
+				<li>decoration holographic_building</li>
+				<li>decoration tablelamp_building</li>
+				<li>decoration spaceking_building</li>
+				<li>decoration water toy_building</li>
+				<li>decoration soap_building</li>
+				<li>decoration surveillance camera_building</li>
+				<li>decoration other_building</li>
+				<li>decoration microwave_building</li>
+				<li>decoration rick cooker_building</li>
+				<li>decoration juicer_building</li>
+				<li>decoration pot_building</li>
+				<li>decoration kitchen knife_building</li>
+				<li>decoration food_building</li>
+				<li>decoration food ii_building</li>
+				<li>decoration tableware_building</li>
+				<li>decoration floor vase_building</li>
+				<li>decoration waterdi spenser_building</li>
+				<li>decoration big holographic_building</li>
+				<li>decoration garbage can_building</li>
+				<li>decoration weight plate rack_building</li>
+				<li>decoration uf ship model_building</li>
+				<li>decoration uf paludarium_building</li>
+				<li>decoration uf garbage bin_building</li>
+				<li>uf at fountain_building</li>
+				<li>uf grave engine fountain_building</li>
+				<li>uf void fountain_building</li>
+				<li>uf cerebrexcore fountain_building</li>
+				<li>uf archonexush fountain_building</li>
+				<li>uf radar_building</li>
+				<li>uf mysterious high-tech zongzi_building</li>
+				<li>uf small carpet_building</li>
+				<li>uf large carpet_building</li>
+				<li>uf massive carpet_building</li>
+				<li>uf automatic door 1x1_building</li>
+				<li>uf door frame 1x1_building</li>
+				<li>uf automatic door 2x1_building</li>
+				<li>uf door frame 2x1_building</li>
+				<li>uf automatic door 3x1_building</li>
+				<li>uf door frame 3x1_building</li>
+				<li>uf prison gate_building</li>
+				<li>ufli door curtain_building</li>
+				<li>uf holographic projection (logo)_building</li>
+				<li>uf holographic projection (small logo)_building</li>
+				<li>uf holographic projection (advertisement)_building</li>
+				<li>uf chess table_building</li>
+				<li>uf poker table_building</li>
+				<li>uf billiards table_building</li>
+				<li>uf telescope_building</li>
+				<li>uf television_building</li>
+				<li>uf huge screen_building</li>
+				<li>uf laptop_building</li>
+				<li>uf treadmill_building</li>
+				<li>uf exercise bike_building</li>
+				<li>uf benchrack_building</li>
+				<li>uf dumbbellrack_building</li>
+				<li>uf washing machine_building</li>
+				<li>uf infinite nutrient paste dispenser_building</li>
+				<li>uf robot arm_building</li>
+				<li>uf butcher table_building</li>
+				<li>uf stove_building</li>
+				<li>uf sink_building</li>
+				<li>uf steam oven_building</li>
+				<li>uf wall_building</li>
+				<li>uf cable wall_building</li>
+				<li>uf shootable wall_building</li>
+				<li>uf prison wall_building</li>
+				<li>super auto-forge_building</li>
+				<li>workbench booster_building</li>
+				<li>uf industrial floor_terrain</li>
+				<li>uf honeycomb floor_terrain</li>
+				<li>uf cube floor_terrain</li>
+				<li>uf cube floor ii_terrain</li>
+				<li>uf mesh flooring (light)_terrain</li>
+				<li>uf mesh flooring (dark)_terrain</li>
+				<li>uf gold-bordered floor tiles_terrain</li>
+				<li>uf checkered tiles (light)_terrain</li>
+				<li>uf checkered tiles (dark)_terrain</li>
+				<li>uf mosaic tiles_terrain</li>
+				<li>uf wood flooring_terrain</li>
+				<li>uf wood flooring (dark)_terrain</li>
+				<li>uf wood flooring (complex patterns)_terrain</li>
+				<li>uf wood flooring (complex patterns ii)_terrain</li>
+				<li>uf wood flooring (complex patterns iii)_terrain</li>
+				<li>uf lawn ground_terrain</li>
+				<li>uf lawn ground (cannot be planted)_terrain</li>
+				<li>uf outdoor wood flooring_terrain</li>
+				<li>uf cordon line_terrain</li>
+				<li>uf reconstituted stone tiles_terrain</li>
+				<li>uf fish scale pattern floor tile_terrain</li>
+				<li>uf outdoor pavers_terrain</li>
+				<li>uf outdoor hexagon pavers_terrain</li>
+				<li>uf starship armor plate (light)_terrain</li>
+				<li>uf starship armor plate (dark)_terrain</li>
+				<li>uf road paving_terrain</li>
+				<li>uf sand_terrain</li>
+				<li>uf shallow water_terrain</li>
+				<li>uf hot spring water_terrain</li>
+				<li>uf heavy bridge_terrain</li>
+				<li>uf storage rack (1x2)_building</li>
+				<li>uf storage rack (2x2)_building</li>
+				<li>uf storage container (4x8)_building</li>
+				<li>uf garbage bin_building</li>
+				<li>uf refrigerator_building</li>
+				<li>uf medical refrigerator_building</li>
+				<li>coyote_building</li>
+				<li>coyote_pawn</li>
+				<li>javelina_building</li>
+				<li>javelina_pawn</li>
+				<li>little mule_building</li>
+				<li>little mule_pawn</li>
+				<li>sidewinder_building</li>
+				<li>sidewinder_pawn</li>
+				<li>hovercar_building</li>
+				<li>hovercar_pawn</li>
+				<li>hovertank_building</li>
+				<li>hovertank_pawn</li>
+				<li>hovertruck_building</li>
+				<li>hovertruck_pawn</li>
+				<li>hovertruck (armored)_building</li>
+				<li>hovertruck (armored_pawn</li>
+				<li>lasercannon turret_building</li>
+				<li>disintegrator turret_building</li>
+				<li>cabriolet_building</li>
+				<li>cabriolet_pawn</li>
+				<li>jetbike_building</li>
+				<li>jetbike_pawn</li>
+				<li>personabondforge_templabel0a_item</li>
+				<li>personabondforge_templabel1a_item</li>
+				<li>personabondforge_templabel2a_item</li>
+				<li>personabondforge_templabel3a_item</li>
+				<li>personabondforge_templabel4a_item</li>
+				<li>personabondforge_templabel5a_item</li>
+				<li>personabondforge_templabel6a_item</li>
+				<li>personabondforge_templabel7a_item</li>
+				<li>personabondforge_templabel8a_item</li>
+				<li>personabondforge_templabel9a_item</li>
+				<li>personabondforge_templabel10a_item</li>
+				<li>personabondforge_templabel11a_item</li>
+				<li>personabondforge_templabel12a_item</li>
+				<li>personabondforge_templabel13a_item</li>
+				<li>personabondforge_templabel14a_item</li>
+				<li>personabondforge_templabel15a_item</li>
+				<li>personabondforge_templabel16a_item</li>
+				<li>personabondforge_templabel17a_item</li>
+				<li>personabondforge_templabel18a_item</li>
+				<li>personabondforge_templabel19a_item</li>
+				<li>personabondforge_templabel20a_item</li>
+				<li>personabondforge_templabel21a_item</li>
+				<li>garage cabinet_building</li>
+				<li>simple repair bench_building</li>
+				<li>electric repair bench_building</li>
+				<li>tinkering bench_building</li>
+				<li>biohacking station_building</li>
+				<li>unique breach axe_item</li>
+				<li>advanced drug lab_building</li>
+				<li>electric art bench_building</li>
+				<li>electric stonecutter's table_building</li>
+				<li>operating table_building</li>
+				<li>cryptosleep suspender_building</li>
+				<li>vitals centre_building</li>
+				<li>intravenous drip stand_building</li>
+				<li>research counter_building</li>
+				<li>sterile wall_building</li>
+				<li>adrenaline shot_item</li>
+				<li>stimpack_item</li>
+				<li>herbal powder_item</li>
+				<li>glitterworld stimpack_item</li>
 			</keys>
 			<values>
 				<li>
@@ -6513,6 +6875,7 @@
 					<thingDefs>
 						<li>Bed</li>
 						<li>RRKunmingSingleBed</li>
+						<li>MUS_Fishing_RattanBed</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -6523,6 +6886,7 @@
 					<thingDefs>
 						<li>DoubleBed</li>
 						<li>RRTaiyuanDoubleBed</li>
+						<li>MUS_Fishing_RattanDoubleBed</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -6588,11 +6952,10 @@
 				</li>
 				<li>
 					<thingKey>stool_building</thingKey>
-					<mainThingDefName>Stool</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>Stool</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>dining chair_building</thingKey>
@@ -6612,9 +6975,12 @@
 				</li>
 				<li>
 					<thingKey>couch_building</thingKey>
-					<mainThingDefName>Couch</mainThingDefName>
+					<mainThingDefName>UFLI_CouchDouble</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Couch</li>
+						<li>UFLI_CouchDouble</li>
+						<li>MUS_Fishing_CaneBench</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -6999,9 +7365,6 @@
 					<mainThingDefName>Sarcophagus</mainThingDefName>
 					<thingDefs>
 						<li>Sarcophagus</li>
-						<li>GM_SarcophagusPropA</li>
-						<li>GM_SarcophagusPropB</li>
-						<li>GM_SarcophagusPropC</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -7310,11 +7673,9 @@
 				</li>
 				<li>
 					<thingKey>butcher spot_building</thingKey>
-					<mainThingDefName>MA_FlatButcherBlock</mainThingDefName>
-					<deduplicationEnabled>True</deduplicationEnabled>
+					<mainThingDefName>ButcherSpot</mainThingDefName>
 					<thingDefs>
 						<li>ButcherSpot</li>
-						<li>MA_FlatButcherBlock</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -7328,27 +7689,27 @@
 				</li>
 				<li>
 					<thingKey>butcher table_building</thingKey>
-					<mainThingDefName>TableButcher</mainThingDefName>
+					<mainThingDefName>UFLI_Butcher</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>TableButcher</li>
+						<li>UFLI_Butcher</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hand tailor bench_building</thingKey>
-					<mainThingDefName>HandTailoringBench</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>HandTailoringBench</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>electric tailor bench_building</thingKey>
-					<mainThingDefName>ElectricTailoringBench</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>ElectricTailoringBench</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>fueled smithy_building</thingKey>
@@ -7376,11 +7737,10 @@
 				</li>
 				<li>
 					<thingKey>electric stove_building</thingKey>
-					<mainThingDefName>ElectricStove</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>ElectricStove</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>fueled stove_building</thingKey>
@@ -12562,9 +12922,11 @@
 				</li>
 				<li>
 					<thingKey>school desk_building</thingKey>
-					<mainThingDefName>SchoolDesk</mainThingDefName>
+					<mainThingDefName>UFLI_SchoolDesk</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>SchoolDesk</li>
+						<li>UFLI_SchoolDesk</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -12586,9 +12948,11 @@
 				</li>
 				<li>
 					<thingKey>crib_building</thingKey>
-					<mainThingDefName>Crib</mainThingDefName>
+					<mainThingDefName>UFLI_Crib</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Crib</li>
+						<li>UFLI_Crib</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -13495,6 +13859,7 @@
 						<li>ToxicFlood</li>
 						<li>SpringFlood</li>
 						<li>AB_MutagenicOcularWaterFlood</li>
+						<li>ND_FloodShallow</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -15684,7 +16049,6 @@
 					<mainThingDefName>Mink</mainThingDefName>
 					<thingDefs>
 						<li>Mink</li>
-						<li>ERN_Mink</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -15733,7 +16097,6 @@
 					<mainThingDefName>Armadillo</mainThingDefName>
 					<thingDefs>
 						<li>Armadillo</li>
-						<li>ERN_Armadillo</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -17459,6 +17822,7 @@
 					<mainThingDefName>K4G_Apparel_LabCoat</mainThingDefName>
 					<thingDefs>
 						<li>K4G_Apparel_LabCoat</li>
+						<li>LabCoat</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -23393,11 +23757,10 @@
 				</li>
 				<li>
 					<thingKey>fancy futon_building</thingKey>
-					<mainThingDefName>HS_FancyFuton</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>HS_FancyFuton</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>koto_building</thingKey>
@@ -24153,201 +24516,151 @@
 				<li>
 					<thingKey>amaro_pawn</thingKey>
 					<mainThingDefName>ERN_Amaro</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Amaro</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>grand carbuncle_pawn</thingKey>
 					<mainThingDefName>ERN_BigCarbuncle</mainThingDefName>
-					<thingDefs>
-						<li>ERN_BigCarbuncle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>carbuncle_pawn</thingKey>
 					<mainThingDefName>ERN_Carbuncle</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Carbuncle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>chocobo_pawn</thingKey>
 					<mainThingDefName>ERN_Chocobo</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Chocobo</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amar egg (unfert.)_item</thingKey>
 					<mainThingDefName>ERN_EggAmaroUnfertilized</mainThingDefName>
-					<thingDefs>
-						<li>ERN_EggAmaroUnfertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amaro egg (fert.)_item</thingKey>
 					<mainThingDefName>EggAmaroFertilized</mainThingDefName>
-					<thingDefs>
-						<li>EggAmaroFertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amaro skin_item</thingKey>
 					<mainThingDefName>Leather_Amaro</mainThingDefName>
-					<thingDefs>
-						<li>Leather_Amaro</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>carbuncle fur_item</thingKey>
 					<mainThingDefName>Fur_Carbuncle</mainThingDefName>
-					<thingDefs>
-						<li>Fur_Carbuncle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>carbuncle gem_item</thingKey>
 					<mainThingDefName>ERN_CarbuncleGem</mainThingDefName>
-					<thingDefs>
-						<li>ERN_CarbuncleGem</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>chocobo egg (fert.)_item</thingKey>
 					<mainThingDefName>EggChocoboFertilized</mainThingDefName>
-					<thingDefs>
-						<li>EggChocoboFertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>chocobo egg (unfert.)_item</thingKey>
 					<mainThingDefName>ERN_EggChocoboUnfertilized</mainThingDefName>
-					<thingDefs>
-						<li>ERN_EggChocoboUnfertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>argali wool_item</thingKey>
 					<mainThingDefName>WoolArgali</mainThingDefName>
-					<thingDefs>
-						<li>WoolArgali</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ptarmigan egg (unfert.)_item</thingKey>
 					<mainThingDefName>EggPtarmiganUnfertilized</mainThingDefName>
-					<thingDefs>
-						<li>EggPtarmiganUnfertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ptarmigan egg (fert.)_item</thingKey>
 					<mainThingDefName>EggPtarmiganFertilized</mainThingDefName>
-					<thingDefs>
-						<li>EggPtarmiganFertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>snow leopard_pawn</thingKey>
 					<mainThingDefName>ERN_SnowLeopard</mainThingDefName>
-					<thingDefs>
-						<li>ERN_SnowLeopard</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pika_pawn</thingKey>
 					<mainThingDefName>ERN_Pika</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Pika</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pallas' cat_pawn</thingKey>
 					<mainThingDefName>ERN_PallasCat</mainThingDefName>
-					<thingDefs>
-						<li>ERN_PallasCat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>argali_pawn</thingKey>
 					<mainThingDefName>ERN_Argali</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Argali</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>opossum_pawn</thingKey>
 					<mainThingDefName>ERN_Opossum</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Opossum</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ferret_pawn</thingKey>
 					<mainThingDefName>ERN_Ferret</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Ferret</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>red panda_pawn</thingKey>
 					<mainThingDefName>ERN_Redpanda</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Redpanda</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ptarmigan_pawn</thingKey>
 					<mainThingDefName>ERN_ptarmigan</mainThingDefName>
-					<thingDefs>
-						<li>ERN_ptarmigan</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>grey fox_pawn</thingKey>
 					<mainThingDefName>ERN_Greyfox</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Greyfox</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hedgehog_pawn</thingKey>
 					<mainThingDefName>ERN_Hedgehog</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Hedgehog</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gartersnake_pawn</thingKey>
 					<mainThingDefName>ERN_Gartersnake</mainThingDefName>
-					<thingDefs>
-						<li>ERN_Gartersnake</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -24360,35 +24673,37 @@
 				</li>
 				<li>
 					<thingKey>futon (floral)_building</thingKey>
-					<mainThingDefName>Erin_FutonA</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>Erin_FutonA</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>futon (koi)_building</thingKey>
-					<mainThingDefName>Erin_FutonB</mainThingDefName>
+					<mainThingDefName>HS_FancyFuton</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Erin_FutonB</li>
+						<li>HS_FancyFuton</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>double futon (birds)_building</thingKey>
-					<mainThingDefName>Erin_DoubleFutonA</mainThingDefName>
+					<mainThingDefName>HS_FancyFutonDouble</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Erin_DoubleFutonA</li>
+						<li>HS_FancyFutonDouble</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>double futon (floral)_building</thingKey>
-					<mainThingDefName>Erin_DoubleFutonB</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>Erin_DoubleFutonB</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>tatami (1x2)_building</thingKey>
@@ -25501,897 +25816,673 @@
 				<li>
 					<thingKey>sporemole burrow_building</thingKey>
 					<mainThingDefName>MA_SporemoleBurrow</mainThingDefName>
-					<thingDefs>
-						<li>MA_SporemoleBurrow</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fungal bones_building</thingKey>
 					<mainThingDefName>MA_SporemoleBones</mainThingDefName>
-					<thingDefs>
-						<li>MA_SporemoleBones</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>harpeagle nest_building</thingKey>
 					<mainThingDefName>MA_HarpeagleNest</mainThingDefName>
-					<thingDefs>
-						<li>MA_HarpeagleNest</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>plastemmoth tusk_item</thingKey>
 					<mainThingDefName>MA_PlastemmothTusk</mainThingDefName>
-					<thingDefs>
-						<li>MA_PlastemmothTusk</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deermoss horn_item</thingKey>
 					<mainThingDefName>MA_DeermossHorn</mainThingDefName>
-					<thingDefs>
-						<li>MA_DeermossHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>emberheart_item</thingKey>
 					<mainThingDefName>MA_Emberheart</mainThingDefName>
-					<thingDefs>
-						<li>MA_Emberheart</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>scar saber-tooth_item</thingKey>
 					<mainThingDefName>MA_ScarSaberTooth</mainThingDefName>
-					<thingDefs>
-						<li>MA_ScarSaberTooth</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gnaut horn_item</thingKey>
 					<mainThingDefName>MA_GnautHorn</mainThingDefName>
-					<thingDefs>
-						<li>MA_GnautHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>duskhorn horn_item</thingKey>
 					<mainThingDefName>MA_DuskhornHorn</mainThingDefName>
-					<thingDefs>
-						<li>MA_DuskhornHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raptorkhan claw_item</thingKey>
 					<mainThingDefName>MA_RaptorkhanClaw</mainThingDefName>
-					<thingDefs>
-						<li>MA_RaptorkhanClaw</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hellboar liver_item</thingKey>
 					<mainThingDefName>MA_HellboarLiver</mainThingDefName>
-					<thingDefs>
-						<li>MA_HellboarLiver</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>harpeagle oily feather_item</thingKey>
 					<mainThingDefName>MA_HarpeagleFeather</mainThingDefName>
-					<thingDefs>
-						<li>MA_HarpeagleFeather</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>brontorhin_item</thingKey>
 					<mainThingDefName>MA_Brontorhin</mainThingDefName>
-					<thingDefs>
-						<li>MA_Brontorhin</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sivatherium horn_item</thingKey>
 					<mainThingDefName>MA_SivatheriumHorn</mainThingDefName>
-					<thingDefs>
-						<li>MA_SivatheriumHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>aminox horn_item</thingKey>
 					<mainThingDefName>MA_AminoxHorn</mainThingDefName>
-					<thingDefs>
-						<li>MA_AminoxHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>capryak horn_item</thingKey>
 					<mainThingDefName>MA_CapryakHorn</mainThingDefName>
-					<thingDefs>
-						<li>MA_CapryakHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mossmire draught_item</thingKey>
 					<mainThingDefName>MA_MossmireDraught</mainThingDefName>
-					<thingDefs>
-						<li>MA_MossmireDraught</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>duskyakult_item</thingKey>
 					<mainThingDefName>MA_Duskyakult</mainThingDefName>
-					<thingDefs>
-						<li>MA_Duskyakult</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>caprodka_item</thingKey>
 					<mainThingDefName>MA_Caprodka</mainThingDefName>
-					<thingDefs>
-						<li>MA_Caprodka</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amine serum_item</thingKey>
 					<mainThingDefName>MA_AmineSerum</mainThingDefName>
-					<thingDefs>
-						<li>MA_AmineSerum</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>scarodon heart potion_item</thingKey>
 					<mainThingDefName>MA_ScarodonHeartPotion</mainThingDefName>
-					<thingDefs>
-						<li>MA_ScarodonHeartPotion</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hellboar liver potion_item</thingKey>
 					<mainThingDefName>MA_HellboarLiverPotion</mainThingDefName>
-					<thingDefs>
-						<li>MA_HellboarLiverPotion</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sivadust ivory potion_item</thingKey>
 					<mainThingDefName>MA_SivaDustIvoryPotion</mainThingDefName>
-					<thingDefs>
-						<li>MA_SivaDustIvoryPotion</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>capryak cheese_item</thingKey>
 					<mainThingDefName>MA_CapryakCheese</mainThingDefName>
-					<thingDefs>
-						<li>MA_CapryakCheese</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>duskhorn cheese_item</thingKey>
 					<mainThingDefName>MA_DuskhornCheese</mainThingDefName>
-					<thingDefs>
-						<li>MA_DuskhornCheese</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>aminox blue cheese_item</thingKey>
 					<mainThingDefName>MA_AminoxBlueCheese</mainThingDefName>
-					<thingDefs>
-						<li>MA_AminoxBlueCheese</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>scarodon heart slices_item</thingKey>
 					<mainThingDefName>MA_EmberheartSlices</mainThingDefName>
-					<thingDefs>
-						<li>MA_EmberheartSlices</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slice hellboar liver_item</thingKey>
 					<mainThingDefName>MA_HellboarLiverSlice</mainThingDefName>
-					<thingDefs>
-						<li>MA_HellboarLiverSlice</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>skyfeather pipe_item</thingKey>
 					<mainThingDefName>MA_SkyfeatherPipe</mainThingDefName>
-					<thingDefs>
-						<li>MA_SkyfeatherPipe</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sivadust ivory_item</thingKey>
 					<mainThingDefName>MA_SivaDustIvory</mainThingDefName>
-					<thingDefs>
-						<li>MA_SivaDustIvory</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fat kibble_item</thingKey>
 					<mainThingDefName>MA_Fatkibble</mainThingDefName>
-					<thingDefs>
-						<li>MA_Fatkibble</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>megabacon_item</thingKey>
 					<mainThingDefName>MA_MegaBacon</mainThingDefName>
-					<thingDefs>
-						<li>MA_MegaBacon</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>megabeef_item</thingKey>
 					<mainThingDefName>MA_MegaBeef</mainThingDefName>
-					<thingDefs>
-						<li>MA_MegaBeef</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fried legs_item</thingKey>
 					<mainThingDefName>MA_FriedLegs</mainThingDefName>
-					<thingDefs>
-						<li>MA_FriedLegs</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>marrow jelly_item</thingKey>
 					<mainThingDefName>MA_MarrowJelly</mainThingDefName>
-					<thingDefs>
-						<li>MA_MarrowJelly</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>wild butter_item</thingKey>
 					<mainThingDefName>MA_WildButter</mainThingDefName>
-					<thingDefs>
-						<li>MA_WildButter</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant fried egg_item</thingKey>
 					<mainThingDefName>MA_GiantFriedEgg</mainThingDefName>
-					<thingDefs>
-						<li>MA_GiantFriedEgg</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>wild fat_item</thingKey>
 					<mainThingDefName>MA_WildFat</mainThingDefName>
-					<thingDefs>
-						<li>MA_WildFat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mycorgloom spore_item</thingKey>
 					<mainThingDefName>MA_MycorgloomSpore</mainThingDefName>
-					<thingDefs>
-						<li>MA_MycorgloomSpore</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>meatshroom bolus_item</thingKey>
 					<mainThingDefName>MA_MeatshroomBolus</mainThingDefName>
-					<thingDefs>
-						<li>MA_MeatshroomBolus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>plastemmoth meat_item</thingKey>
 					<mainThingDefName>MA_PlastemmothMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_PlastemmothMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>scarodon meat_item</thingKey>
 					<mainThingDefName>MA_ScarodonMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_ScarodonMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>duskhorn meat_item</thingKey>
 					<mainThingDefName>MA_DuskhornMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_DuskhornMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>furpotamus meat_item</thingKey>
 					<mainThingDefName>MA_HippoMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_HippoMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raptorkhan parts_item</thingKey>
 					<mainThingDefName>MA_RaptorkhanMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_RaptorkhanMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>harpeagle parts_item</thingKey>
 					<mainThingDefName>MA_HarpeagleLegs</mainThingDefName>
-					<thingDefs>
-						<li>MA_HarpeagleLegs</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>worhin meat_item</thingKey>
 					<mainThingDefName>MA_WorhinMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_WorhinMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gnaut beef_item</thingKey>
 					<mainThingDefName>MA_GnautBeef</mainThingDefName>
-					<thingDefs>
-						<li>MA_GnautBeef</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sporemole meat_item</thingKey>
 					<mainThingDefName>MA_SporemoleMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_SporemoleMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>horse beef_item</thingKey>
 					<mainThingDefName>MA_HorseBeef</mainThingDefName>
-					<thingDefs>
-						<li>MA_HorseBeef</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dunbear meat_item</thingKey>
 					<mainThingDefName>MA_DunbearMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_DunbearMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sivatherium meat_item</thingKey>
 					<mainThingDefName>MA_SivatheriumMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_SivatheriumMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hellboar meat_item</thingKey>
 					<mainThingDefName>MA_HellboarMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_HellboarMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>bird meat_item</thingKey>
 					<mainThingDefName>MA_BirdMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_BirdMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amine meat_item</thingKey>
 					<mainThingDefName>MA_AmineMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_AmineMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>capryak meat_item</thingKey>
 					<mainThingDefName>MA_CapryakMeat</mainThingDefName>
-					<thingDefs>
-						<li>MA_CapryakMeat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mossmire milk_item</thingKey>
 					<mainThingDefName>MA_MossmireMilk</mainThingDefName>
-					<thingDefs>
-						<li>MA_MossmireMilk</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amino milk_item</thingKey>
 					<mainThingDefName>MA_AminoMilk</mainThingDefName>
-					<thingDefs>
-						<li>MA_AminoMilk</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dusk milk_item</thingKey>
 					<mainThingDefName>MA_DuskMilk</mainThingDefName>
-					<thingDefs>
-						<li>MA_DuskMilk</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>capryak milk_item</thingKey>
 					<mainThingDefName>MA_CapryakMilk</mainThingDefName>
-					<thingDefs>
-						<li>MA_CapryakMilk</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>megabone_item</thingKey>
 					<mainThingDefName>MA_MegaBone</mainThingDefName>
-					<thingDefs>
-						<li>MA_MegaBone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>steelbone_item</thingKey>
 					<mainThingDefName>MA_Steelbone</mainThingDefName>
-					<thingDefs>
-						<li>MA_Steelbone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>plastite_item</thingKey>
 					<mainThingDefName>MA_Plastite</mainThingDefName>
-					<thingDefs>
-						<li>MA_Plastite</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>plastehide_item</thingKey>
 					<mainThingDefName>MA_Leather_Plastehide</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Plastehide</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deermoss hide_item</thingKey>
 					<mainThingDefName>MA_Leather_Deermoss</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Deermoss</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>scarodon hide_item</thingKey>
 					<mainThingDefName>MA_Leather_Scarodon</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Scarodon</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>duskhorn leather_item</thingKey>
 					<mainThingDefName>MA_Leather_Duskhorn</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Duskhorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dusk wool_item</thingKey>
 					<mainThingDefName>MA_DuskWool</mainThingDefName>
-					<thingDefs>
-						<li>MA_DuskWool</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>worhin wool_item</thingKey>
 					<mainThingDefName>MA_WorhinWool</mainThingDefName>
-					<thingDefs>
-						<li>MA_WorhinWool</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>furpotamus leather_item</thingKey>
 					<mainThingDefName>MA_Leather_Furpotamus</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Furpotamus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raptorkhan leather_item</thingKey>
 					<mainThingDefName>MA_Leather_Raptorkhan</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Raptorkhan</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hellboar pelt_item</thingKey>
 					<mainThingDefName>MA_Leather_Hellboar</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Hellboar</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>harpeagle leather_item</thingKey>
 					<mainThingDefName>MA_Leather_Harpeagle</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Harpeagle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>worhin hide_item</thingKey>
 					<mainThingDefName>MA_Leather_Worhin</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Worhin</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gnaut hide_item</thingKey>
 					<mainThingDefName>MA_Leather_Gnaut</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Gnaut</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sporemole hide_item</thingKey>
 					<mainThingDefName>MA_Leather_Sporemole</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Sporemole</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>direhorse hide_item</thingKey>
 					<mainThingDefName>MA_Leather_Direhorse</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Direhorse</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>direhorse wool_item</thingKey>
 					<mainThingDefName>MA_DirehorseWool</mainThingDefName>
-					<thingDefs>
-						<li>MA_DirehorseWool</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dunbear hide_item</thingKey>
 					<mainThingDefName>MA_Leather_Dunbear</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Dunbear</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sivatherium hide_item</thingKey>
 					<mainThingDefName>MA_Leather_Sivatherium</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Sivatherium</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>simbakub pelt_item</thingKey>
 					<mainThingDefName>MA_Leather_Simbakub</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Simbakub</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>simbakub alpha pelt_item</thingKey>
 					<mainThingDefName>MA_Leather_SimbakubAlpha</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_SimbakubAlpha</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>aminox pelt_item</thingKey>
 					<mainThingDefName>MA_Leather_Aminox</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Aminox</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>aminox wool_item</thingKey>
 					<mainThingDefName>MA_AminoxWool</mainThingDefName>
-					<thingDefs>
-						<li>MA_AminoxWool</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>capryak pelt_item</thingKey>
 					<mainThingDefName>MA_Leather_Capryak</mainThingDefName>
-					<thingDefs>
-						<li>MA_Leather_Capryak</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>capryak wool_item</thingKey>
 					<mainThingDefName>MA_CapryakWool</mainThingDefName>
-					<thingDefs>
-						<li>MA_CapryakWool</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>aminox_pawn</thingKey>
 					<mainThingDefName>MA_Aminox</mainThingDefName>
-					<thingDefs>
-						<li>MA_Aminox</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>capryak_pawn</thingKey>
 					<mainThingDefName>MA_Capryak</mainThingDefName>
-					<thingDefs>
-						<li>MA_Capryak</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deermoss_pawn</thingKey>
 					<mainThingDefName>MA_Deermoss</mainThingDefName>
-					<thingDefs>
-						<li>MA_Deermoss</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>healmoss fiber_item</thingKey>
 					<mainThingDefName>MA_HealmossFiber</mainThingDefName>
-					<thingDefs>
-						<li>MA_HealmossFiber</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>direhorse_pawn</thingKey>
 					<mainThingDefName>MA_Direhorse</mainThingDefName>
-					<thingDefs>
-						<li>MA_Direhorse</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dunbear_pawn</thingKey>
 					<mainThingDefName>MA_Dunbear</mainThingDefName>
-					<thingDefs>
-						<li>MA_Dunbear</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>duskhorn_pawn</thingKey>
 					<mainThingDefName>MA_Duskhorn</mainThingDefName>
-					<thingDefs>
-						<li>MA_Duskhorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>furpotamus_pawn</thingKey>
 					<mainThingDefName>MA_Furpotamus</mainThingDefName>
-					<thingDefs>
-						<li>MA_Furpotamus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gnaut_pawn</thingKey>
 					<mainThingDefName>MA_Gnaut</mainThingDefName>
-					<thingDefs>
-						<li>MA_Gnaut</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>harpeagle_pawn</thingKey>
 					<mainThingDefName>MA_Harpeagle</mainThingDefName>
-					<thingDefs>
-						<li>MA_Harpeagle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>harpeagle egg (unfert.)_item</thingKey>
 					<mainThingDefName>MA_HarpeagleEggUnfertilized</mainThingDefName>
-					<thingDefs>
-						<li>MA_HarpeagleEggUnfertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>harpeagle egg (fert.)_item</thingKey>
 					<mainThingDefName>MA_HarpeagleEggFertilized</mainThingDefName>
-					<thingDefs>
-						<li>MA_HarpeagleEggFertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hellboar_pawn</thingKey>
 					<mainThingDefName>MA_Hellboar</mainThingDefName>
-					<thingDefs>
-						<li>MA_Hellboar</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>manehound_pawn</thingKey>
 					<mainThingDefName>MA_Manehound</mainThingDefName>
-					<thingDefs>
-						<li>MA_Manehound</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>narkospider_pawn</thingKey>
 					<mainThingDefName>MA_Narkospider</mainThingDefName>
-					<thingDefs>
-						<li>MA_Narkospider</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>plastemmoth_pawn</thingKey>
 					<mainThingDefName>MA_Plastemmoth</mainThingDefName>
-					<thingDefs>
-						<li>MA_Plastemmoth</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>plastemmoth alpha_pawn</thingKey>
 					<mainThingDefName>MA_PlastemmothAlpha</mainThingDefName>
-					<thingDefs>
-						<li>MA_PlastemmothAlpha</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raptorkhan_pawn</thingKey>
 					<mainThingDefName>MA_Raptorkhan</mainThingDefName>
-					<thingDefs>
-						<li>MA_Raptorkhan</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raptorkhan egg (unfert.)_item</thingKey>
 					<mainThingDefName>MA_RaptorkhanEggUnfertilized</mainThingDefName>
-					<thingDefs>
-						<li>MA_RaptorkhanEggUnfertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raptorkhan egg (fert.)_item</thingKey>
 					<mainThingDefName>MA_RaptorkhanEggFertilized</mainThingDefName>
-					<thingDefs>
-						<li>MA_RaptorkhanEggFertilized</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>scarodon_pawn</thingKey>
 					<mainThingDefName>MA_Scarodon</mainThingDefName>
-					<thingDefs>
-						<li>MA_Scarodon</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>simbakub_pawn</thingKey>
 					<mainThingDefName>MA_Simbakub</mainThingDefName>
-					<thingDefs>
-						<li>MA_Simbakub</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>simbakub alpha_pawn</thingKey>
 					<mainThingDefName>MA_SimbakubAlpha</mainThingDefName>
-					<thingDefs>
-						<li>MA_SimbakubAlpha</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sivatherium_pawn</thingKey>
 					<mainThingDefName>MA_Sivatherium</mainThingDefName>
-					<thingDefs>
-						<li>MA_Sivatherium</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sporemole_pawn</thingKey>
 					<mainThingDefName>MA_Sporemole</mainThingDefName>
-					<thingDefs>
-						<li>MA_Sporemole</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>worhin_pawn</thingKey>
 					<mainThingDefName>MA_Worhin</mainThingDefName>
-					<thingDefs>
-						<li>MA_Worhin</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -26404,25 +26495,19 @@
 				<li>
 					<thingKey>mythic crafting spot_building</thingKey>
 					<mainThingDefName>MA_MythicCraftingSpot</mainThingDefName>
-					<thingDefs>
-						<li>MA_MythicCraftingSpot</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flat crafting bench_building</thingKey>
 					<mainThingDefName>MA_FlatCraftingBench</mainThingDefName>
-					<thingDefs>
-						<li>MA_FlatCraftingBench</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flat cooking table_building</thingKey>
-					<mainThingDefName>MA_FlatCookingTable</mainThingDefName>
-					<deduplicationEnabled>True</deduplicationEnabled>
+					<mainThingDefName>FueledStove</mainThingDefName>
 					<thingDefs>
-						<li>MA_FlatCookingTable</li>
 						<li>FueledStove</li>
 					</thingDefs>
 					<removedDefs />
@@ -26430,73 +26515,55 @@
 				<li>
 					<thingKey>verdant bow_item</thingKey>
 					<mainThingDefName>MA_VerdantBow</mainThingDefName>
-					<thingDefs>
-						<li>MA_VerdantBow</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>capryak scatterbow_item</thingKey>
 					<mainThingDefName>MA_CapryakScatterbow</mainThingDefName>
-					<thingDefs>
-						<li>MA_CapryakScatterbow</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rhinhammer_item</thingKey>
 					<mainThingDefName>MA_Rhinhammer</mainThingDefName>
-					<thingDefs>
-						<li>MA_Rhinhammer</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>claw saber_item</thingKey>
 					<mainThingDefName>MA_ClawSaber</mainThingDefName>
-					<thingDefs>
-						<li>MA_ClawSaber</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>scarodon fang dagger_item</thingKey>
 					<mainThingDefName>MA_ScarodonFangDagger</mainThingDefName>
-					<thingDefs>
-						<li>MA_ScarodonFangDagger</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>megabone club_item</thingKey>
 					<mainThingDefName>MA_MegaboneClub</mainThingDefName>
-					<thingDefs>
-						<li>MA_MegaboneClub</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gnaut horn mace_item</thingKey>
 					<mainThingDefName>MA_GnautHornMace</mainThingDefName>
-					<thingDefs>
-						<li>MA_GnautHornMace</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dusk spear_item</thingKey>
 					<mainThingDefName>MA_DuskSpear</mainThingDefName>
-					<thingDefs>
-						<li>MA_DuskSpear</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>aminox warmaul_item</thingKey>
 					<mainThingDefName>MA_AminoxWarmaul</mainThingDefName>
-					<thingDefs>
-						<li>MA_AminoxWarmaul</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -26911,633 +26978,475 @@
 				<li>
 					<thingKey>pfs crib_building</thingKey>
 					<mainThingDefName>PFS_Crib</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Crib</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs pitcher_building</thingKey>
 					<mainThingDefName>PFS_DecoTablewareA</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DecoTablewareA</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs fruit bowl_building</thingKey>
 					<mainThingDefName>PFS_DecoTablewareB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DecoTablewareB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs teacup_building</thingKey>
 					<mainThingDefName>PFS_DecoTablewareC</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DecoTablewareC</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs blue glass_building</thingKey>
 					<mainThingDefName>PFS_DecoTablewareD</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DecoTablewareD</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs artificial rose_building</thingKey>
 					<mainThingDefName>PFS_DecoTablewareE</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DecoTablewareE</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs tabletop plant_building</thingKey>
 					<mainThingDefName>PFS_TabletopPlant</mainThingDefName>
-					<thingDefs>
-						<li>PFS_TabletopPlant</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs metal teddy bear_building</thingKey>
 					<mainThingDefName>PFS_MetalTeddyBear</mainThingDefName>
-					<thingDefs>
-						<li>PFS_MetalTeddyBear</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs obsidian figurine_building</thingKey>
 					<mainThingDefName>PFS_ObsidianFigurine</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ObsidianFigurine</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs holo glass panel_building</thingKey>
 					<mainThingDefName>PFS_HoloGlassPanel</mainThingDefName>
-					<thingDefs>
-						<li>PFS_HoloGlassPanel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs mini holo glass_building</thingKey>
 					<mainThingDefName>PFS_MiniHoloGlass</mainThingDefName>
-					<thingDefs>
-						<li>PFS_MiniHoloGlass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs holo glass desktop_building</thingKey>
 					<mainThingDefName>PFS_HoloGlassDesktop</mainThingDefName>
-					<thingDefs>
-						<li>PFS_HoloGlassDesktop</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs doorframe a_building</thingKey>
 					<mainThingDefName>PFS_DoorFrameA</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DoorFrameA</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs doorframe b_building</thingKey>
 					<mainThingDefName>PFS_DoorFrameB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DoorFrameB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs doorframe c_building</thingKey>
 					<mainThingDefName>PFS_DoorFrameC</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DoorFrameC</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs door slope_building</thingKey>
 					<mainThingDefName>PFS_DoorSlope</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DoorSlope</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs bed_building</thingKey>
 					<mainThingDefName>PFS_Bed</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Bed</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs double bed_building</thingKey>
 					<mainThingDefName>PFS_DoubleBed</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DoubleBed</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs bedb_building</thingKey>
 					<mainThingDefName>PFS_BedB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_BedB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs double bedb_building</thingKey>
 					<mainThingDefName>PFS_DoubleBedB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DoubleBedB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs royal bed_building</thingKey>
 					<mainThingDefName>PFS_RoyalBed</mainThingDefName>
-					<thingDefs>
-						<li>PFS_RoyalBed</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs bedroll_building</thingKey>
 					<mainThingDefName>PFS_Bedroll</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Bedroll</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs animal bed_building</thingKey>
 					<mainThingDefName>PFS_AnimalBed</mainThingDefName>
-					<thingDefs>
-						<li>PFS_AnimalBed</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs end table_building</thingKey>
 					<mainThingDefName>PFS_EndTable</mainThingDefName>
-					<thingDefs>
-						<li>PFS_EndTable</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs table (1x1) a_building</thingKey>
 					<mainThingDefName>PFS_TableMini</mainThingDefName>
-					<thingDefs>
-						<li>PFS_TableMini</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs table (1x1) b_building</thingKey>
 					<mainThingDefName>PFS_TableMiniB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_TableMiniB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs table (2x1)_building</thingKey>
 					<mainThingDefName>PFS_TableB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_TableB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs table (2x1) b_building</thingKey>
 					<mainThingDefName>PFS_TableC</mainThingDefName>
-					<thingDefs>
-						<li>PFS_TableC</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs hexatable (2x2)_building</thingKey>
 					<mainThingDefName>PFS_HexaTable</mainThingDefName>
-					<thingDefs>
-						<li>PFS_HexaTable</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs z-frame table (2x2)_building</thingKey>
 					<mainThingDefName>PFS_ZFrameTable</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ZFrameTable</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs table (3x2)_building</thingKey>
 					<mainThingDefName>PFS_Table3x2a</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Table3x2a</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs stool a_building</thingKey>
 					<mainThingDefName>PFS_Stool</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Stool</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs stool b_building</thingKey>
 					<mainThingDefName>PFS_StoolB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_StoolB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs dining chair_building</thingKey>
 					<mainThingDefName>PFS_DiningChair</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DiningChair</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs armchair a_building</thingKey>
 					<mainThingDefName>PFS_Armchair</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Armchair</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs armchair b_building</thingKey>
 					<mainThingDefName>PFS_ArmchairB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ArmchairB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs couch_building</thingKey>
 					<mainThingDefName>PFS_Couch</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Couch</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs cube light_building</thingKey>
 					<mainThingDefName>PFS_CubeLight</mainThingDefName>
-					<thingDefs>
-						<li>PFS_CubeLight</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs tri-light_building</thingKey>
 					<mainThingDefName>PFS_TriLight</mainThingDefName>
-					<thingDefs>
-						<li>PFS_TriLight</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs floorline light_building</thingKey>
 					<mainThingDefName>PFS_FloorlineLight</mainThingDefName>
-					<thingDefs>
-						<li>PFS_FloorlineLight</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs dresser a_building</thingKey>
 					<mainThingDefName>PFS_DresserA</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DresserA</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs dresser b_building</thingKey>
 					<mainThingDefName>PFS_DresserB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DresserB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs poker table_building</thingKey>
 					<mainThingDefName>PFS_PokerTable</mainThingDefName>
-					<thingDefs>
-						<li>PFS_PokerTable</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs billiards table_building</thingKey>
 					<mainThingDefName>PFS_BilliardsTable</mainThingDefName>
-					<thingDefs>
-						<li>PFS_BilliardsTable</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs firefoam popper_building</thingKey>
 					<mainThingDefName>PFS_FirefoamPopper</mainThingDefName>
-					<thingDefs>
-						<li>PFS_FirefoamPopper</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs barricade_building</thingKey>
 					<mainThingDefName>PFS_Barricade</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Barricade</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs small shelf_building</thingKey>
 					<mainThingDefName>PFS_ShelfSmall</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ShelfSmall</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs steel door_building</thingKey>
 					<mainThingDefName>PFS_SteelDoor</mainThingDefName>
-					<thingDefs>
-						<li>PFS_SteelDoor</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs autodoorb_building</thingKey>
 					<mainThingDefName>PFS_AutodoorB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_AutodoorB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs autodoorc_building</thingKey>
 					<mainThingDefName>PFS_AutodoorC</mainThingDefName>
-					<thingDefs>
-						<li>PFS_AutodoorC</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs holo glass autodoor_building</thingKey>
 					<mainThingDefName>PFS_HoloGlassAutodoor</mainThingDefName>
-					<thingDefs>
-						<li>PFS_HoloGlassAutodoor</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs column a_building</thingKey>
 					<mainThingDefName>PFS_ColumnA</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ColumnA</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs column b_building</thingKey>
 					<mainThingDefName>PFS_ColumnB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ColumnB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs column c_building</thingKey>
 					<mainThingDefName>PFS_ColumnC</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ColumnC</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs heater_building</thingKey>
 					<mainThingDefName>PFS_Heater</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Heater</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs white hull plating_terrain</thingKey>
 					<mainThingDefName>PFS_WhitePanel</mainThingDefName>
-					<thingDefs>
-						<li>PFS_WhitePanel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs gray hull plating_terrain</thingKey>
 					<mainThingDefName>PFS_GrayPanel</mainThingDefName>
-					<thingDefs>
-						<li>PFS_GrayPanel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs black hull plating_terrain</thingKey>
 					<mainThingDefName>PFS_BlackPanel</mainThingDefName>
-					<thingDefs>
-						<li>PFS_BlackPanel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs white hull plating b_terrain</thingKey>
 					<mainThingDefName>PFS_WhitePanelB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_WhitePanelB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs gray hull plating b_terrain</thingKey>
 					<mainThingDefName>PFS_GrayPanelB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_GrayPanelB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs black hull plating b_terrain</thingKey>
 					<mainThingDefName>PFS_BlackPanelB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_BlackPanelB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs composite hull plating_terrain</thingKey>
 					<mainThingDefName>PFS_CompositePanel</mainThingDefName>
-					<thingDefs>
-						<li>PFS_CompositePanel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs gray composite hull plating_terrain</thingKey>
 					<mainThingDefName>PFS_CompositePanel_Gray</mainThingDefName>
-					<thingDefs>
-						<li>PFS_CompositePanel_Gray</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs black composite hull plating_terrain</thingKey>
 					<mainThingDefName>PFS_CompositePanel_Black</mainThingDefName>
-					<thingDefs>
-						<li>PFS_CompositePanel_Black</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs rust grate_terrain</thingKey>
 					<mainThingDefName>PFS_RustGrate</mainThingDefName>
-					<thingDefs>
-						<li>PFS_RustGrate</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs hexa tile_terrain</thingKey>
 					<mainThingDefName>PFS_HexaTile</mainThingDefName>
-					<thingDefs>
-						<li>PFS_HexaTile</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs hexa tile b_terrain</thingKey>
 					<mainThingDefName>PFS_HexaTileB</mainThingDefName>
-					<thingDefs>
-						<li>PFS_HexaTileB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs tron tile_terrain</thingKey>
 					<mainThingDefName>PFS_TRONTile</mainThingDefName>
-					<thingDefs>
-						<li>PFS_TRONTile</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs white tile_terrain</thingKey>
 					<mainThingDefName>PFS_WhiteTile</mainThingDefName>
-					<thingDefs>
-						<li>PFS_WhiteTile</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs gray tile_terrain</thingKey>
 					<mainThingDefName>PFS_GrayTile</mainThingDefName>
-					<thingDefs>
-						<li>PFS_GrayTile</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs black tile_terrain</thingKey>
 					<mainThingDefName>PFS_BlackTile</mainThingDefName>
-					<thingDefs>
-						<li>PFS_BlackTile</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs clear blue tile_terrain</thingKey>
 					<mainThingDefName>PFS_ClearBlueTile</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ClearBlueTile</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs clear gray tile_terrain</thingKey>
 					<mainThingDefName>PFS_ClearGrayTile</mainThingDefName>
-					<thingDefs>
-						<li>PFS_ClearGrayTile</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs luminous flooring_terrain</thingKey>
 					<mainThingDefName>PFS_LuminousFlooring</mainThingDefName>
-					<thingDefs>
-						<li>PFS_LuminousFlooring</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs lf | cool gray_terrain</thingKey>
 					<mainThingDefName>PFS_LF_CoolGray</mainThingDefName>
-					<thingDefs>
-						<li>PFS_LF_CoolGray</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs lf | cold black_terrain</thingKey>
 					<mainThingDefName>PFS_LF_Black</mainThingDefName>
-					<thingDefs>
-						<li>PFS_LF_Black</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs lf | dusty amethyst_terrain</thingKey>
 					<mainThingDefName>PFS_LF_DustyAmethyst</mainThingDefName>
-					<thingDefs>
-						<li>PFS_LF_DustyAmethyst</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs lf | mint_terrain</thingKey>
 					<mainThingDefName>PFS_LF_Mint</mainThingDefName>
-					<thingDefs>
-						<li>PFS_LF_Mint</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs lf | cyan_terrain</thingKey>
 					<mainThingDefName>PFS_LF_Cyan</mainThingDefName>
-					<thingDefs>
-						<li>PFS_LF_Cyan</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -27808,17 +27717,13 @@
 				<li>
 					<thingKey>research document_item</thingKey>
 					<mainThingDefName>ResearchPaper</mainThingDefName>
-					<thingDefs>
-						<li>ResearchPaper</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>research server_building</thingKey>
 					<mainThingDefName>ResearchServer</mainThingDefName>
-					<thingDefs>
-						<li>ResearchServer</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -28836,17 +28741,13 @@
 				<li>
 					<thingKey>ビッグポメの毛_item</thingKey>
 					<mainThingDefName>Wool_UNAGIBIGpome</mainThingDefName>
-					<thingDefs>
-						<li>Wool_UNAGIBIGpome</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ビッグポメ_pawn</thingKey>
 					<mainThingDefName>UNAGIBIGpome</mainThingDefName>
-					<thingDefs>
-						<li>UNAGIBIGpome</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -40674,7 +40575,6 @@
 					<mainThingDefName>AP_StoneBench</mainThingDefName>
 					<thingDefs>
 						<li>AP_StoneBench</li>
-						<li>GM_1x2BenchProp</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -43198,229 +43098,163 @@
 				<li>
 					<thingKey>empty grave_building</thingKey>
 					<mainThingDefName>GM_EmptyGraveProps</mainThingDefName>
-					<thingDefs>
-						<li>GM_EmptyGraveProps</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>filled grave_building</thingKey>
 					<mainThingDefName>GM_FilledGraveProps</mainThingDefName>
-					<thingDefs>
-						<li>GM_FilledGraveProps</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>random headstone_building</thingKey>
 					<mainThingDefName>GM_RandomHeadstone</mainThingDefName>
-					<thingDefs>
-						<li>GM_RandomHeadstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>saint statue_building</thingKey>
 					<mainThingDefName>GM_StatueSaint</mainThingDefName>
-					<thingDefs>
-						<li>GM_StatueSaint</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rope grave fence_building</thingKey>
 					<mainThingDefName>GM_GraveFenceRope</mainThingDefName>
-					<thingDefs>
-						<li>GM_GraveFenceRope</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>wooden grave fence_building</thingKey>
 					<mainThingDefName>GM_GraveFenceWood</mainThingDefName>
-					<thingDefs>
-						<li>GM_GraveFenceWood</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>brick grave fence_building</thingKey>
 					<mainThingDefName>GM_GraveFenceBrick</mainThingDefName>
-					<thingDefs>
-						<li>GM_GraveFenceBrick</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>grave fence_building</thingKey>
 					<mainThingDefName>GM_GraveFencePlain</mainThingDefName>
-					<thingDefs>
-						<li>GM_GraveFencePlain</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>grave fence cover_building</thingKey>
 					<mainThingDefName>GM_GraveFenceCoverA</mainThingDefName>
-					<thingDefs>
-						<li>GM_GraveFenceCoverA</li>
-						<li>GM_GraveFenceCoverB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>waruga_building</thingKey>
 					<mainThingDefName>GM_SarcophagusPropD</mainThingDefName>
-					<thingDefs>
-						<li>GM_SarcophagusPropD</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>large columbarium_building</thingKey>
 					<mainThingDefName>GM_ColumbariumPropA</mainThingDefName>
-					<thingDefs>
-						<li>GM_ColumbariumPropA</li>
-						<li>GM_ColumbariumPropB</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>wrapped corpse_building</thingKey>
 					<mainThingDefName>GM_WrappedCorpseProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_WrappedCorpseProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>covered corpse_building</thingKey>
 					<mainThingDefName>GM_CoveredCorpseProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_CoveredCorpseProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>corpse preparation table_building</thingKey>
 					<mainThingDefName>GM_CorpsePrepTableProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_CorpsePrepTableProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>embalming pump_building</thingKey>
 					<mainThingDefName>GM_EmbalmingPumpProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_EmbalmingPumpProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>embalming fluids_building</thingKey>
 					<mainThingDefName>GM_EmbalmingFluidProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_EmbalmingFluidProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>small bouquet_building</thingKey>
 					<mainThingDefName>GM_SmallBouquetProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_SmallBouquetProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>large bouquet_building</thingKey>
 					<mainThingDefName>GM_LargeBouquetProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_LargeBouquetProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mourning wreath_building</thingKey>
 					<mainThingDefName>GM_FlowerWreathProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_FlowerWreathProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>incense sticks_building</thingKey>
 					<mainThingDefName>GM_IncenseStickProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_IncenseStickProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>small doll_building</thingKey>
 					<mainThingDefName>GM_SmallDollProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_SmallDollProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>stone drawing_building</thingKey>
 					<mainThingDefName>GM_StoneDrawingsProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_StoneDrawingsProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>shovel_building</thingKey>
 					<mainThingDefName>GM_ShovelProp</mainThingDefName>
-					<thingDefs>
-						<li>GM_ShovelProp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gravemarker_building</thingKey>
 					<mainThingDefName>GM_HeadstoneT0_WoodPiece</mainThingDefName>
-					<thingDefs>
-						<li>GM_HeadstoneT0_WoodPiece</li>
-						<li>GM_HeadstoneT0_RockPile</li>
-						<li>GM_HeadstoneT1_A</li>
-						<li>GM_HeadstoneT1_B</li>
-						<li>GM_HeadstoneT1_C</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>headstone_building</thingKey>
 					<mainThingDefName>GM_HeadstoneT2_A</mainThingDefName>
-					<thingDefs>
-						<li>GM_HeadstoneT2_A</li>
-						<li>GM_HeadstoneT2_B</li>
-						<li>GM_HeadstoneT2_C</li>
-						<li>GM_Headstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fine headstone_building</thingKey>
 					<mainThingDefName>GM_HeadstoneT3_A</mainThingDefName>
-					<thingDefs>
-						<li>GM_HeadstoneT3_A</li>
-						<li>GM_HeadstoneT3_B</li>
-						<li>GM_HeadstoneT3_C</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>memorial headstone_building</thingKey>
 					<mainThingDefName>GM_HeadstoneT4_A</mainThingDefName>
-					<thingDefs>
-						<li>GM_HeadstoneT4_A</li>
-						<li>GM_HeadstoneT4_B</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -45835,17 +45669,13 @@
 				<li>
 					<thingKey>pfs shelf_building</thingKey>
 					<mainThingDefName>PFS_Shelf</mainThingDefName>
-					<thingDefs>
-						<li>PFS_Shelf</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pfs display pod_building</thingKey>
 					<mainThingDefName>PFS_DisplayPod</mainThingDefName>
-					<thingDefs>
-						<li>PFS_DisplayPod</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -47004,6 +46834,2950 @@
 					<mainThingDefName>LuciferiumCrystals</mainThingDefName>
 					<thingDefs>
 						<li>LuciferiumCrystals</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>airdrop_building</thingKey>
+					<mainThingDefName>Airdrop</mainThingDefName>
+					<thingDefs>
+						<li>Airdrop</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>factory floor_terrain</thingKey>
+					<mainThingDefName>TW_Industrialism_FactoryFloor</mainThingDefName>
+					<thingDefs>
+						<li>TW_Industrialism_FactoryFloor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>emergency light_building</thingKey>
+					<mainThingDefName>TW_Industrialism_EmergencyLight</mainThingDefName>
+					<thingDefs>
+						<li>TW_Industrialism_EmergencyLight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>parking spot_building</thingKey>
+					<mainThingDefName>VAP_ParkingSpot</mainThingDefName>
+					<thingDefs>
+						<li>VAP_ParkingSpot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>weapon book_item</thingKey>
+					<mainThingDefName>WeaponProficiencyBook</mainThingDefName>
+					<thingDefs>
+						<li>WeaponProficiencyBook</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>x-1 cybernetic body defense suit_item</thingKey>
+					<mainThingDefName>Apparel_CyberSuit</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_CyberSuit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>xma-1 "leviathan" mechanized combat armature_item</thingKey>
+					<mainThingDefName>Apparel_Leviathan</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_Leviathan</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>xma-1 "leviathan" mca helmet_item</thingKey>
+					<mainThingDefName>Apparel_LeviathanH</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_LeviathanH</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laboratory counter_building</thingKey>
+					<mainThingDefName>CounterTopModular</mainThingDefName>
+					<thingDefs>
+						<li>CounterTopModular</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laboratory station_building</thingKey>
+					<mainThingDefName>LabStation</mainThingDefName>
+					<thingDefs>
+						<li>LabStation</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>research terminal_building</thingKey>
+					<mainThingDefName>LabTerminal</mainThingDefName>
+					<thingDefs>
+						<li>LabTerminal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>追加装甲（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_Armor1</mainThingDefName>
+					<thingDefs>
+						<li>MMH_Armor1</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>強化装甲（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_Armor2</mainThingDefName>
+					<thingDefs>
+						<li>MMH_Armor2</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>先進装甲（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_Armor3</mainThingDefName>
+					<thingDefs>
+						<li>MMH_Armor3</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>小型ブースター（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_Booster1</mainThingDefName>
+					<thingDefs>
+						<li>MMH_Booster1</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>脚部ブースター（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_Booster2</mainThingDefName>
+					<thingDefs>
+						<li>MMH_Booster2</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>先進コア（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_Booster3</mainThingDefName>
+					<thingDefs>
+						<li>MMH_Booster3</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>強化蹄（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_MechaHoof</mainThingDefName>
+					<thingDefs>
+						<li>MMH_MechaHoof</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>強化顎（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_MechaJaw</mainThingDefName>
+					<thingDefs>
+						<li>MMH_MechaJaw</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>白獣の角（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_ThrumboHorn</mainThingDefName>
+					<thingDefs>
+						<li>MMH_ThrumboHorn</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>白獣王の角（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_AlphaThrumboHorn</mainThingDefName>
+					<thingDefs>
+						<li>MMH_AlphaThrumboHorn</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>機械化ウマ（梱包）_item</thingKey>
+					<mainThingDefName>MMechHorsePackage</mainThingDefName>
+					<thingDefs>
+						<li>MMechHorsePackage</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>機械化ウマ_pawn</thingKey>
+					<mainThingDefName>MM_MechHorse</mainThingDefName>
+					<thingDefs>
+						<li>MM_MechHorse</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>packed snowdrift_building</thingKey>
+					<mainThingDefName>ND_SnowdriftBlocker</mainThingDefName>
+					<thingDefs>
+						<li>ND_SnowdriftBlocker</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>emergency weather radar_building</thingKey>
+					<mainThingDefName>ND_EmergencyWeatherRadar</mainThingDefName>
+					<thingDefs>
+						<li>ND_EmergencyWeatherRadar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>rain-soaked ground_terrain</thingKey>
+					<mainThingDefName>ND_FloodWet</mainThingDefName>
+					<thingDefs>
+						<li>ND_FloodWet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dangerous floodwater_terrain</thingKey>
+					<mainThingDefName>ND_FloodDangerous</mainThingDefName>
+					<thingDefs>
+						<li>ND_FloodDangerous</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>deep floodwater_terrain</thingKey>
+					<mainThingDefName>ND_FloodDeep</mainThingDefName>
+					<thingDefs>
+						<li>ND_FloodDeep</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>extreme floodwater_terrain</thingKey>
+					<mainThingDefName>ND_FloodExtreme</mainThingDefName>
+					<thingDefs>
+						<li>ND_FloodExtreme</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hairline earthquake fractures_terrain</thingKey>
+					<mainThingDefName>ND_CrackedGround</mainThingDefName>
+					<thingDefs>
+						<li>ND_CrackedGround</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fault-fractured ground_terrain</thingKey>
+					<mainThingDefName>ND_FaultFracturedGround</mainThingDefName>
+					<thingDefs>
+						<li>ND_FaultFracturedGround</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laterally spread ground_terrain</thingKey>
+					<mainThingDefName>ND_RubbleGround</mainThingDefName>
+					<thingDefs>
+						<li>ND_RubbleGround</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>earthquake fault scarp_terrain</thingKey>
+					<mainThingDefName>ND_FaultScarpGround</mainThingDefName>
+					<thingDefs>
+						<li>ND_FaultScarpGround</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>earthquake collapse chasm_terrain</thingKey>
+					<mainThingDefName>ND_CollapseChasm</mainThingDefName>
+					<thingDefs>
+						<li>ND_CollapseChasm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sinkhole chasm_terrain</thingKey>
+					<mainThingDefName>ND_SinkholeChasm</mainThingDefName>
+					<thingDefs>
+						<li>ND_SinkholeChasm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flood mud_terrain</thingKey>
+					<mainThingDefName>ND_MuddyGround</mainThingDefName>
+					<thingDefs>
+						<li>ND_MuddyGround</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>eroded flood channel_terrain</thingKey>
+					<mainThingDefName>ND_ErodedChannel</mainThingDefName>
+					<thingDefs>
+						<li>ND_ErodedChannel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wildfire burn scar_terrain</thingKey>
+					<mainThingDefName>ND_ScorchedGround</mainThingDefName>
+					<thingDefs>
+						<li>ND_ScorchedGround</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>landslide debris field_terrain</thingKey>
+					<mainThingDefName>ND_LandslideDebris</mainThingDefName>
+					<thingDefs>
+						<li>ND_LandslideDebris</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>landslide head scarp_terrain</thingKey>
+					<mainThingDefName>ND_LandslideHeadScarp</mainThingDefName>
+					<thingDefs>
+						<li>ND_LandslideHeadScarp</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>packed avalanche deposit_terrain</thingKey>
+					<mainThingDefName>ND_AvalancheDeposit</mainThingDefName>
+					<thingDefs>
+						<li>ND_AvalancheDeposit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>active lava_terrain</thingKey>
+					<mainThingDefName>ND_ActiveLava</mainThingDefName>
+					<thingDefs>
+						<li>ND_ActiveLava</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cooled lava rock_terrain</thingKey>
+					<mainThingDefName>ND_CooledLavaRock</mainThingDefName>
+					<thingDefs>
+						<li>ND_CooledLavaRock</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>disaster-grade composite_item</thingKey>
+					<mainThingDefName>ND_DisasterComposite</mainThingDefName>
+					<thingDefs>
+						<li>ND_DisasterComposite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>disaster sensor array_building</thingKey>
+					<mainThingDefName>ND_DisasterSensorArray</mainThingDefName>
+					<thingDefs>
+						<li>ND_DisasterSensorArray</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>emergency siren_building</thingKey>
+					<mainThingDefName>ND_EmergencySiren</mainThingDefName>
+					<thingDefs>
+						<li>ND_EmergencySiren</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>emergency shelter hub_building</thingKey>
+					<mainThingDefName>ND_EmergencyShelterHub</mainThingDefName>
+					<thingDefs>
+						<li>ND_EmergencyShelterHub</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>reinforced wall_building</thingKey>
+					<mainThingDefName>ND_ReinforcedWall</mainThingDefName>
+					<thingDefs>
+						<li>ND_ReinforcedWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>reinforced emergency door_building</thingKey>
+					<mainThingDefName>ND_ReinforcedDoor</mainThingDefName>
+					<thingDefs>
+						<li>ND_ReinforcedDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flood levee_building</thingKey>
+					<mainThingDefName>ND_FloodLevee</mainThingDefName>
+					<thingDefs>
+						<li>ND_FloodLevee</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>storm drain_building</thingKey>
+					<mainThingDefName>ND_DrainagePump</mainThingDefName>
+					<thingDefs>
+						<li>ND_DrainagePump</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>persona bond forge_building</thingKey>
+					<mainThingDefName>PersonaBondForge_ThingDef_BondingBench</mainThingDefName>
+					<thingDefs>
+						<li>PersonaBondForge_ThingDef_BondingBench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bonding core_item</thingKey>
+					<mainThingDefName>PersonaBondForge_ThingDef_BondingCore</mainThingDefName>
+					<thingDefs>
+						<li>PersonaBondForge_ThingDef_BondingCore</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bulwark mask_item</thingKey>
+					<mainThingDefName>Bulwark_Warmask</mainThingDefName>
+					<thingDefs>
+						<li>Bulwark_Warmask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>blessed shield_item</thingKey>
+					<mainThingDefName>Bulwark_Shield</mainThingDefName>
+					<thingDefs>
+						<li>Bulwark_Shield</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>blessed halberd_item</thingKey>
+					<mainThingDefName>Bulwark_Halberd</mainThingDefName>
+					<thingDefs>
+						<li>Bulwark_Halberd</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neutroshine_item</thingKey>
+					<mainThingDefName>Neutroshine</mainThingDefName>
+					<thingDefs>
+						<li>Neutroshine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>holo decoy_building</thingKey>
+					<mainThingDefName>Turret_EchoProjector</mainThingDefName>
+					<thingDefs>
+						<li>Turret_EchoProjector</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>micro turret_building</thingKey>
+					<mainThingDefName>Turret_MicroTurret</mainThingDefName>
+					<thingDefs>
+						<li>Turret_MicroTurret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>writers table_building</thingKey>
+					<mainThingDefName>VBE_WritersTable</mainThingDefName>
+					<thingDefs>
+						<li>VBE_WritersTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>typewriter table_building</thingKey>
+					<mainThingDefName>VBE_TypewritersTable</mainThingDefName>
+					<thingDefs>
+						<li>VBE_TypewritersTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>newspaper_item</thingKey>
+					<mainThingDefName>VBE_Newspaper</mainThingDefName>
+					<thingDefs>
+						<li>VBE_Newspaper</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bang bus_building</thingKey>
+					<mainThingDefName>VFEPD_BangBus</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_BangBus</li>
+						<li>VVE_BangBus_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bunsen_building</thingKey>
+					<mainThingDefName>VFEPD_Bunsen</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Bunsen</li>
+						<li>VVE_Bunsen_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dinghy_building</thingKey>
+					<mainThingDefName>VFEPD_Dinghy</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Dinghy</li>
+						<li>VVE_Dinghy_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dirtbike_building</thingKey>
+					<mainThingDefName>VFEPD_Dirtbike</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Dirtbike</li>
+						<li>VVE_Dirtbike_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>frog_building</thingKey>
+					<mainThingDefName>VFEPD_Frog</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Frog</li>
+						<li>VVE_Frog_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>highwayman_building</thingKey>
+					<mainThingDefName>VFEPD_Highwayman</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Highwayman</li>
+						<li>VVE_Highwayman_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mule_building</thingKey>
+					<mainThingDefName>VFEPD_Mule</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Mule</li>
+						<li>VVE_Mule_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prowler_building</thingKey>
+					<mainThingDefName>VFEPD_Prowler</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Prowler</li>
+						<li>VVE_Prowler_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>roadkill_building</thingKey>
+					<mainThingDefName>VFEPD_Roadkill</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Roadkill</li>
+						<li>VVE_Roadkill_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>scytheman_building</thingKey>
+					<mainThingDefName>VFEPD_Scytheman</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Scytheman</li>
+						<li>VVE_Scytheman_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>toad_building</thingKey>
+					<mainThingDefName>VFEPD_Toad</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Toad</li>
+						<li>VVE_Toad_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>traveller_building</thingKey>
+					<mainThingDefName>VFEPD_Traveller</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Traveller</li>
+						<li>VVE_Traveller_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bulldog_building</thingKey>
+					<mainThingDefName>VFEPD_Bulldog</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Bulldog</li>
+						<li>VVE_Bulldog_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charley_building</thingKey>
+					<mainThingDefName>VFEPD_Charley</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Charley</li>
+						<li>VVE_Charley_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mosquito_building</thingKey>
+					<mainThingDefName>VFEPD_Mosquito</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Mosquito</li>
+						<li>VVE_Mosquito_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>roadrunner_building</thingKey>
+					<mainThingDefName>VFEPD_Roadrunner</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Roadrunner</li>
+						<li>VVE_Roadrunner_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>smuggler_building</thingKey>
+					<mainThingDefName>VFEPD_Smuggler</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Smuggler</li>
+						<li>VVE_Smuggler_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>snatcher_building</thingKey>
+					<mainThingDefName>VFEPD_Snatcher</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Snatcher</li>
+						<li>VVE_Snatcher_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tango_building</thingKey>
+					<mainThingDefName>VFEPD_Tango</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Tango</li>
+						<li>VVE_Tango_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>trawler_building</thingKey>
+					<mainThingDefName>VFEPD_Trawler</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Trawler</li>
+						<li>VVE_Trawler_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wagon_building</thingKey>
+					<mainThingDefName>VFEPD_Wagon</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Wagon</li>
+						<li>VVE_Wagon_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>warbird_building</thingKey>
+					<mainThingDefName>VFEPD_Warbird</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Warbird</li>
+						<li>VVE_Warbird_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wisent_building</thingKey>
+					<mainThingDefName>VFEPD_Wisent</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Wisent</li>
+						<li>VVE_Wisent_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>refueling pump_building</thingKey>
+					<mainThingDefName>VVE_RefuelingPump</mainThingDefName>
+					<thingDefs>
+						<li>VVE_RefuelingPump</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>garage bench_building</thingKey>
+					<mainThingDefName>VVE_GarageBench</mainThingDefName>
+					<thingDefs>
+						<li>VVE_GarageBench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tank trap_building</thingKey>
+					<mainThingDefName>VVE_TankTrap</mainThingDefName>
+					<thingDefs>
+						<li>VVE_TankTrap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>garage door (1x4)_building</thingKey>
+					<mainThingDefName>VVE_GarageDoor</mainThingDefName>
+					<thingDefs>
+						<li>VVE_GarageDoor</li>
+						<li>VVE_GarageDoorOpened</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>garage door (1x5)_building</thingKey>
+					<mainThingDefName>VVE_GarageDoorLarge</mainThingDefName>
+					<thingDefs>
+						<li>VVE_GarageDoorLarge</li>
+						<li>VVE_GarageDoorLargeOpened</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>auto garage door (1x4)_building</thingKey>
+					<mainThingDefName>VVE_GarageAutoDoor</mainThingDefName>
+					<thingDefs>
+						<li>VVE_GarageAutoDoor</li>
+						<li>VVE_GarageAutoDoorOpened</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>auto garage door (1x5)_building</thingKey>
+					<mainThingDefName>VVE_GarageAutoDoorLarge</mainThingDefName>
+					<thingDefs>
+						<li>VVE_GarageAutoDoorLarge</li>
+						<li>VVE_GarageAutoDoorLargeOpened</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle engine block_item</thingKey>
+					<mainThingDefName>VVE_EngineBlock</mainThingDefName>
+					<thingDefs>
+						<li>VVE_EngineBlock</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle alternator_item</thingKey>
+					<mainThingDefName>VVE_CarAlternator</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarAlternator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle exhaust_item</thingKey>
+					<mainThingDefName>VVE_CarExhaust</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarExhaust</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle suspension_item</thingKey>
+					<mainThingDefName>VVE_CarSuspension</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarSuspension</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle wheel_item</thingKey>
+					<mainThingDefName>VVE_CarWheel</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarWheel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle battery_item</thingKey>
+					<mainThingDefName>VVE_CarBattery</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarBattery</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle fuel tank_item</thingKey>
+					<mainThingDefName>VVE_CarFuelTank</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarFuelTank</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle transmission_item</thingKey>
+					<mainThingDefName>VVE_CarTransmission</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarTransmission</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle radiator_item</thingKey>
+					<mainThingDefName>VVE_CarRadiator</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarRadiator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vehicle wiring_item</thingKey>
+					<mainThingDefName>VVE_CarWiring</mainThingDefName>
+					<thingDefs>
+						<li>VVE_CarWiring</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bang bus_pawn</thingKey>
+					<mainThingDefName>VVE_BangBus</mainThingDefName>
+					<thingDefs>
+						<li>VVE_BangBus</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bunsen_pawn</thingKey>
+					<mainThingDefName>VVE_Bunsen</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Bunsen</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dinghy_pawn</thingKey>
+					<mainThingDefName>VVE_Dinghy</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Dinghy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dirtbike_pawn</thingKey>
+					<mainThingDefName>VVE_Dirtbike</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Dirtbike</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>frog_pawn</thingKey>
+					<mainThingDefName>VVE_Frog</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Frog</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>highwayman_pawn</thingKey>
+					<mainThingDefName>VVE_Highwayman</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Highwayman</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mule_pawn</thingKey>
+					<mainThingDefName>VVE_Mule</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Mule</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prowler_pawn</thingKey>
+					<mainThingDefName>VVE_Prowler</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Prowler</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>roadkill_pawn</thingKey>
+					<mainThingDefName>VVE_Roadkill</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Roadkill</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>scytheman_pawn</thingKey>
+					<mainThingDefName>VVE_Scytheman</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Scytheman</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>toad_pawn</thingKey>
+					<mainThingDefName>VVE_Toad</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Toad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>traveller_pawn</thingKey>
+					<mainThingDefName>VVE_Traveller</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Traveller</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bulldog_pawn</thingKey>
+					<mainThingDefName>VVE_Bulldog</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Bulldog</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charley_pawn</thingKey>
+					<mainThingDefName>VVE_Charley</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Charley</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mosquito_pawn</thingKey>
+					<mainThingDefName>VVE_Mosquito</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Mosquito</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>roadrunner_pawn</thingKey>
+					<mainThingDefName>VVE_Roadrunner</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Roadrunner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>smuggler_pawn</thingKey>
+					<mainThingDefName>VVE_Smuggler</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Smuggler</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>snatcher_pawn</thingKey>
+					<mainThingDefName>VVE_Snatcher</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Snatcher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tango_pawn</thingKey>
+					<mainThingDefName>VVE_Tango</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Tango</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>trawler_pawn</thingKey>
+					<mainThingDefName>VVE_Trawler</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Trawler</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wagon_pawn</thingKey>
+					<mainThingDefName>VVE_Wagon</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Wagon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>warbird_pawn</thingKey>
+					<mainThingDefName>VVE_Warbird</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Warbird</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wisent_pawn</thingKey>
+					<mainThingDefName>VVE_Wisent</mainThingDefName>
+					<thingDefs>
+						<li>VVE_Wisent</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laser sword_item</thingKey>
+					<mainThingDefName>VWEL_LaserSword</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_LaserSword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laser pistol_item</thingKey>
+					<mainThingDefName>VWEL_Gun_LaserPistol</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_LaserPistol</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laser smg_item</thingKey>
+					<mainThingDefName>VWEL_Gun_LaserSMG</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_LaserSMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laser rifle_item</thingKey>
+					<mainThingDefName>VWEL_Gun_LaserRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_LaserRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laser shotgun_item</thingKey>
+					<mainThingDefName>VWEL_Gun_LaserShotgun</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_LaserShotgun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laser sniper rifle_item</thingKey>
+					<mainThingDefName>VWEL_Gun_LaserSniperRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_LaserSniperRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>laser minigun_item</thingKey>
+					<mainThingDefName>VWEL_Gun_LaserMinigun</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_LaserMinigun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tesla gun_item</thingKey>
+					<mainThingDefName>VWEL_Gun_TeslaGun</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_TeslaGun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>salvaged laser pistol_item</thingKey>
+					<mainThingDefName>VWEL_Gun_SalvagedLaserPistol</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_SalvagedLaserPistol</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>salvaged laser rifle_item</thingKey>
+					<mainThingDefName>VWEL_Gun_SalvagedLaserRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_SalvagedLaserRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>salvaged laser shotgun_item</thingKey>
+					<mainThingDefName>VWEL_Gun_SalvagedLaserShotgun</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_SalvagedLaserShotgun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>salvaged laser sniper rifle_item</thingKey>
+					<mainThingDefName>VWEL_Gun_SalvagedLaserSniperRifle</mainThingDefName>
+					<thingDefs>
+						<li>VWEL_Gun_SalvagedLaserSniperRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf bed_building</thingKey>
+					<mainThingDefName>UFLI_Bed</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Bed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf double bed_building</thingKey>
+					<mainThingDefName>UFLI_DoubleBed</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_DoubleBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf triple bed_building</thingKey>
+					<mainThingDefName>UFLI_TripleBed</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_TripleBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf four-person bed_building</thingKey>
+					<mainThingDefName>UFLI_4PBed</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_4PBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf pet bed_building</thingKey>
+					<mainThingDefName>UF_Petbed</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>UF_Petbed</li>
+						<li>AnimalBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf crib_building</thingKey>
+					<thingDefs />
+					<removedDefs>
+						<li>UFLI_Crib</li>
+					</removedDefs>
+				</li>
+				<li>
+					<thingKey>uf employee wardrobe_building</thingKey>
+					<mainThingDefName>UFLI_CabinetA</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CabinetA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf wardrobe_building</thingKey>
+					<mainThingDefName>UFLI_CabinetB</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CabinetB</li>
+						<li>UFLI_Wardrobe_AS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf cabinet_building</thingKey>
+					<mainThingDefName>UFLI_CabinetC</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CabinetC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf low cabinet_building</thingKey>
+					<mainThingDefName>UFLI_CabinetD</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CabinetD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf single cabinet_building</thingKey>
+					<mainThingDefName>UFLI_CabinetE</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CabinetE</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf book shelf_building</thingKey>
+					<mainThingDefName>UFLI_CabinetF</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CabinetF</li>
+						<li>UFLI_Bookshelf_AS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf bedside table_building</thingKey>
+					<mainThingDefName>UFLI_Endtable</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Endtable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf brainwasher_building</thingKey>
+					<mainThingDefName>UFLI_Brainwasher</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Brainwasher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf big window_building</thingKey>
+					<mainThingDefName>UFLI_Big_Window</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Big_Window</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf window_building</thingKey>
+					<mainThingDefName>UFLI_Window</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Window</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf temperature control terminal_building</thingKey>
+					<mainThingDefName>UFLI_TempControler</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_TempControler</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf ground light_building</thingKey>
+					<mainThingDefName>UFLI_groundlight</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_groundlight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf ground line light_building</thingKey>
+					<mainThingDefName>UFLI_groundlight_line</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_groundlight_line</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf wall lamp_building</thingKey>
+					<mainThingDefName>UFLI_Walllamp</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Walllamp</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf sun lamp_building</thingKey>
+					<mainThingDefName>UFLI_SUNLIGHT</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_SUNLIGHT</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf pendant lamp_building</thingKey>
+					<mainThingDefName>UFLI_PendantLIGHT</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_PendantLIGHT</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf garden lamp_building</thingKey>
+					<mainThingDefName>UFLI_Gardenlight</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Gardenlight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf floor lamp_building</thingKey>
+					<mainThingDefName>UFLI_Floorlight</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Floorlight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf street lamp_building</thingKey>
+					<mainThingDefName>UFLI_StreetlightA</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_StreetlightA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf street lamp (advertisement)_building</thingKey>
+					<mainThingDefName>UFLI_StreetlightB</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_StreetlightB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf street lamp (single)_building</thingKey>
+					<mainThingDefName>UFLI_StreetlightC</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_StreetlightC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf tree lamp_building</thingKey>
+					<mainThingDefName>UFLI_treelight</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_treelight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf tree lamp (yellow)_building</thingKey>
+					<mainThingDefName>UFLI_treelight_yellow</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_treelight_yellow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf tree lamp (sakura)_building</thingKey>
+					<mainThingDefName>UFLI_treelight_sakura</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_treelight_sakura</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf shrub lamp_building</thingKey>
+					<mainThingDefName>UFLI_treelight_shrub</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_treelight_shrub</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf big street lamp_building</thingKey>
+					<mainThingDefName>UFLI_treelight_big</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_treelight_big</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf column lamp_building</thingKey>
+					<mainThingDefName>UFLI_Column</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Column</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf column sun lamp_building</thingKey>
+					<mainThingDefName>UFLI_Column_sun</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Column_sun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf invisible column_building</thingKey>
+					<mainThingDefName>UFLI_Column_Invisible</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Column_Invisible</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf table 1x1_building</thingKey>
+					<mainThingDefName>UFLI_1X1_Table</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_1X1_Table</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf table 1x2_building</thingKey>
+					<mainThingDefName>UFLI_1X2_Table</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>UFLI_1X2_Table</li>
+						<li>Table1x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf table 2x2_building</thingKey>
+					<mainThingDefName>UFLI_2X2_Table</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>UFLI_2X2_Table</li>
+						<li>Table2x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf table 2x4_building</thingKey>
+					<mainThingDefName>UFLI_2X4_Table</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>UFLI_2X4_Table</li>
+						<li>Table2x4c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf linked table_building</thingKey>
+					<mainThingDefName>UFLI_Linked_Table</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Linked_Table</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf school desk_building</thingKey>
+					<thingDefs />
+					<removedDefs>
+						<li>UFLI_SchoolDesk</li>
+					</removedDefs>
+				</li>
+				<li>
+					<thingKey>uf stool_building</thingKey>
+					<mainThingDefName>UFLI_TinyChair</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>UFLI_TinyChair</li>
+						<li>Stool</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf chair_building</thingKey>
+					<mainThingDefName>UFLI_Chair</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>UFLI_Chair</li>
+						<li>DiningChair</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf couch_building</thingKey>
+					<mainThingDefName>UFLI_Couch</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>UFLI_Couch</li>
+						<li>Armchair</li>
+						<li>MUS_Fishing_CaneChair</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf double couch_building</thingKey>
+					<thingDefs />
+					<removedDefs>
+						<li>UFLI_CouchDouble</li>
+					</removedDefs>
+				</li>
+				<li>
+					<thingKey>uf double bench_building</thingKey>
+					<mainThingDefName>UFLI_OutdoorDouble</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_OutdoorDouble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf beach lounger_building</thingKey>
+					<mainThingDefName>UFLI_Beach_lounger</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Beach_lounger</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf sunshader_building</thingKey>
+					<mainThingDefName>UFLI_Sunshader</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Sunshader</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf shelf_building</thingKey>
+					<mainThingDefName>UFLI_Shelf</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Shelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf bookcase_building</thingKey>
+					<mainThingDefName>UFLI_Bookcase</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Bookcase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf road edge line_building</thingKey>
+					<mainThingDefName>UFLI_ground_line</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_ground_line</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration - uf road edge line corner_building</thingKey>
+					<mainThingDefName>UFLI_ground_line_corner</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_ground_line_corner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration flower_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Flower</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Flower</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration model_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Model</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Model</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration model ii_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Model_II</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Model_II</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration model iii_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Model_III</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Model_III</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration goldencube_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Goldencube</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Goldencube</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration device_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_device</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_device</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration holographic_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Holographic</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Holographic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration tablelamp_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_tablelamp</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_tablelamp</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration spaceking_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Spaceking</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Spaceking</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration water toy_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Waterequipment</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Waterequipment</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration soap_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Soap</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Soap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration surveillance camera_building</thingKey>
+					<mainThingDefName>UFLI_SurveillanceCamera</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_SurveillanceCamera</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration other_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Other</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Other</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration microwave_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_microwave</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_microwave</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration rick cooker_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_rickcooker</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_rickcooker</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration juicer_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_juicer</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_juicer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration pot_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_pot</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_pot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration kitchen knife_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_knife</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_knife</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration food_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Tablefood</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Tablefood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration food ii_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Tablefood_II</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Tablefood_II</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration tableware_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Tableware</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Tableware</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration floor vase_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Big_Flower</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Big_Flower</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration waterdi spenser_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Big_Waterdispenser</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Big_Waterdispenser</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration big holographic_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Big_Fishtank</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Big_Fishtank</li>
+						<li>UFLI_Decoration_Big_Holographic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration garbage can_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Big_garbagecan</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Big_garbagecan</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration weight plate rack_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Big_Weightplaterack</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Big_Weightplaterack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration uf ship model_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Big_models</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Big_models</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration uf paludarium_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Big_ecotank</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Big_ecotank</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decoration uf garbage bin_building</thingKey>
+					<mainThingDefName>UFLI_Decoration_Big_garbagebin</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Decoration_Big_garbagebin</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf at fountain_building</thingKey>
+					<mainThingDefName>UFLI_ATfountain</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_ATfountain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf grave engine fountain_building</thingKey>
+					<mainThingDefName>UFLI_AGravefountain</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_AGravefountain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf void fountain_building</thingKey>
+					<mainThingDefName>UFLI_AVoidFountain</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_AVoidFountain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf cerebrexcore fountain_building</thingKey>
+					<mainThingDefName>UFLI_AMechFountain</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_AMechFountain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf archonexush fountain_building</thingKey>
+					<mainThingDefName>UFLI_ArchonexushFountain</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_ArchonexushFountain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf radar_building</thingKey>
+					<mainThingDefName>UFLI_Radar</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Radar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf mysterious high-tech zongzi_building</thingKey>
+					<mainThingDefName>UFLI_zongzi</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_zongzi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf small carpet_building</thingKey>
+					<mainThingDefName>UFLI_CarpetA</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CarpetA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf large carpet_building</thingKey>
+					<mainThingDefName>UFLI_CarpetB</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CarpetB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf massive carpet_building</thingKey>
+					<mainThingDefName>UFLI_CarpetC</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_CarpetC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf automatic door 1x1_building</thingKey>
+					<mainThingDefName>UFLI_1_Autodoor</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_1_Autodoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf door frame 1x1_building</thingKey>
+					<mainThingDefName>UFLI_1_Frame_DOOR</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_1_Frame_DOOR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf automatic door 2x1_building</thingKey>
+					<mainThingDefName>UFLI_2_Autodoor</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_2_Autodoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf door frame 2x1_building</thingKey>
+					<mainThingDefName>UFLI_2_Frame_DOOR</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_2_Frame_DOOR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf automatic door 3x1_building</thingKey>
+					<mainThingDefName>UFLI_3_Autodoor</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_3_Autodoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf door frame 3x1_building</thingKey>
+					<mainThingDefName>UFLI_3_Frame_DOOR</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_3_Frame_DOOR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf prison gate_building</thingKey>
+					<mainThingDefName>UFLI_PrisonGate</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_PrisonGate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ufli door curtain_building</thingKey>
+					<mainThingDefName>UFLI_Doorcurtain</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Doorcurtain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf holographic projection (logo)_building</thingKey>
+					<mainThingDefName>UFLI_Holographic_logo</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Holographic_logo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf holographic projection (small logo)_building</thingKey>
+					<mainThingDefName>UFLI_Holographic_logo_small</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Holographic_logo_small</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf holographic projection (advertisement)_building</thingKey>
+					<mainThingDefName>UFLI_Holographic_advertisement</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Holographic_advertisement</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf chess table_building</thingKey>
+					<mainThingDefName>UFLI_ChessTable</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_ChessTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf poker table_building</thingKey>
+					<mainThingDefName>UFLI_PokerTable</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_PokerTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf billiards table_building</thingKey>
+					<mainThingDefName>UFLI_BilliardsTable</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_BilliardsTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf telescope_building</thingKey>
+					<mainThingDefName>UFLI_Telescope</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Telescope</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf television_building</thingKey>
+					<mainThingDefName>UFLI_Television</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Television</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf huge screen_building</thingKey>
+					<mainThingDefName>UFLI_Hugescreen</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Hugescreen</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf laptop_building</thingKey>
+					<mainThingDefName>UFLI_laptop</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_laptop</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf treadmill_building</thingKey>
+					<mainThingDefName>UFLI_Treadmill</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Treadmill</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf exercise bike_building</thingKey>
+					<mainThingDefName>UFLI_Gymbike</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Gymbike</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf benchrack_building</thingKey>
+					<mainThingDefName>UFLI_Benchrack</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Benchrack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf dumbbellrack_building</thingKey>
+					<mainThingDefName>UFLI_Dumbbellrack</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Dumbbellrack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf washing machine_building</thingKey>
+					<mainThingDefName>UFLI_WashingMachine</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_WashingMachine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf infinite nutrient paste dispenser_building</thingKey>
+					<mainThingDefName>UFLI_InfiniteNutrientPasteDispenser</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_InfiniteNutrientPasteDispenser</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf robot arm_building</thingKey>
+					<mainThingDefName>UFLI_Robotarm</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Robotarm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf butcher table_building</thingKey>
+					<thingDefs />
+					<removedDefs>
+						<li>UFLI_Butcher</li>
+					</removedDefs>
+				</li>
+				<li>
+					<thingKey>uf stove_building</thingKey>
+					<mainThingDefName>UFLI_stove</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>UFLI_stove</li>
+						<li>ElectricStove</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf sink_building</thingKey>
+					<mainThingDefName>UFLI_Sink</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Sink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf steam oven_building</thingKey>
+					<mainThingDefName>UFLI_SteamOven</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_SteamOven</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf wall_building</thingKey>
+					<mainThingDefName>UFLI_Wall</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Wall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf cable wall_building</thingKey>
+					<mainThingDefName>UFLI_Wall_Cable</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Wall_Cable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf shootable wall_building</thingKey>
+					<mainThingDefName>UFLI_Wall_Shootable</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Wall_Shootable</li>
+						<li>UFLI_Wall_Shrub</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf prison wall_building</thingKey>
+					<mainThingDefName>UFLI_Prison_Wall</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Prison_Wall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>super auto-forge_building</thingKey>
+					<mainThingDefName>UFLlA0Tome</mainThingDefName>
+					<thingDefs>
+						<li>UFLlA0Tome</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>workbench booster_building</thingKey>
+					<mainThingDefName>UFRecipes_WorkbenchBooster</mainThingDefName>
+					<thingDefs>
+						<li>UFRecipes_WorkbenchBooster</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf industrial floor_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOOR</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOOR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf honeycomb floor_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORD</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf cube floor_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORE</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORE</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf cube floor ii_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORS</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf mesh flooring (light)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORT</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORT</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf mesh flooring (dark)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORU</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORU</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf gold-bordered floor tiles_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORI</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORI</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf checkered tiles (light)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORJ</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORJ</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf checkered tiles (dark)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORP</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORP</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf mosaic tiles_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORM</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORM</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf wood flooring_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORH</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORH</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf wood flooring (dark)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORL</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORL</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf wood flooring (complex patterns)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORW</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORW</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf wood flooring (complex patterns ii)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORX</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORX</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf wood flooring (complex patterns iii)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORY</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORY</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf lawn ground_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORG</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf lawn ground (cannot be planted)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORGII</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORGII</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf outdoor wood flooring_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORO</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf cordon line_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORF</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORF</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf reconstituted stone tiles_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORN</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORN</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf fish scale pattern floor tile_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORQ</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORQ</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf outdoor pavers_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORK</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORK</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf outdoor hexagon pavers_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORR</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf starship armor plate (light)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORC</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf starship armor plate (dark)_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORB</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf road paving_terrain</thingKey>
+					<mainThingDefName>UFLI_FLOORV</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_FLOORV</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf sand_terrain</thingKey>
+					<mainThingDefName>UFLI_Sand</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Sand</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf shallow water_terrain</thingKey>
+					<mainThingDefName>UFLI_WaterShallow</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_WaterShallow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf hot spring water_terrain</thingKey>
+					<mainThingDefName>UFLI_HotSpring</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_HotSpring</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf heavy bridge_terrain</thingKey>
+					<mainThingDefName>UFLI_HeavyBridge</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_HeavyBridge</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf storage rack (1x2)_building</thingKey>
+					<mainThingDefName>UFLI_Container_1X2_AS</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Container_1X2_AS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf storage rack (2x2)_building</thingKey>
+					<mainThingDefName>UFLI_Container_2X2_AS</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Container_2X2_AS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf storage container (4x8)_building</thingKey>
+					<mainThingDefName>UFLI_Container_4X8_AS</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Container_4X8_AS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf garbage bin_building</thingKey>
+					<mainThingDefName>UFLI_Garbagebin_AS</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Garbagebin_AS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf refrigerator_building</thingKey>
+					<mainThingDefName>UFLI_Refrigerator_AS</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Refrigerator_AS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>uf medical refrigerator_building</thingKey>
+					<mainThingDefName>UFLI_Refrigerator_medical_AS</mainThingDefName>
+					<thingDefs>
+						<li>UFLI_Refrigerator_medical_AS</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>coyote_building</thingKey>
+					<mainThingDefName>CNW_Coyote_Blueprint</mainThingDefName>
+					<thingDefs>
+						<li>CNW_Coyote_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>coyote_pawn</thingKey>
+					<mainThingDefName>CNW_Coyote</mainThingDefName>
+					<thingDefs>
+						<li>CNW_Coyote</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>javelina_building</thingKey>
+					<mainThingDefName>CNW_Javelina_Blueprint</mainThingDefName>
+					<thingDefs>
+						<li>CNW_Javelina_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>javelina_pawn</thingKey>
+					<mainThingDefName>CNW_Javelina</mainThingDefName>
+					<thingDefs>
+						<li>CNW_Javelina</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>little mule_building</thingKey>
+					<mainThingDefName>CNW_LittleMule_Blueprint</mainThingDefName>
+					<thingDefs>
+						<li>CNW_LittleMule_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>little mule_pawn</thingKey>
+					<mainThingDefName>CNW_LittleMule</mainThingDefName>
+					<thingDefs>
+						<li>CNW_LittleMule</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sidewinder_building</thingKey>
+					<mainThingDefName>CNW_Sidewinder_Blueprint</mainThingDefName>
+					<thingDefs>
+						<li>CNW_Sidewinder_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sidewinder_pawn</thingKey>
+					<mainThingDefName>CNW_Sidewinder</mainThingDefName>
+					<thingDefs>
+						<li>CNW_Sidewinder</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hovercar_building</thingKey>
+					<mainThingDefName>HovercarBlueprint</mainThingDefName>
+					<thingDefs>
+						<li>HovercarBlueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hovercar_pawn</thingKey>
+					<mainThingDefName>Hovercar</mainThingDefName>
+					<thingDefs>
+						<li>Hovercar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hovertank_building</thingKey>
+					<mainThingDefName>HovertankBlueprint</mainThingDefName>
+					<thingDefs>
+						<li>HovertankBlueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hovertank_pawn</thingKey>
+					<mainThingDefName>Hovertank</mainThingDefName>
+					<thingDefs>
+						<li>Hovertank</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hovertruck_building</thingKey>
+					<mainThingDefName>HovertruckBlueprint</mainThingDefName>
+					<thingDefs>
+						<li>HovertruckBlueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hovertruck_pawn</thingKey>
+					<mainThingDefName>Hovertruck</mainThingDefName>
+					<thingDefs>
+						<li>Hovertruck</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hovertruck (armored)_building</thingKey>
+					<mainThingDefName>ArmoredHovertruckBlueprint</mainThingDefName>
+					<thingDefs>
+						<li>ArmoredHovertruckBlueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hovertruck (armored_pawn</thingKey>
+					<mainThingDefName>ArmoredHovertruck</mainThingDefName>
+					<thingDefs>
+						<li>ArmoredHovertruck</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>lasercannon turret_building</thingKey>
+					<mainThingDefName>Turret_LaserCannon</mainThingDefName>
+					<thingDefs>
+						<li>Turret_LaserCannon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>disintegrator turret_building</thingKey>
+					<mainThingDefName>Turret_Disintegrator</mainThingDefName>
+					<thingDefs>
+						<li>Turret_Disintegrator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cabriolet_building</thingKey>
+					<mainThingDefName>SCV_Cabriolet_Blueprint</mainThingDefName>
+					<thingDefs>
+						<li>SCV_Cabriolet_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cabriolet_pawn</thingKey>
+					<mainThingDefName>SCV_Cabriolet</mainThingDefName>
+					<thingDefs>
+						<li>SCV_Cabriolet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jetbike_building</thingKey>
+					<mainThingDefName>SCV_Jetbike_Blueprint</mainThingDefName>
+					<thingDefs>
+						<li>SCV_Jetbike_Blueprint</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>jetbike_pawn</thingKey>
+					<mainThingDefName>SCV_Jetbike</mainThingDefName>
+					<thingDefs>
+						<li>SCV_Jetbike</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel0a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_NapalmBlaster</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_NapalmBlaster</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel1a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_Disruptor</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_Disruptor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel2a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_DualEraser</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_DualEraser</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel3a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_Accelerator</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_Accelerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel4a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_PowerFist</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_PowerFist</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel5a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_EnergyClaw</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_EnergyClaw</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel6a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_EnergySword</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_EnergySword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel7a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_ChainSword</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_ChainSword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel8a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_GunBlade</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_GunBlade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel9a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_PlasmaGun</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_PlasmaGun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel10a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_HavocLauncher</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_HavocLauncher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel11a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_CW_CoilGun</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_CW_CoilGun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel12a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_VWEL_Gun_LaserPistol</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_VWEL_Gun_LaserPistol</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel13a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_VWEL_Gun_LaserSMG</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_VWEL_Gun_LaserSMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel14a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_VWEL_Gun_LaserRifle</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_VWEL_Gun_LaserRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel15a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_VWEL_Gun_LaserShotgun</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_VWEL_Gun_LaserShotgun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel16a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_VWEL_Gun_LaserSniperRifle</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_VWEL_Gun_LaserSniperRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel17a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_VWEL_Gun_LaserMinigun</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_VWEL_Gun_LaserMinigun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel18a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_VWEL_Gun_TeslaGun</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_VWEL_Gun_TeslaGun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel19a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_VWEL_LaserSword</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_VWEL_LaserSword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel20a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_Gun_ChargeRifle</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_Gun_ChargeRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>personabondforge_templabel21a_item</thingKey>
+					<mainThingDefName>PBF_ThingDef_Weapon_Gun_ChargeLance</mainThingDefName>
+					<thingDefs>
+						<li>PBF_ThingDef_Weapon_Gun_ChargeLance</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>garage cabinet_building</thingKey>
+					<mainThingDefName>VVE_GarageCabinet</mainThingDefName>
+					<thingDefs>
+						<li>VVE_GarageCabinet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>simple repair bench_building</thingKey>
+					<mainThingDefName>RG_SimpleRepairTable</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>RG_SimpleRepairTable</li>
+						<li>HandTailoringBench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>electric repair bench_building</thingKey>
+					<mainThingDefName>RG_ElectricRepairTable</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>RG_ElectricRepairTable</li>
+						<li>ElectricTailoringBench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tinkering bench_building</thingKey>
+					<mainThingDefName>TM_Tinkerbench</mainThingDefName>
+					<thingDefs>
+						<li>TM_Tinkerbench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>biohacking station_building</thingKey>
+					<mainThingDefName>TM_Biohacker</mainThingDefName>
+					<thingDefs>
+						<li>TM_Biohacker</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>unique breach axe_item</thingKey>
+					<mainThingDefName>UMW_BreachAxe_Unique</mainThingDefName>
+					<thingDefs>
+						<li>UMW_BreachAxe_Unique</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>advanced drug lab_building</thingKey>
+					<mainThingDefName>WYD_AdvancedDrugLab</mainThingDefName>
+					<thingDefs>
+						<li>WYD_AdvancedDrugLab</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>electric art bench_building</thingKey>
+					<mainThingDefName>TableArtElectric</mainThingDefName>
+					<thingDefs>
+						<li>TableArtElectric</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>electric stonecutter's table_building</thingKey>
+					<mainThingDefName>TableStonecutterElectric</mainThingDefName>
+					<thingDefs>
+						<li>TableStonecutterElectric</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>operating table_building</thingKey>
+					<mainThingDefName>Bed_OperatingTable</mainThingDefName>
+					<thingDefs>
+						<li>Bed_OperatingTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cryptosleep suspender_building</thingKey>
+					<mainThingDefName>Bed_CryptoBed</mainThingDefName>
+					<thingDefs>
+						<li>Bed_CryptoBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vitals centre_building</thingKey>
+					<mainThingDefName>Facility_VitalsCentre</mainThingDefName>
+					<thingDefs>
+						<li>Facility_VitalsCentre</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>intravenous drip stand_building</thingKey>
+					<mainThingDefName>Facility_IVDrip</mainThingDefName>
+					<thingDefs>
+						<li>Facility_IVDrip</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>research counter_building</thingKey>
+					<mainThingDefName>Facility_ResearchCounter</mainThingDefName>
+					<thingDefs>
+						<li>Facility_ResearchCounter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sterile wall_building</thingKey>
+					<mainThingDefName>VFEM_Wall_Sterile</mainThingDefName>
+					<thingDefs>
+						<li>VFEM_Wall_Sterile</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>adrenaline shot_item</thingKey>
+					<mainThingDefName>DV_AdrenalineShot</mainThingDefName>
+					<thingDefs>
+						<li>DV_AdrenalineShot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>stimpack_item</thingKey>
+					<mainThingDefName>StimpackIndustrial</mainThingDefName>
+					<thingDefs>
+						<li>StimpackIndustrial</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>herbal powder_item</thingKey>
+					<mainThingDefName>HerbalPowder</mainThingDefName>
+					<thingDefs>
+						<li>HerbalPowder</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>glitterworld stimpack_item</thingKey>
+					<mainThingDefName>StimpackUltratech</mainThingDefName>
+					<thingDefs>
+						<li>StimpackUltratech</li>
 					</thingDefs>
 					<removedDefs />
 				</li>

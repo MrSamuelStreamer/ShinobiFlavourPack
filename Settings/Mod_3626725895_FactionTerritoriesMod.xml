@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FactionTerritories.FactionTerritoriesSettings">
+		<radiusSteps>15</radiusSteps>
+		<useSolidContestedColour>True</useSolidContestedColour>
+		<factionOverrides />
+		<encounterCheckIntervalTicks>120000</encounterCheckIntervalTicks>
+		<caravanIncidentWeightOverrides>
+			<li>
+				<incidentDefName>CaravanMeeting</incidentDefName>
+				<weight>10</weight>
+			</li>
+			<li>
+				<incidentDefName>Ambush</incidentDefName>
+				<weight>15</weight>
+			</li>
+		</caravanIncidentWeightOverrides>
+		<caravanIncidentLegacyMigrated>True</caravanIncidentLegacyMigrated>
+		<encounterOverrides IsNull="True" />
+		<defaultToFactionTerritoriesMapMode>True</defaultToFactionTerritoriesMapMode>
+		<techLevelMultipliers>
+			<li>
+				<techLevel>Animal</techLevel>
+			</li>
+			<li>
+				<techLevel>Neolithic</techLevel>
+			</li>
+			<li>
+				<techLevel>Medieval</techLevel>
+			</li>
+			<li />
+			<li>
+				<techLevel>Spacer</techLevel>
+			</li>
+			<li>
+				<techLevel>Ultra</techLevel>
+			</li>
+			<li>
+				<techLevel>Archotech</techLevel>
+			</li>
+		</techLevelMultipliers>
+	</ModSettings>
+</SettingsBlock>

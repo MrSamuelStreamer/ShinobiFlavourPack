@@ -2,6 +2,7 @@
 <ModsConfigData>
   <version>1.6.4871 rev590</version>
   <activeMods>
+    <li>garethp.modlistconfigurator</li>
     <li>zetrith.prepatcher</li>
     <li>brrainz.harmony</li>
     <li>taranchuk.fastergameloading</li>
@@ -12,22 +13,22 @@
     <li>ludeon.rimworld.biotech</li>
     <li>ludeon.rimworld.odyssey</li>
     <li>owlchemist.cherrypicker</li>
+    <li>aoba.framework</li>
     <li>adaptive.storage.framework</li>
     <li>redmattis.betterprerequisites</li>
     <li>bs.mbifvte</li>
+    <li>smashphil.vehicleframework</li>
     <li>imranfish.xmlextensions</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>ebsg.framework</li>
     <li>oskarpotocki.vfe.empire</li>
     <li>vanillaexpanded.vcef</li>
-    <li>vanillaexpanded.vwel</li>
-    <li>smxrez.laserreexamined</li>
-    <li>statistno1.personabond</li>
     <li>regrowth.botr.core</li>
     <li>vanillaexpanded.vtexe</li>
     <li>ideologypatch.1trickpwnyta</li>
     <li>frozensnowfox.morepsycastpowers</li>
     <li>lby.fishpond</li>
+    <li>k4g.2077traumateamoutfit</li>
     <li>k4g.core</li>
     <li>k4g.dynasty</li>
     <li>mingtuwuxiang.fishingdecorative</li>
@@ -35,8 +36,8 @@
     <li>nals.facialanimation</li>
     <li>og.recruit.guest</li>
     <li>rh2.cpers.arrest.here</li>
+    <li>rh2.handtohand</li>
     <li>rh2.metal.gear.solid</li>
-    <li>sbz.neatstoragefridge</li>
     <li>tw.tangs.retexture.ui</li>
     <li>tw.tangs.retexture.manufactured</li>
     <li>tw.tangs.retexture.resource</li>
@@ -45,6 +46,8 @@
     <li>tw.tangs.retexture.weapons</li>
     <li>tw.tangs.retexture.structure</li>
     <li>tw.tangs.retexture.foods</li>
+    <li>tw.is.industrialismstyle</li>
+    <li>wyr3d.advancedmedicine</li>
     <li>mlie.wzrdcarrycapacity</li>
     <li>mrkociak.cyberpsychosismod</li>
     <li>mrkociak.empaffectsbionics</li>
@@ -63,12 +66,16 @@
     <li>elktor.arasakacorporation</li>
     <li>com.bymarcin.architecticons</li>
     <li>eeg.architecture</li>
+    <li>bamba.allbambaarmors</li>
+    <li>icc.aov.indtjug</li>
+    <li>aoba.usac.core</li>
     <li>anthitei.athsideocolorpalette.colors</li>
     <li>automatic.autolinks</li>
     <li>linnun.autocastspecialistcommands</li>
     <li>defi.autocutblight</li>
     <li>mlie.autonameanimals</li>
     <li>i.automaticforaging</li>
+    <li>rabiosus.vfautoparking</li>
     <li>mf.barrel</li>
     <li>nephlite.advexplosions</li>
     <li>madeline.modmismatchformatter</li>
@@ -80,6 +87,7 @@
     <li>daria40k.biglittlemodpatch</li>
     <li>bart.bioformmatrix</li>
     <li>automatic.bionicicons</li>
+    <li>heavenlyguardian.bladelink</li>
     <li>neidhardt.truesightreading</li>
     <li>spencezilla.blindsightunified</li>
     <li>mlie.blockunwantedminutiae</li>
@@ -88,10 +96,14 @@
     <li>memegoddess.buildfrominventory</li>
     <li>joe.cephaloids</li>
     <li>void.charactereditor</li>
+    <li>azuraal.choiceofpsycasts</li>
     <li>konstantynopolitaneczka.choosethelesson</li>
+    <li>mlie.choosewildanimalspawns</li>
     <li>zal.chooseyourrecipe</li>
     <li>leo.cleancommandbar</li>
+    <li>font.colonistbardividers</li>
     <li>kikohi.coloreddeepresources</li>
+    <li>kas.combathealing</li>
     <li>avilmask.commonsense</li>
     <li>petetimessix.compacthediffs</li>
     <li>mlie.compactworktab</li>
@@ -102,6 +114,7 @@
     <li>mlie.cyberneticwarfare</li>
     <li>argyuile.cyberpunk2020.roles</li>
     <li>dimonsever000.ideologyvirtues</li>
+    <li>dimonsever000.mynameis</li>
     <li>dimonsever000.weaponproficiency</li>
     <li>gondragon.defensivepositions</li>
     <li>delmaintweaks.roleapparel</li>
@@ -112,22 +125,24 @@
     <li>telardo.dragselect</li>
     <li>dubwise.dubspaintshop</li>
     <li>dubwise.dubsappareltweaks</li>
-    <li>tiuchnir.dac</li>
     <li>aelanna.eccentrictech.core</li>
     <li>aelanna.eccentrictech.furniture</li>
     <li>ghastly.echoesoftherim</li>
+    <li>rabbit.edgeofdescension</li>
+    <li>rabbit.eodvanguard</li>
     <li>heis.edo.themed.expansion</li>
     <li>heis.edo.themed.expansion.redundancy.patch</li>
     <li>vesper.egihologramsandprojectors</li>
     <li>sharpie.eldenrim.hairstyles</li>
+    <li>zal.artbenchelectric</li>
+    <li>cocaine.electricstonecuttingtable</li>
     <li>v1024.ebframework</li>
     <li>loopus.endfieldhairs</li>
+    <li>argotis.enemiesuseappareltoo</li>
     <li>erin.body.texture</li>
     <li>erin.cats</li>
     <li>erin.cosmeticgenes</li>
     <li>erin.decorations</li>
-    <li>erin.ffanimals</li>
-    <li>erin.fluffyfauna</li>
     <li>erin.foxsquirrel</li>
     <li>erin.japanesefurniture</li>
     <li>erin.kpdh.hair</li>
@@ -141,6 +156,7 @@
     <li>mlie.factionraidcooldown</li>
     <li>kosaro.fahrenheitandcelsius</li>
     <li>dorbo.firmamentfx</li>
+    <li>warlocksforge.fishtraps</li>
     <li>jalapenolabs.rimworld.fishingisfun</li>
     <li>kathanon.fixstyledblueprints</li>
     <li>kathanon.floatsubmenu</li>
@@ -153,8 +169,11 @@
     <li>moistestwhale.gitscyberneticequipment</li>
     <li>moistestwhale.gitscyberoptics</li>
     <li>k.glitternet</li>
+    <li>mlie.graffitimod</li>
     <li>telefonmast.graphicssettings</li>
     <li>andromeda.helpmebuild</li>
+    <li>mlie.hightechlaboratoryfacilities</li>
+    <li>iworosiak.holsters</li>
     <li>hol.horseygamenames</li>
     <li>bart.hunterdrones</li>
     <li>mlie.huntersusemelee</li>
@@ -167,6 +186,7 @@
     <li>linnun.keepconverting</li>
     <li>keyz182.keyzreferencetools</li>
     <li>conit.kpdl</li>
+    <li>kimchibok.kimchianzbeta</li>
     <li>jsin.laglesslamps</li>
     <li>costel.layeredapparel</li>
     <li>leo.eventsexpanded</li>
@@ -179,6 +199,7 @@
     <li>zylle.mapdesigner</li>
     <li>nozome.mapmodeframework</li>
     <li>m00nl1ght.mappreview</li>
+    <li>momo.meckhorse</li>
     <li>tsa.meleefitness</li>
     <li>hol.mewgenicsnames</li>
     <li>migcorp.skiptech</li>
@@ -193,7 +214,7 @@
     <li>cn.moreusefulinjection</li>
     <li>morphsassorted.facetattoos</li>
     <li>oblitus.mylittleplanet</li>
-    <li>veterano.mythicages.megafaunabestiary</li>
+    <li>cardo0909.naturaldisasters</li>
     <li>gunmar.neosamurai</li>
     <li>andromeda.nicehealthtab</li>
     <li>kathanon.nodisabledfactions</li>
@@ -204,6 +225,7 @@
     <li>mlie.norandomideologies</li>
     <li>jaeger972.nomadfreindlyquests</li>
     <li>avilmask.nonunopinata</li>
+    <li>transslenderman.ow.nekomate</li>
     <li>oharo.infiniteneutroreactor</li>
     <li>oracle.erin.tattoos</li>
     <li>annoprofi.outfitbuilderredux2</li>
@@ -214,11 +236,13 @@
     <li>arkymn.performanceesmolas</li>
     <li>wtfomgjohnny.perishable</li>
     <li>alleykat.persistentprecepts</li>
+    <li>statistno1.personabond</li>
+    <li>shunter.personaweaponsunbound</li>
     <li>mlie.perspectivebuildings</li>
+    <li>pesky.bulwark</li>
     <li>phaneron.basic.storage</li>
     <li>mehni.pickupandhaul</li>
     <li>aeris.placebo</li>
-    <li>ponpeco.pfsf</li>
     <li>lee.xenotypefloattodialogue</li>
     <li>tk421storm.prioritytreatmentressurected</li>
     <li>lightthief.prisonerscanbetray</li>
@@ -229,6 +253,8 @@
     <li>pumpkin.pumpkinhairs2</li>
     <li>hatti.qualitybuilder</li>
     <li>jaeger972.questgenerationtweaks</li>
+    <li>kilo.rcorp</li>
+    <li>kilo.rcorp.weapons</li>
     <li>zal.randomgrowthchoices</li>
     <li>ashen.rearmabletraps</li>
     <li>safair.readingschedule</li>
@@ -238,10 +264,8 @@
     <li>reel.hair2</li>
     <li>reel.hair</li>
     <li>mlie.relevantstatsindescription</li>
+    <li>stevezero.repairablegear</li>
     <li>uboy.researchbroker</li>
-    <li>mlie.hightechlaboratoryfacilities</li>
-    <li>bart.htlr</li>
-    <li>chaoticenrico.researchpapers</li>
     <li>scorpio.resourcedictionary</li>
     <li>ferny.restrictundrawnapparel</li>
     <li>kyrun.reunion</li>
@@ -249,18 +273,19 @@
     <li>maux36.rimbody.statmodule</li>
     <li>jaxe.rimhud</li>
     <li>arandomkiwi.rimsaves</li>
+    <li>rimsenal.techist</li>
+    <li>rimsenal.harana</li>
+    <li>rimsenal.zohar</li>
     <li>co.uk.epicguru.factionloadout</li>
     <li>deon.rimtek.core</li>
     <li>dogdough.rimteppo</li>
     <li>arandomkiwi.rimthemes</li>
-    <li>samurai.rimthemes</li>
     <li>delmaintweaks.ritualsizeattenuation</li>
     <li>ghastly.roboticservitude</li>
-    <li>rooboid.hdhair.continued</li>
     <li>esvn.rpgdialog</li>
     <li>resurrectionem.furnitureasia</li>
-    <li>rustys.foliage.hairs</li>
     <li>name.krypt.rimworld.rwlayout.alpha2</li>
+    <li>lk.snb.hat</li>
     <li>katana.scenarioamender</li>
     <li>scrubdaddy.hairstyles</li>
     <li>hellrevenger.searchoption</li>
@@ -273,37 +298,42 @@
     <li>owlchemist.fridgeutilities</li>
     <li>pb3n.simplewarrants</li>
     <li>ray1203.simplecamerasetting</li>
+    <li>inoshishi3.smallvehicleaddons</li>
     <li>sarg.smartspeed</li>
     <li>snafu.japanworld</li>
     <li>marvinkosh.sometimesraidsgowrong</li>
-    <li>sk.soundpacks</li>
     <li>jpt.speakup</li>
     <li>scurvyez.stevesdoors</li>
+    <li>scurvyez.steveswalls</li>
     <li>dorbo.styletooltipcolumns</li>
+    <li>mlie.suprememelee</li>
     <li>trickity.conversion.staff</li>
     <li>trickity.samurai.faction</li>
     <li>trickity.samurai.faction.styles</li>
     <li>mlie.tabsorting</li>
+    <li>funstab.talkbeforebloodshed</li>
     <li>al9000.tastycore</li>
     <li>qux.tattoos</li>
     <li>shenanigans.techtattoos</li>
     <li>goji.thesimstraits</li>
+    <li>propickelz.tinkerbench</li>
     <li>owlchemist.toggleableoverlays</li>
     <li>owlchemist.toggleablereadouts</li>
     <li>owlchemist.toggleableshields</li>
+    <li>cat.veacidweaponspack</li>
     <li>kearril.tradingoptionscontinue</li>
     <li>superniquito.traiticons</li>
-    <li>shenanigans.tribaltattoos</li>
+    <li>edelweisspirate.traumateamcomplete</li>
     <li>ferny.triumphantresearch</li>
     <li>jaeger972.turretperformancetweaks</li>
+    <li>kilo.lca.udjatequipment</li>
     <li>katsudon.uiretexture</li>
-    <li>sk.uisound</li>
     <li>mlie.ultratechshades</li>
-    <li>unagi.a.bigpome</li>
-    <li>unagi.fa.addon.eyeparts</li>
     <li>unagi.wahuu.hako</li>
     <li>amagicallime.undraftaftertucking</li>
+    <li>cn.uniquebowsexpand</li>
     <li>shunter.uniquemeleeweapons</li>
+    <li>bx395.urbworldweaponrysmart</li>
     <li>ushanka.glittertechexpansion</li>
     <li>ushanka.hackingexpansion</li>
     <li>ushanka.luciferiumexpansion</li>
@@ -313,20 +343,27 @@
     <li>vanillaexpanded.vcooke</li>
     <li>vanillaexpanded.vee</li>
     <li>oskarpotocki.vfe.deserters</li>
+    <li>vanillaexpanded.vcefaddon</li>
     <li>vanillaexpanded.vfearchitect</li>
+    <li>vanillaexpanded.vfemedical</li>
     <li>vanillaexpanded.vfepropsanddecor</li>
     <li>neronix17.retexture.vanillahair</li>
+    <li>vanillaexpanded.ideo.iconsandsymbols</li>
     <li>vanillaexpanded.vexploratione</li>
     <li>vanillaexpanded.vpeflowers</li>
     <li>vanillaracesexpanded.customicons</li>
     <li>gravenwitch.vsrexamined</li>
     <li>vanillaexpanded.vanillasocialinteractionsexpanded</li>
+    <li>vanillaexpanded.vanillatradingexpanded</li>
     <li>vanillaexpanded.vanillatraitsexpanded</li>
+    <li>oskarpotocki.vanillavehiclesexpanded</li>
+    <li>vanillaexpanded.vwel</li>
     <li>elduckerich.verboseforked</li>
     <li>cantaloupetheclown.vanillafurnitureexpandedpack</li>
     <li>ghastly.visualcybernetics</li>
     <li>ninagoblin.visitsettlements</li>
     <li>mlie.visualxmlpatches</li>
+    <li>kilo.lca.wcorp</li>
     <li>sugarcube.walkaroundpark</li>
     <li>sl4vp0wer.weareunited</li>
     <li>jomar.whatwasinside</li>
@@ -337,14 +374,19 @@
     <li>jsin0.worldexpanded.eastern.lights</li>
     <li>cedaro.worldpawncleaner</li>
     <li>ferny.worldbuilder</li>
+    <li>funkyshit.mods.worldedit.alpha</li>
+    <li>bs.xenotypespawncontrol</li>
     <li>zhuma.xenotypesummary</li>
     <li>zal.farseerfan</li>
     <li>com.yayo.yayoani.continued</li>
     <li>seohyeon.yart</li>
+    <li>greyoviin.flashingblades</li>
+    <li>kindseal.ufli</li>
     <li>frozensnowfox.nodefaultshelfstorage</li>
     <li>sarg.alphagenes</li>
     <li>sarg.alphapropsparks</li>
     <li>ai.improved.icons</li>
+    <li>mrsamuelstreamer.rimthemesrecolours</li>
     <li>keyz182.biohacking</li>
     <li>neronix17.retexture.charactereditor</li>
     <li>ih.clean.textures</li>
@@ -352,18 +394,25 @@
     <li>kathanon.craftwithcolor</li>
     <li>zcubekr.customfonts</li>
     <li>k.cybernet</li>
+    <li>paranautic.cyberpunknomadsworkshop</li>
     <li>cyberware.2077</li>
+    <li>hellstorm901.weebnames</li>
+    <li>det.battlemeds</li>
     <li>aelanna.eccentrictech.advancedshields</li>
     <li>aelanna.eccentrictech.cosmetics2</li>
     <li>aelanna.eccentrictech.defensegrid</li>
     <li>aelanna.eccentrictech.fusionpower</li>
+    <li>rabbit.hovercar</li>
+    <li>scurvyez.fabledcervidae</li>
     <li>jaeger972.factionterritories</li>
     <li>draegon.fishingdecoretex</li>
     <li>sd.fa.geneticheadsframework</li>
     <li>gm.hotspring</li>
-    <li>gmmp.graveyard</li>
+    <li>gmmp.adultlife</li>
     <li>name.krypt.rimworld.pawntablegrouped</li>
+    <li>bart.htlr</li>
     <li>keyz182.keyzallowutilities</li>
+    <li>smxrez.laserreexamined</li>
     <li>uem.masonshandbook</li>
     <li>kirby.morereligiousorigins</li>
     <li>proxyer.optionalicons4ai</li>
@@ -371,15 +420,17 @@
     <li>rebuild.cotr.doorsandcorners</li>
     <li>reel.facialanims</li>
     <li>noxilie.regrow.wmb.alphabiomes</li>
+    <li>keshash.rgbr</li>
     <li>memegoddess.replacestuff</li>
     <li>garryflowers.researchappropriation</li>
-    <li>morton.retextureresearchpaperstechlevels</li>
     <li>ferny.rimbodyintegrationpatch</li>
     <li>deon.rimtek.stealthbelt</li>
     <li>sereq.rusticworkbenches</li>
     <li>kathanon.searchablemenus</li>
     <li>gerrymon.sexymasks</li>
+    <li>mrbeverage.shiftchange</li>
     <li>nishe.sialpharandom</li>
+    <li>twomoon.spacecowboyvehicles</li>
     <li>custommod.speakupextension</li>
     <li>al9000.sengoku</li>
     <li>tyinplop.toughnessskillmod</li>
@@ -401,7 +452,6 @@
     <li>dubwise.dubsmintmenus</li>
     <li>erin.japanesecuisine</li>
     <li>sd.fa.geneticheadsbiotech</li>
-    <li>sd.fa.geneticheadsmods</li>
     <li>andromeda.nicebilltab</li>
     <li>andromeda.niceinventorytab</li>
     <li>andromeda.niceplantsmenu</li>
@@ -420,6 +470,7 @@
     <li>redmattis.bigweapons</li>
     <li>redmattis.yokai</li>
     <li>mss.flavourpack</li>
+    <li>mrsamuelstreamer.shinobiflavourpack</li>
     <li>dubwise.dubsperformanceanalyzer.steam</li>
     <li>scorpio.optimizationleathers</li>
     <li>seohyeon.optimizationmeats</li>
@@ -427,7 +478,9 @@
     <li>co.uk.epicguru.meleeanimation</li>
     <li>vr.missilegirl</li>
     <li>7h0m4s.rimworldreadablenumbers</li>
+    <li>lordfelix.pillageandplunder</li>
     <li>setosa.power.tools</li>
+    <li>meathax.showmeyourtools</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>

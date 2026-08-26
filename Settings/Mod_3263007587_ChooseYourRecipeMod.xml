@@ -4,7 +4,6 @@
 		<disabledRecipes_keys>
 			<li>ElectricStove</li>
 			<li>FueledStove</li>
-			<li>MA_FlatCookingTable</li>
 		</disabledRecipes_keys>
 		<disabledRecipes_values>
 			<li>
@@ -104,18 +103,6 @@
 				<li>BS_MakeAndroidFuelFromWood_CookingStation</li>
 				<li>Make_PsychiteTea</li>
 				<li>Make_PsychiteTeaBulk</li>
-			</li>
-			<li>
-				<li>CookMealLavishBulk</li>
-				<li>CookMealFineBulk</li>
-				<li>CookMealLavish</li>
-				<li>CookMealFine</li>
-				<li>CookMealSimple</li>
-				<li>CookMealSimpleBulk</li>
-				<li>Make_Pemmican</li>
-				<li>Make_PemmicanBulk</li>
-				<li>Make_BabyFoodBulk</li>
-				<li>Make_BabyFood</li>
 			</li>
 		</disabledRecipes_values>
 	</ModSettings>

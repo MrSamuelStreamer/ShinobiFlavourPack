@@ -4,11 +4,11 @@
 		<EnablePortraitAnimationInPortrait>True</EnablePortraitAnimationInPortrait>
 		<UpdateAnimationInPortraitInterval>60</UpdateAnimationInPortraitInterval>
 		<DrawBrowsAboveHat>False</DrawBrowsAboveHat>
-		<DrawGeneParts>False</DrawGeneParts>
-		<DrawEarsParts>False</DrawEarsParts>
-		<DrawFaceTypeForGenes>False</DrawFaceTypeForGenes>
+		<DrawEyesParts>True</DrawEyesParts>
 		<EnableAnimationsForNonOfTheAbove>False</EnableAnimationsForNonOfTheAbove>
 		<EnableFacialAnimationMainTab>False</EnableFacialAnimationMainTab>
-		<IgnoreEnableAnimationForRaceXenoTypeListAA />
+		<IgnoreEnableAnimationForRaceXenoTypeListAA>
+			<li>Human-GS_Geist</li>
+		</IgnoreEnableAnimationForRaceXenoTypeListAA>
 	</ModSettings>
 </SettingsBlock>
