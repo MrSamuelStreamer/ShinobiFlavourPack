@@ -3,6 +3,7 @@
 	<ModSettings Class="BetterTrees.BetterTreesSettings">
 		<hasAppliedFirstTimeDefaults>True</hasAppliedFirstTimeDefaults>
 		<globalScaleMultiplier>1.99920511</globalScaleMultiplier>
+		<transparencyEnabled>True</transparencyEnabled>
 		<treeSettings>
 			<keys>
 				<li>Plant_TreeBamboo</li>

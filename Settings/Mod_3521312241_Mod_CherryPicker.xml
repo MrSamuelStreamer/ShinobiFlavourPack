@@ -64,6 +64,10 @@
 			<li>ThingDef/VCEF_RawSprat</li>
 			<li>ThingDef/VCEF_RawPufferfish</li>
 			<li>ThingDef/VCEF_RawPerch</li>
+			<li>ThingDef/Plant_TreeAnima</li>
+			<li>IncidentDef/AnimaTreeSpawn</li>
+			<li>PreceptDef/AnimaTreeLinking</li>
+			<li>PreceptDef/AM_AnimaBurial</li>
 		</keys>
 	</ModSettings>
 </SettingsBlock>

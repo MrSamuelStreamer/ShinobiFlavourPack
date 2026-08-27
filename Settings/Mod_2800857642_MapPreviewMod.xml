@@ -3,7 +3,7 @@
 	<ModSettings Class="MapPreview.MapPreviewSettings">
 		<EnableMapPreviewInPlay>False</EnableMapPreviewInPlay>
 		<EnableToolbarInPlay>False</EnableToolbarInPlay>
-		<PreviewWindowPos>(1537, 320)</PreviewWindowPos>
-		<ToolbarWindowPos>(1537, 270)</ToolbarWindowPos>
+		<PreviewWindowPos>(1486, 320)</PreviewWindowPos>
+		<ToolbarWindowPos>(1486, 270)</ToolbarWindowPos>
 	</ModSettings>
 </SettingsBlock>

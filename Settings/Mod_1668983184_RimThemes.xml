@@ -6,6 +6,7 @@
 		<rimthemesLogoMode>2</rimthemesLogoMode>
 		<expansionsIconsMode>2</expansionsIconsMode>
 		<curTheme>mrsamuelstreamer.rimthemesrecolours§Cyber Choom</curTheme>
+		<disableWallpaper>True</disableWallpaper>
 		<disableCustomFonts>True</disableCustomFonts>
 		<disableParticle>False</disableParticle>
 		<disableCustomLoader>True</disableCustomLoader>
@@ -16,7 +17,7 @@
 		<hideLoadingText>True</hideLoadingText>
 		<disableMainVideoBg>True</disableMainVideoBg>
 		<forceVanillaVideoBgWhenNoVBG>True</forceVanillaVideoBgWhenNoVBG>
-		<curRandomBg>-1§Phoebe Chillax</curRandomBg>
+		<curRandomBg>mrsamuelstreamer.rimthemesrecolours§Plum Purple</curRandomBg>
 		<lastVersionInfo>RimThemes NX rev10</lastVersionInfo>
 		<disableTinyCustomFont>True</disableTinyCustomFont>
 		<enableCentipedeTheme>False</enableCentipedeTheme>

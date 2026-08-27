@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ImplantsForAll.ImplantsForAllSettings">
+		<minImplantsPerPawn>1</minImplantsPerPawn>
+		<maxImplantsPerPawn>15</maxImplantsPerPawn>
+		<maxImplantMarketValue>2000</maxImplantMarketValue>
+		<limitByTechLevel>True</limitByTechLevel>
+		<techLevelMode>ByFactionTechLevel</techLevelMode>
+		<playerTechRange />
+		<tribalTechRange />
+		<empireTechRange />
+		<outlanderTechRange />
+		<pirateTechRange />
+		<otherTechRange />
+		<noFactionTechRange />
+		<blacklistedHediffs />
+		<playerRange />
+		<alliesRange />
+		<neutralsRange />
+		<hostilesRange />
+		<noFactionRange />
+		<neolithicLimits />
+		<medievalLimits />
+		<industrialLimits />
+		<spacerLimits />
+		<ultraLimits />
+		<archotechLimits />
+	</ModSettings>
+</SettingsBlock>
