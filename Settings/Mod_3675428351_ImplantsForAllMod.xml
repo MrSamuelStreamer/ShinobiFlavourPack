@@ -1,19 +1,98 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="ImplantsForAll.ImplantsForAllSettings">
-		<minImplantsPerPawn>1</minImplantsPerPawn>
-		<maxImplantsPerPawn>15</maxImplantsPerPawn>
-		<maxImplantMarketValue>2000</maxImplantMarketValue>
+		<maxImplantsPerPawn>5</maxImplantsPerPawn>
+		<minImplantMarketValue>4</minImplantMarketValue>
+		<maxImplantMarketValue>4000</maxImplantMarketValue>
 		<limitByTechLevel>True</limitByTechLevel>
-		<techLevelMode>ByFactionTechLevel</techLevelMode>
-		<playerTechRange />
-		<tribalTechRange />
-		<empireTechRange />
-		<outlanderTechRange />
-		<pirateTechRange />
-		<otherTechRange />
-		<noFactionTechRange />
-		<blacklistedHediffs />
+		<techLevelMode>ByFactionType</techLevelMode>
+		<playerTechRange>
+			<minTechLevel>Industrial</minTechLevel>
+		</playerTechRange>
+		<tribalTechRange>
+			<minTechLevel>Industrial</minTechLevel>
+			<maxTechLevel>Spacer</maxTechLevel>
+		</tribalTechRange>
+		<empireTechRange>
+			<minTechLevel>Industrial</minTechLevel>
+		</empireTechRange>
+		<outlanderTechRange>
+			<minTechLevel>Industrial</minTechLevel>
+			<maxTechLevel>Spacer</maxTechLevel>
+		</outlanderTechRange>
+		<pirateTechRange>
+			<minTechLevel>Industrial</minTechLevel>
+			<maxTechLevel>Spacer</maxTechLevel>
+		</pirateTechRange>
+		<otherTechRange>
+			<maxTechLevel>Spacer</maxTechLevel>
+		</otherTechRange>
+		<noFactionTechRange>
+			<minTechLevel>Industrial</minTechLevel>
+			<maxTechLevel>Spacer</maxTechLevel>
+		</noFactionTechRange>
+		<useBlacklist>True</useBlacklist>
+		<blacklistedHediffs>
+			<li>VME_FleshcraftedArmHediff</li>
+			<li>VME_FleshcraftedEarHediff</li>
+			<li>VME_FleshcraftedEyeHediff</li>
+			<li>VME_FleshcraftedFingerHediff</li>
+			<li>VME_FleshcraftedFootHediff</li>
+			<li>VME_FleshcraftedHandHediff</li>
+			<li>VME_FleshcraftedHeartHediff</li>
+			<li>VME_FleshcraftedJawHediff</li>
+			<li>VME_FleshcraftedKidneyHediff</li>
+			<li>VME_FleshcraftedLegHediff</li>
+			<li>VME_FleshcraftedLiverHediff</li>
+			<li>VME_FleshcraftedLungHediff</li>
+			<li>VME_FleshcraftedNoseHediff</li>
+			<li>VME_FleshcraftedSpineHediff</li>
+			<li>VME_FleshcraftedStomachHediff</li>
+			<li>VME_FleshcraftedToeHediff</li>
+			<li>VME_FleshcraftedTongueHediff</li>
+			<li>WoodenFoot</li>
+			<li>WoodenHand</li>
+			<li>Eccentric_Hediff_Ears_AmericanCurl</li>
+			<li>Eccentric_Hediff_Ears_Cat</li>
+			<li>Eccentric_Hediff_Tails_Cat</li>
+			<li>Eccentric_Hediff_Ears_MaineCoon</li>
+			<li>Eccentric_Hediff_Tails_MaineCoon</li>
+			<li>Eccentric_Hediff_Ears_ScottishFold</li>
+			<li>Eccentric_Hediff_Ears_Siamese</li>
+			<li>Eccentric_Hediff_Tails_Siamese</li>
+			<li>Eccentric_Hediff_Tails_Bear</li>
+			<li>Eccentric_Hediff_Tails_Bull</li>
+			<li>Eccentric_Hediff_Tails_Deer</li>
+			<li>Eccentric_Hediff_Tails_Fox</li>
+			<li>Eccentric_Hediff_Tails_Horse</li>
+			<li>Eccentric_Hediff_Tails_Labrador</li>
+			<li>Eccentric_Hediff_Tails_Mouse</li>
+			<li>Eccentric_Hediff_Tails_Owl</li>
+			<li>Eccentric_Hediff_Tails_Rabbit</li>
+			<li>Eccentric_Hediff_Tails_Shepherd</li>
+			<li>Eccentric_Hediff_Tails_Squirrel</li>
+			<li>Eccentric_Hediff_Tails_Terrier</li>
+			<li>Eccentric_Hediff_Tails_Wolf</li>
+			<li>Eccentric_Hediff_Ears_Wolf</li>
+			<li>Eccentric_Hediff_Ears_BlackBear</li>
+			<li>Eccentric_Hediff_Ears_BrownBear</li>
+			<li>Eccentric_Hediff_Ears_Labrador</li>
+			<li>Eccentric_Hediff_Ears_Shepherd</li>
+			<li>Eccentric_Hediff_Ears_Terrier</li>
+			<li>Eccentric_Hediff_Ears_Horse</li>
+			<li>Eccentric_Hediff_Ears_FoxGray</li>
+			<li>Eccentric_Hediff_Ears_SquirrelRed</li>
+			<li>Eccentric_Hediff_Ears_SquirrelGray</li>
+			<li>Eccentric_Hediff_Ears_Mouse</li>
+			<li>Eccentric_Hediff_Ears_Rabbit</li>
+			<li>Eccentric_Hediff_Ears_Fox</li>
+			<li>Eccentric_Hediff_Horn_Bull</li>
+			<li>Eccentric_Hediff_Horn_GreatHornedOwl</li>
+			<li>Eccentric_Hediff_Horn_Oni</li>
+			<li>Eccentric_Hediff_Horn_Thrumbo</li>
+			<li>Eccentric_Hediff_Horn_Unicorn</li>
+			<li>Eccentric_Hediff_Horn_Ram</li>
+		</blacklistedHediffs>
 		<playerRange />
 		<alliesRange />
 		<neutralsRange />

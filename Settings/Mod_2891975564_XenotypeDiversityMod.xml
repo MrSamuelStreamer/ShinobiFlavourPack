@@ -2,8 +2,27 @@
 <SettingsBlock>
 	<ModSettings Class="XenotypeSpawnControl.ModSettings">
 		<Templates>
-			<keys />
-			<values />
+			<keys>
+				<li>Kimchi</li>
+			</keys>
+			<values>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>KCA_Kimchianz</li>
+							<li>KCA_WhiteKimchianz</li>
+						</keys>
+						<values>
+							<li>
+								<chance>700</chance>
+							</li>
+							<li>
+								<chance>300</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+			</values>
 		</Templates>
 		<XenotypesByFactionDef>
 			<keys>
@@ -65,6 +84,11 @@
 				<li>KCA_PlayerKimchianz</li>
 				<li>TT_HostileFallback</li>
 				<li>TT_TraumaTeamFaction</li>
+				<li>HoraxCult</li>
+				<li>Entities</li>
+				<li>ResearchExpedition</li>
+				<li>FactionLoadout_Special_WildMan</li>
+				<li>FactionLoadout_Special_CreepJoiner</li>
 			</keys>
 			<values>
 				<li />
@@ -92,34 +116,54 @@
 							<li>Harana</li>
 							<li>Zohar</li>
 							<li>BS_Kitsune</li>
+							<li>KCA_Cabbianz</li>
+							<li>OE_Tortle</li>
+							<li>BS_Nekomata</li>
+							<li>BS_RedOni</li>
+							<li>BS_LesserOni</li>
 						</keys>
 						<values>
 							<li>
 								<chance>0</chance>
 							</li>
 							<li>
-								<chance>131</chance>
+								<chance>98</chance>
 							</li>
 							<li>
-								<chance>113</chance>
+								<chance>80</chance>
 							</li>
 							<li>
-								<chance>76</chance>
+								<chance>44</chance>
 							</li>
 							<li>
-								<chance>116</chance>
+								<chance>83</chance>
 							</li>
 							<li>
-								<chance>233</chance>
+								<chance>200</chance>
 							</li>
 							<li>
-								<chance>76</chance>
+								<chance>43</chance>
 							</li>
 							<li>
-								<chance>116</chance>
+								<chance>83</chance>
 							</li>
 							<li>
-								<chance>139</chance>
+								<chance>106</chance>
+							</li>
+							<li>
+								<chance>38</chance>
+							</li>
+							<li>
+								<chance>63</chance>
+							</li>
+							<li>
+								<chance>61</chance>
+							</li>
+							<li>
+								<chance>49</chance>
+							</li>
+							<li>
+								<chance>52</chance>
 							</li>
 						</values>
 					</XenotypeChances>
@@ -135,7 +179,22 @@
 				<li />
 				<li />
 				<li />
-				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Baseliner</li>
+							<li>GS_Geist</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>1000</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
 				<li />
 				<li />
 				<li />
@@ -187,25 +246,17 @@
 						<keys>
 							<li>Baseliner</li>
 							<li>GS_Geist</li>
-							<li>OW_Nekomate</li>
-							<li>Zohar</li>
-							<li>BS_Kitsune</li>
+							<li>OE_Tortle</li>
 						</keys>
 						<values>
 							<li>
 								<chance>0</chance>
 							</li>
 							<li>
-								<chance>235</chance>
+								<chance>0</chance>
 							</li>
 							<li>
-								<chance>266</chance>
-							</li>
-							<li>
-								<chance>234</chance>
-							</li>
-							<li>
-								<chance>265</chance>
+								<chance>1000</chance>
 							</li>
 						</values>
 					</XenotypeChances>
@@ -215,22 +266,14 @@
 					<XenotypeChances>
 						<keys>
 							<li>Baseliner</li>
-							<li>Highmate</li>
 							<li>ERN_Shisune</li>
-							<li>BS_Kitsune</li>
 						</keys>
 						<values>
 							<li>
 								<chance>0</chance>
 							</li>
 							<li>
-								<chance>303</chance>
-							</li>
-							<li>
-								<chance>452</chance>
-							</li>
-							<li>
-								<chance>245</chance>
+								<chance>1000</chance>
 							</li>
 						</values>
 					</XenotypeChances>
@@ -239,10 +282,61 @@
 					<XenotypeChances>
 						<keys>
 							<li>Baseliner</li>
-							<li>BS_RedOni</li>
-							<li>BS_GreatRedOni</li>
+							<li>OW_Nekomate</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>1000</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Baseliner</li>
+							<li>Bulwark</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>1000</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Baseliner</li>
+							<li>Harana</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>1000</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Baseliner</li>
 							<li>BS_BlueOni</li>
 							<li>BS_GreatBlueOni</li>
+							<li>BS_RedOni</li>
+							<li>BS_GreatRedOni</li>
 							<li>BS_LesserOni</li>
 						</keys>
 						<values>
@@ -250,121 +344,19 @@
 								<chance>0</chance>
 							</li>
 							<li>
-								<chance>170</chance>
+								<chance>612</chance>
 							</li>
 							<li>
-								<chance>126</chance>
+								<chance>54</chance>
 							</li>
 							<li>
-								<chance>187</chance>
+								<chance>54</chance>
 							</li>
 							<li>
-								<chance>135</chance>
+								<chance>67</chance>
 							</li>
 							<li>
-								<chance>382</chance>
-							</li>
-						</values>
-					</XenotypeChances>
-				</li>
-				<li />
-				<li>
-					<XenotypeChances>
-						<keys>
-							<li>Baseliner</li>
-							<li>KCA_Cabbianz</li>
-							<li>KCA_Kimchianz</li>
-							<li>KCA_WhiteKimchianz</li>
-						</keys>
-						<values>
-							<li>
-								<chance>0</chance>
-							</li>
-							<li>
-								<chance>333</chance>
-							</li>
-							<li>
-								<chance>334</chance>
-							</li>
-							<li>
-								<chance>333</chance>
-							</li>
-						</values>
-					</XenotypeChances>
-				</li>
-				<li />
-				<li>
-					<XenotypeChances>
-						<keys>
-							<li>Baseliner</li>
-							<li>ERN_Shisune</li>
-							<li>OW_Nekomate</li>
-							<li>Bulwark</li>
-							<li>BS_Kitsune</li>
-						</keys>
-						<values>
-							<li>
-								<chance>500</chance>
-							</li>
-							<li>
-								<chance>50</chance>
-							</li>
-							<li>
-								<chance>102</chance>
-							</li>
-							<li>
-								<chance>251</chance>
-							</li>
-							<li>
-								<chance>97</chance>
-							</li>
-						</values>
-					</XenotypeChances>
-				</li>
-				<li>
-					<XenotypeChances>
-						<keys>
-							<li>Baseliner</li>
-							<li>Bulwark</li>
-							<li>Harana</li>
-							<li>Zohar</li>
-						</keys>
-						<values>
-							<li>
-								<chance>543</chance>
-							</li>
-							<li>
-								<chance>141</chance>
-							</li>
-							<li>
-								<chance>149</chance>
-							</li>
-							<li>
-								<chance>167</chance>
-							</li>
-						</values>
-					</XenotypeChances>
-				</li>
-				<li>
-					<XenotypeChances>
-						<keys>
-							<li>Baseliner</li>
-							<li>AG_Nereid</li>
-							<li>BS_BlueOni</li>
-							<li>BS_GreatBlueOni</li>
-						</keys>
-						<values>
-							<li>
-								<chance>0</chance>
-							</li>
-							<li>
-								<chance>615</chance>
-							</li>
-							<li>
-								<chance>206</chance>
-							</li>
-							<li>
-								<chance>179</chance>
+								<chance>213</chance>
 							</li>
 						</values>
 					</XenotypeChances>
@@ -436,6 +428,26 @@
 						</values>
 					</XenotypeChances>
 				</li>
+				<li />
+				<li />
+				<li />
+				<li>
+					<XenotypeChances>
+						<keys>
+							<li>Baseliner</li>
+							<li>Zohar</li>
+						</keys>
+						<values>
+							<li>
+								<chance>0</chance>
+							</li>
+							<li>
+								<chance>1000</chance>
+							</li>
+						</values>
+					</XenotypeChances>
+				</li>
+				<li />
 				<li />
 				<li />
 				<li />
@@ -954,6 +966,37 @@
 				<li>FC_Infernihart</li>
 				<li>FC_Mirelung</li>
 				<li>FC_Scire</li>
+				<li>LeatheryStranger</li>
+				<li>DarkScholar</li>
+				<li>DealMaker</li>
+				<li>CreepDrifter</li>
+				<li>Blindhealer</li>
+				<li>TimelessOne</li>
+				<li>CultEscapee</li>
+				<li>LoneGenius</li>
+				<li>Nociosphere</li>
+				<li>Metalhorror</li>
+				<li>Revenant</li>
+				<li>Sightstealer</li>
+				<li>Noctol</li>
+				<li>FleshmassNucleus</li>
+				<li>Gorehulk</li>
+				<li>Devourer</li>
+				<li>Chimera</li>
+				<li>Bulbfreak</li>
+				<li>Fingerspike</li>
+				<li>Toughspike</li>
+				<li>Trispike</li>
+				<li>Dreadmeld</li>
+				<li>Horaxian_Underthrall</li>
+				<li>Horaxian_Gunner</li>
+				<li>Horaxian_Highthrall</li>
+				<li>ShamblerSwarmer</li>
+				<li>ShamblerSoldier</li>
+				<li>ShamblerGorehulk</li>
+				<li>Ghoul</li>
+				<li>Researcher</li>
+				<li>Gha_Assassin_Laborer</li>
 			</keys>
 			<values>
 				<li />
@@ -1360,6 +1403,37 @@
 						</values>
 					</XenotypeChances>
 				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
 				<li />
 				<li />
 				<li />

@@ -5542,6 +5542,578 @@
 				<li>stimpack_item</li>
 				<li>herbal powder_item</li>
 				<li>glitterworld stimpack_item</li>
+				<li>tome_item</li>
+				<li>ghoul plating_item</li>
+				<li>ghoul barbs_item</li>
+				<li>adrenal heart_item</li>
+				<li>corrosive heart_item</li>
+				<li>metalblood heart_item</li>
+				<li>revenant vertebrae_item</li>
+				<li>void metal_terrain</li>
+				<li>bioferrite plate_terrain</li>
+				<li>burned bioferrite plate_terrain</li>
+				<li>flesh_terrain</li>
+				<li>gray surface_terrain</li>
+				<li>fleshmass_building</li>
+				<li>flesh sack_building</li>
+				<li>fleshmass heart_building</li>
+				<li>fleshbulb_building</li>
+				<li>nerve bundle_building</li>
+				<li>fleshmass spitter_building</li>
+				<li>pit gate_building</li>
+				<li>pit gate exit_building</li>
+				<li>holding spot_building</li>
+				<li>holding platform_building</li>
+				<li>dirt cube sculpture_building</li>
+				<li>stone cube sculpture_building</li>
+				<li>sand cube sculpture_building</li>
+				<li>scrap cube sculpture_building</li>
+				<li>pit burrow_building</li>
+				<li>tactical turret_building</li>
+				<li>floor etching_building</li>
+				<li>gray box_building</li>
+				<li>gray statue_building</li>
+				<li>security door_building</li>
+				<li>electric inhibitor_building</li>
+				<li>shard inhibitor_building</li>
+				<li>proximity detector_building</li>
+				<li>atmospheric heater_building</li>
+				<li>frenzy inducer_building</li>
+				<li>sleep suppressor_building</li>
+				<li>noctolith_building</li>
+				<li>ied deadlife trap_building</li>
+				<li>endless pit_building</li>
+				<li>twisted obelisk_building</li>
+				<li>corrupted obelisk_building</li>
+				<li>warped obelisk_building</li>
+				<li>bioferrite generator_building</li>
+				<li>electroharvester_building</li>
+				<li>bioferrite shaper_building</li>
+				<li>serum lab_building</li>
+				<li>bioferrite harvester_building</li>
+				<li>psychic ritual spot_building</li>
+				<li>shard beacon_building</li>
+				<li>void sculpture_building</li>
+				<li>void monolith_building</li>
+				<li>void monolith attachment_building</li>
+				<li>void structure_building</li>
+				<li>void metal wall_building</li>
+				<li>void metal mass_building</li>
+				<li>void node_building</li>
+				<li>twisted archotech support_building</li>
+				<li>shard animal pulser_item</li>
+				<li>biomutation pulser_item</li>
+				<li>deadlife shell_item</li>
+				<li>voidsight serum_item</li>
+				<li>metalblood serum_item</li>
+				<li>juggernaut serum_item</li>
+				<li>mind-numb serum_item</li>
+				<li>ghoul resurrection serum_item</li>
+				<li>bioferrite_item</li>
+				<li>gray_item</li>
+				<li>dread leather_item</li>
+				<li>shard_item</li>
+				<li>revenant spine_item</li>
+				<li>twisted meat_item</li>
+				<li>golden cube_item</li>
+				<li>gray flesh sample_item</li>
+				<li>fleshmass neural lump_item</li>
+				<li>revenant flesh chunk_item</li>
+				<li>monolith fragment_item</li>
+				<li>ritual mask_item</li>
+				<li>ceremonial hood_item</li>
+				<li>disruptor flare pack_item</li>
+				<li>turret pack_item</li>
+				<li>deadlife pack_item</li>
+				<li>shard shock lance_item</li>
+				<li>shard insanity lance_item</li>
+				<li>biomutation lance_item</li>
+				<li>harbinger tree_plant</li>
+				<li>chopped harbinger stump_plant</li>
+				<li>smashed harbinger stump_plant</li>
+				<li>harbinger seed_item</li>
+				<li>nociosphere_pawn</li>
+				<li>metalhorror_pawn</li>
+				<li>revenant_pawn</li>
+				<li>sightstealer_pawn</li>
+				<li>noctol_pawn</li>
+				<li>fleshmass nucleus_pawn</li>
+				<li>gorehulk_pawn</li>
+				<li>devourer_pawn</li>
+				<li>chimera_pawn</li>
+				<li>bulbfreak_pawn</li>
+				<li>toughspike_pawn</li>
+				<li>trispike_pawn</li>
+				<li>fingerspike_pawn</li>
+				<li>dreadmeld_pawn</li>
+				<li>hellcat rifle_item</li>
+				<li>incinerator_item</li>
+				<li>nerve spiker_item</li>
+				<li>blood warmer_item</li>
+				<li>unique hellcat rifle_item</li>
+				<li>deactivated mech (small)_building</li>
+				<li>deactivated mech (medium)_building</li>
+				<li>deactivated mech (large)_building</li>
+				<li>deactivated mech (huge)_building</li>
+				<li>deactivated mech (colossal)_building</li>
+				<li>pawn group tool_none</li>
+				<li>random structure tool_none</li>
+				<li>access link tool_none</li>
+				<li>man turret tool_none</li>
+				<li>facility interior wall_building</li>
+				<li>hull wall_building</li>
+				<li>hull maintenance wall_building</li>
+				<li>facility door_building</li>
+				<li>trauma team fatigues_item</li>
+				<li>trauma team vest_item</li>
+				<li>trauma team helmet_item</li>
+				<li>holo-barricade base_building</li>
+				<li>holo-barricade_building</li>
+				<li>holo-turret base_building</li>
+				<li>holo-turret_building</li>
+				<li>ancient gray pall vent_building</li>
+				<li>ancient blood rain vent_building</li>
+				<li>ancient death pall vent_building</li>
+				<li>aberrant grimoire_item</li>
+				<li>cubic tile_terrain</li>
+				<li>flesh covering_terrain</li>
+				<li>flesh tile_terrain</li>
+				<li>horaxian tile_terrain</li>
+				<li>cubic bed_building</li>
+				<li>double cubic bed_building</li>
+				<li>cubic hospital bed_building</li>
+				<li>fleshmass piece (1x1)_building</li>
+				<li>fleshmass piece (2x2)_building</li>
+				<li>horaxian bed_building</li>
+				<li>double horaxian bed_building</li>
+				<li>decorative gray statue_building</li>
+				<li>cubic slab (medium)_building</li>
+				<li>cubic slab (broad)_building</li>
+				<li>flesh slab (medium)_building</li>
+				<li>flesh slab (broad)_building</li>
+				<li>horaxian slab (medium)_building</li>
+				<li>horaxian slab (broad)_building</li>
+				<li>flanker helmet_item</li>
+				<li>flanker armor_item</li>
+				<li>vanguard helmet_item</li>
+				<li>vanguard armor_item</li>
+				<li>breacher helmet_item</li>
+				<li>breacher armor_item</li>
+				<li>light helmet_item</li>
+				<li>light suit_item</li>
+				<li>combat helmet_item</li>
+				<li>combat suit_item</li>
+				<li>heavy-duty helmet_item</li>
+				<li>heavy-duty suit_item</li>
+				<li>glitter helmet_item</li>
+				<li>glitter suit_item</li>
+				<li>flak collar_item</li>
+				<li>armored goggles_item</li>
+				<li>flak goggles_item</li>
+				<li>heavy flak jacket_item</li>
+				<li>ammochute_item</li>
+				<li>single rocket launcher_item</li>
+				<li>grenade launcher_item</li>
+				<li>saw_item</li>
+				<li>body bag_building</li>
+				<li>hesco wall_building</li>
+				<li>empty usac supply crate (s)_building</li>
+				<li>empty usac supply crate (m)_building</li>
+				<li>empty usac supply crate (l)_building</li>
+				<li>usac supply crate (s)_building</li>
+				<li>usac supply crate (m)_building</li>
+				<li>usac supply crate (l)_building</li>
+				<li>m88 rocky wreck_building</li>
+				<li>m939 paraman wreck_building</li>
+				<li>xm3 gonk wreck_building</li>
+				<li>m7 cobalt wreck_building</li>
+				<li>m110 omaha wreck_building</li>
+				<li>assault mining rig_building</li>
+				<li>heavy sentry gun_building</li>
+				<li>usac standard corpse storage solution_building</li>
+				<li>hardiman powered unit_item</li>
+				<li>assault helmet_item</li>
+				<li>heavy helmet_item</li>
+				<li>gladiator helmet_item</li>
+				<li>night vision helmet_item</li>
+				<li>neuro-booster_item</li>
+				<li>credit bond_item</li>
+				<li>disposable battery_item</li>
+				<li>disposable repair tool_item</li>
+				<li>b-ration_item</li>
+				<li>heated b-ration_item</li>
+				<li>mechlink serum_item</li>
+				<li>m88 "rocky" order_item</li>
+				<li>m939 "paraman" order_item</li>
+				<li>m7 "cobalt" order_item</li>
+				<li>xm3 "gonk" order_item</li>
+				<li>m110 "omaha" order_item</li>
+				<li>cobra assault cannon_item</li>
+				<li>viper dmr_item</li>
+				<li>bushmaster autocannon_item</li>
+				<li>torchwood recoilless rifle_item</li>
+				<li>advanced auto rifle_item</li>
+				<li>advanced lmg_item</li>
+				<li>advanced marksman rifle_item</li>
+				<li>advanced battle rifle_item</li>
+				<li>objective sniper weapon_item</li>
+				<li>advanced support weapon_item</li>
+				<li>m7 "cobalt"_pawn</li>
+				<li>xm3 "gonk"_pawn</li>
+				<li>m110 "omaha"_pawn</li>
+				<li>m939 "paraman"_pawn</li>
+				<li>m88 "rocky"_pawn</li>
+				<li>bladelink_item</li>
+				<li>prestige bladelink_item</li>
+				<li>bladelink deserter helmet_item</li>
+				<li>restraint chair_building</li>
+				<li>restraint rack_building</li>
+				<li>restraint pole_building</li>
+				<li>pillory_building</li>
+				<li>guillotine_building</li>
+				<li>wall-mounted cot_building</li>
+				<li>small prisoner cage_building</li>
+				<li>medium prisoner cage_building</li>
+				<li>large prisoner cage_building</li>
+				<li>hyperhealing canister_item</li>
+				<li>enhanced hyperhealing canister_item</li>
+				<li>medic dartgun_item</li>
+				<li>medic dartrifle_item</li>
+				<li>katana scabbard_item</li>
+				<li>ultratech scabbard_item</li>
+				<li>archotech scabbard_item</li>
+				<li>monoblade_item</li>
+				<li>persona monoblade_item</li>
+				<li>persona prestige monoblade_item</li>
+				<li>luci's edge_item</li>
+				<li>archoblade_item</li>
+				<li>unique charge absolver_item</li>
+				<li>charge trapshot rifle_item</li>
+				<li>charge absolver_item</li>
+				<li>charge magnum_item</li>
+				<li>fish trap_building</li>
+				<li>fish net_building</li>
+				<li>kimchianz_pawn</li>
+				<li>kimchianz wrap-style jeogori_item</li>
+				<li>kimchianz open-front jeogori_item</li>
+				<li>kimchianz basic helmet_item</li>
+				<li>kimchianz basic armor_item</li>
+				<li>kimchianz premium helmet_item</li>
+				<li>kimchianz premium armor_item</li>
+				<li>kimchianz premium wrap-stlye jeogori_item</li>
+				<li>kimchianz premium open-front jeogori_item</li>
+				<li>kimchianz vacsuit helmet_item</li>
+				<li>kimchianz vacsuit armor_item</li>
+				<li>kimchianz gate_building</li>
+				<li>kimchianz automatic gate_building</li>
+				<li>kimchianz gate frame_building</li>
+				<li>kimchianz eave_building</li>
+				<li>kimchianz eave (incorner)_building</li>
+				<li>kimchianz eave (outcorner)_building</li>
+				<li>kimchianz roof_building</li>
+				<li>kimchianz roof (corner)_building</li>
+				<li>kimchianz wall_building</li>
+				<li>kimchianz cooking station_building</li>
+				<li>kimchi onggi_building</li>
+				<li>kimchianz tailor bench_building</li>
+				<li>kimchianz machining table_building</li>
+				<li>kimchianz stele_building</li>
+				<li>kimjang ritual onggi_building</li>
+				<li>kimchianz workshop tuner_building</li>
+				<li>kimchi_item</li>
+				<li>fermenting kimchi_item</li>
+				<li>sour kimchi_item</li>
+				<li>stir-fried kimchi_item</li>
+				<li>kimchi stew_item</li>
+				<li>bossam_item</li>
+				<li>kimchi jjim_item</li>
+				<li>kimchi fried rice_item</li>
+				<li>kimchi meat rice bowl_item</li>
+				<li>napa cabbage_plant</li>
+				<li>chili pepper_plant</li>
+				<li>napa cabbage_item</li>
+				<li>chili pepper_item</li>
+				<li>fermentation crystal_item</li>
+				<li>lactic serum amplifier_item</li>
+				<li>kimchianz blazing pulse rifle_item</li>
+				<li>kimchianz precision musket_item</li>
+				<li>kimchianz lightweight seungja chongtong_item</li>
+				<li>dokkaebi club_item</li>
+				<li>kimchianz scarlet hwando_item</li>
+				<li>kimchianz blazing greatsword_item</li>
+				<li>オートリペアー（機械化ウマ）_item</li>
+				<li>r corp fatigues_item</li>
+				<li>r corp rabbit helmet (type a)_item</li>
+				<li>r corp rabbit helmet (type c)_item</li>
+				<li>r corp rabbit helmet (type b)_item</li>
+				<li>r corp reindeer helmet (type a)_item</li>
+				<li>r corp reindeer helmet (type b)_item</li>
+				<li>r corp reindeer helmet (type c)_item</li>
+				<li>r corp rhino helmet (type a)_item</li>
+				<li>r corp rhino helmet (type b)_item</li>
+				<li>r corp rhino helmet (type c)_item</li>
+				<li>r corp rabbit armor_item</li>
+				<li>r corp reindeer armor_item</li>
+				<li>r corp rhino armor_item</li>
+				<li>r corp turtleneck_item</li>
+				<li>r corp lab coat_item</li>
+				<li>r corp rabbit captain helmet_item</li>
+				<li>r corp reindeer captain helmet_item</li>
+				<li>r corp rhino captain helmet_item</li>
+				<li>r corp rabbit captain armor_item</li>
+				<li>r corp reindeer captain armor_item</li>
+				<li>r corp rhino captain armor_item</li>
+				<li>r corp commander beret_item</li>
+				<li>r corp commander coat_item</li>
+				<li>r corp commander overcoat_item</li>
+				<li>r corp reindeer antlers (type a)_item</li>
+				<li>r corp reindeer antlers (type b)_item</li>
+				<li>rabbit rifle_item</li>
+				<li>r corp rabbit knife_item</li>
+				<li>r corp commander sword_item</li>
+				<li>r corp rhino wristblade_item</li>
+				<li>r corp rhino hammer_item</li>
+				<li>r corp rhino captain's hammer_item</li>
+				<li>r corp 4th pack reindeer staff_item</li>
+				<li>r corp 4th pack reindeer captain staff_item</li>
+				<li>simple clothing bench_building</li>
+				<li>electric clothing bench_building</li>
+				<li>general`s hat_item</li>
+				<li>(alert) glass wall_building</li>
+				<li>blue glass wall_building</li>
+				<li>(alert) blue glass wall_building</li>
+				<li>green glass wall_building</li>
+				<li>(alert) green glass wall_building</li>
+				<li>yellow glass wall_building</li>
+				<li>(alert) yellow glass wall_building</li>
+				<li>orange glass wall_building</li>
+				<li>(alert) orange glass wall_building</li>
+				<li>red glass wall_building</li>
+				<li>(alert) red glass wall_building</li>
+				<li>pink glass wall_building</li>
+				<li>(alert) pink glass wall_building</li>
+				<li>purple glass wall_building</li>
+				<li>(alert) purple glass wall_building</li>
+				<li>rounded glass wall_building</li>
+				<li>(alert) rounded glass wall_building</li>
+				<li>blue rounded glass wall_building</li>
+				<li>(alert) blue rounded glass wall_building</li>
+				<li>green rounded glass wall_building</li>
+				<li>(alert) green rounded glass wall_building</li>
+				<li>yellow rounded glass wall_building</li>
+				<li>(alert) yellow rounded glass wall_building</li>
+				<li>orange rounded glass wall_building</li>
+				<li>(alert) orange rounded glass wall_building</li>
+				<li>red rounded glass wall_building</li>
+				<li>(alert) red rounded glass wall_building</li>
+				<li>pink rounded glass wall_building</li>
+				<li>(alert) pink rounded glass wall_building</li>
+				<li>purple rounded glass wall_building</li>
+				<li>(alert) purple rounded glass wall_building</li>
+				<li>tox rapier_item</li>
+				<li>tox curved blade_item</li>
+				<li>tox scythe_item</li>
+				<li>tox gauntlet_item</li>
+				<li>tox triblade_item</li>
+				<li>persona tox rapier_item</li>
+				<li>persona tox curved blade_item</li>
+				<li>persona tox scythe_item</li>
+				<li>persona tox gauntlet_item</li>
+				<li>persona tox triblade_item</li>
+				<li>prestige stellic polearm_item</li>
+				<li>prestige stellic thurible_item</li>
+				<li>fletcher crossbow_item</li>
+				<li>zetatech atlus shuttle_building</li>
+				<li>udjat tactical mask_item</li>
+				<li>udjat helmet_item</li>
+				<li>udjat team leader helmet_item</li>
+				<li>udjat team leader armor robe_item</li>
+				<li>udjat armor robe_item</li>
+				<li>udjat team leader rifle_item</li>
+				<li>udjat rifle_item</li>
+				<li>udjat khopesh_item</li>
+				<li>traditional recurve bow_item</li>
+				<li>european longbow_item</li>
+				<li>modern recurve bow_item</li>
+				<li>modern compound bow_item</li>
+				<li>"coronal"_item</li>
+				<li>"meltdown"_item</li>
+				<li>"havoc"_item</li>
+				<li>"whisper of the past"_item</li>
+				<li>guardian_item</li>
+				<li>vanguard_item</li>
+				<li>warden_item</li>
+				<li>enforcer_item</li>
+				<li>watchman_item</li>
+				<li>sentinel_item</li>
+				<li>panopticon_item</li>
+				<li>barricade mlws_item</li>
+				<li>simple ballistic computer_item</li>
+				<li>advanced ballistic computer_item</li>
+				<li>fake cube_building</li>
+				<li>decorative platform_building</li>
+				<li>atmospheric heater, lit_building</li>
+				<li>decorative cube, dirt_building</li>
+				<li>decorative cube, stone_building</li>
+				<li>decorative cube, sand_building</li>
+				<li>decorative cube, scrap_building</li>
+				<li>empty gray box_building</li>
+				<li>fake gray door_building</li>
+				<li>fake security door_building</li>
+				<li>inactive twisted obelisk_building</li>
+				<li>inactive corrupted obelisk_building</li>
+				<li>inactive warped obelisk_building</li>
+				<li>fake pit burrow_building</li>
+				<li>fake pit, small_building</li>
+				<li>fake pit, medium_building</li>
+				<li>fake pit, large_building</li>
+				<li>archotech support_building</li>
+				<li>large archotech support_building</li>
+				<li>vertical archotech support_building</li>
+				<li>decorative void sculpture_building</li>
+				<li>void structure, lit_building</li>
+				<li>fleshmass debris_building</li>
+				<li>revenant smear_building</li>
+				<li>revenant gore pool_building</li>
+				<li>loose ground_building</li>
+				<li>twisted flesh_building</li>
+				<li>metalhorror debris_building</li>
+				<li>floor etchings_building</li>
+				<li>fake harbinger tree_building</li>
+				<li>nociosphere departing_building</li>
+				<li>tachycardiac arrest_building</li>
+				<li>shambler raise_building</li>
+				<li>abduct warmup_building</li>
+				<li>trading terminal_building</li>
+				<li>w corp cap_item</li>
+				<li>w corp shirt_item</li>
+				<li>w corp chestplate_item</li>
+				<li>dimensional refraction edge - type: blade mk 7_item</li>
+				<li>dimensional refraction edge - type: polearm mk 3_item</li>
+				<li>dimensional refraction edge - type: dagger mk 2_item</li>
+				<li>dimensional refraction edge - type: axe mk 4_item</li>
+				<li>dimensional refraction edge - type: machete mk 4_item</li>
+				<li>dimensional refraction edge - type: baton mk 1_item</li>
+				<li>gray wall_building</li>
+				<li>gray door_building</li>
+				<li>scire antler_item</li>
+				<li>mirelung antler_item</li>
+				<li>infernihart antler_item</li>
+				<li>auravine antler_item</li>
+				<li>scire leather_item</li>
+				<li>auravine leather_item</li>
+				<li>infernihart leather_item</li>
+				<li>mirelung leather_item</li>
+				<li>auravine_pawn</li>
+				<li>infernihart_pawn</li>
+				<li>mirelung_pawn</li>
+				<li>scire_pawn</li>
+				<li>ashtray_building</li>
+				<li>decanter bottle_building</li>
+				<li>row of liquor bottles_building</li>
+				<li>shot glasses_building</li>
+				<li>condoms_building</li>
+				<li>dirty laundry_building</li>
+				<li>handcuffs_building</li>
+				<li>sex toy_building</li>
+				<li>mannequin_building</li>
+				<li>empty rack_building</li>
+				<li>pole stage_building</li>
+				<li>camera_building</li>
+				<li>x-cross_building</li>
+				<li>coffee cup_building</li>
+				<li>coffee machine_building</li>
+				<li>file folder_building</li>
+				<li>medicine bottles_building</li>
+				<li>medicine pills_building</li>
+				<li>stack of paperworks_building</li>
+				<li>empty bottles_building</li>
+				<li>empty cans_building</li>
+				<li>drug trash_building</li>
+				<li>spilled fluid_building</li>
+				<li>knee splitter_building</li>
+				<li>torture tool_building</li>
+				<li>torture tool kit_building</li>
+				<li>torture tool tray_building</li>
+				<li>wall shackle_building</li>
+				<li>wall shackles_building</li>
+				<li>wall chained handcuff_building</li>
+				<li>bolted handcuff_building</li>
+				<li>stray chains_building</li>
+				<li>hanging handcuffs_building</li>
+				<li>hanging chains_building</li>
+				<li>3x2 rustic table_building</li>
+				<li>rustic prison bed_building</li>
+				<li>chair with restraints_building</li>
+				<li>2x2 oubliette_building</li>
+				<li>3x2 oubliette_building</li>
+				<li>3x3 oubliette_building</li>
+				<li>empty gibbet cage_building</li>
+				<li>empty tall gibbet cage_building</li>
+				<li>cage pile a_building</li>
+				<li>cage pile b_building</li>
+				<li>cage pile c_building</li>
+				<li>cage pile d_building</li>
+				<li>torture rack_building</li>
+				<li>prisoner pole_building</li>
+				<li>chopping block_building</li>
+				<li>low brazier_building</li>
+				<li>low brazier (unlit)_building</li>
+				<li>2x2 cage base_building</li>
+				<li>3x2 cage base_building</li>
+				<li>3x3 cage base_building</li>
+				<li>2x2 cage (round bar)_building</li>
+				<li>2x2 cage (flat bar)_building</li>
+				<li>2x2 cage (spiked)_building</li>
+				<li>2x2 cage (shoddy)_building</li>
+				<li>3x2 cage (round bar)_building</li>
+				<li>3x2 cage (flat bar)_building</li>
+				<li>3x2 cage (spiked)_building</li>
+				<li>3x2 cage (shoddy)_building</li>
+				<li>3x3 cage (round bar)_building</li>
+				<li>3x3 cage (flat bar)_building</li>
+				<li>3x3 cage (spiked)_building</li>
+				<li>3x3 cage (shoddy)_building</li>
+				<li>large security door_building</li>
+				<li>cubic crib_building</li>
+				<li>doner kebab_item</li>
+				<li>kebabtech implant_item</li>
+				<li>machine spirit altar_building</li>
+				<li>worker projection implant_item</li>
+				<li>imperial info techprint_item</li>
+				<li>imperial propaganda_item</li>
+				<li>paper_item</li>
+				<li>book_item</li>
+				<li>pam_item</li>
+				<li>data core_item</li>
+				<li>neolithic desk_building</li>
+				<li>regular desk_building</li>
+				<li>advanced desk_building</li>
+				<li>spacer desk_building</li>
+				<li>neolithic stone_building</li>
+				<li>chalk board_building</li>
+				<li>spacer board_building</li>
+				<li>joy bookshelf_building</li>
+				<li>spacer bookshelf_building</li>
+				<li>shooting bookshelf_building</li>
+				<li>melee bookshelf_building</li>
+				<li>construction bookshelf_building</li>
+				<li>mining bookshelf_building</li>
+				<li>cooking bookshelf_building</li>
+				<li>plants bookshelf_building</li>
+				<li>animals bookshelf_building</li>
+				<li>crafting bookshelf_building</li>
+				<li>art bookshelf_building</li>
+				<li>medicine bookshelf_building</li>
+				<li>social bookshelf_building</li>
+				<li>intellectual bookshelf_building</li>
+				<li>library table_building</li>
+				<li>author desk_building</li>
+				<li>printing press_building</li>
+				<li>ywwuyi duck_pawn</li>
+				<li>quin_pawn</li>
+				<li>wtmsbear_pawn</li>
+				<li>amidonkey_pawn</li>
 			</keys>
 			<values>
 				<li>
@@ -5549,6 +6121,7 @@
 					<mainThingDefName>TextBook</mainThingDefName>
 					<thingDefs>
 						<li>TextBook</li>
+						<li>Fox_Textbook</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -7120,13 +7693,13 @@
 				</li>
 				<li>
 					<thingKey>dresser_building</thingKey>
-					<mainThingDefName>RRLincangDresser</mainThingDefName>
-					<deduplicationEnabled>True</deduplicationEnabled>
+					<mainThingDefName>Dresser</mainThingDefName>
 					<thingDefs>
 						<li>Dresser</li>
-						<li>RRLincangDresser</li>
 					</thingDefs>
-					<removedDefs />
+					<removedDefs>
+						<li>RRLincangDresser</li>
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>horseshoes pin_building</thingKey>
@@ -8063,6 +8636,7 @@
 					<mainThingDefName>Door</mainThingDefName>
 					<thingDefs>
 						<li>Door</li>
+						<li>GrayDoor</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -8095,6 +8669,7 @@
 					<mainThingDefName>Wall</mainThingDefName>
 					<thingDefs>
 						<li>Wall</li>
+						<li>GrayWall</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -10337,6 +10912,7 @@
 					<mainThingDefName>Human</mainThingDefName>
 					<thingDefs>
 						<li>Human</li>
+						<li>CreepJoiner</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -11607,11 +12183,15 @@
 				</li>
 				<li>
 					<thingKey>locust armor_item</thingKey>
-					<mainThingDefName>Apparel_ArmorLocust</mainThingDefName>
+					<mainThingDefName>KRC_RhinoArmor</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
-						<li>Apparel_ArmorLocust</li>
+						<li>KRC_RhinoArmor</li>
+						<li>Apparel_ArmorCataphractPhoenix</li>
 					</thingDefs>
-					<removedDefs />
+					<removedDefs>
+						<li>Apparel_ArmorLocust</li>
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>grenadier armor_item</thingKey>
@@ -13859,7 +14439,6 @@
 						<li>ToxicFlood</li>
 						<li>SpringFlood</li>
 						<li>AB_MutagenicOcularWaterFlood</li>
-						<li>ND_FloodShallow</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -16608,9 +17187,11 @@
 				</li>
 				<li>
 					<thingKey>janissary helmet_item</thingKey>
-					<mainThingDefName>VFEE_Apparel_JanissaryHelmet</mainThingDefName>
+					<mainThingDefName>KRC_RabbitCaptainHelmet</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>VFEE_Apparel_JanissaryHelmet</li>
+						<li>KRC_RabbitCaptainHelmet</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -16640,9 +17221,11 @@
 				</li>
 				<li>
 					<thingKey>janissary cuirass_item</thingKey>
-					<mainThingDefName>VFEE_Apparel_JanissaryCuirass</mainThingDefName>
+					<mainThingDefName>KRC_RabbitCaptainArmor</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>VFEE_Apparel_JanissaryCuirass</li>
+						<li>KRC_RabbitCaptainArmor</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -17821,8 +18404,8 @@
 					<thingKey>lab coat_item</thingKey>
 					<mainThingDefName>K4G_Apparel_LabCoat</mainThingDefName>
 					<thingDefs>
-						<li>K4G_Apparel_LabCoat</li>
 						<li>LabCoat</li>
+						<li>Apparel_LabCoat</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -18521,7 +19104,6 @@
 					<thingKey>fridge_building</thingKey>
 					<mainThingDefName>sbz_Fridge</mainThingDefName>
 					<thingDefs>
-						<li>sbz_Fridge</li>
 						<li>ReelStorageFridge</li>
 						<li>ReelStorageNewFridge</li>
 						<li>VFEPD_Fridge</li>
@@ -18531,49 +19113,37 @@
 				<li>
 					<thingKey>large fridge_building</thingKey>
 					<mainThingDefName>sbz_LargeFridge</mainThingDefName>
-					<thingDefs>
-						<li>sbz_LargeFridge</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>single chest fridge_building</thingKey>
 					<mainThingDefName>sbz_SingleChestFridge</mainThingDefName>
-					<thingDefs>
-						<li>sbz_SingleChestFridge</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>double chest fridge_building</thingKey>
 					<mainThingDefName>sbz_DoubleChestFridge</mainThingDefName>
-					<thingDefs>
-						<li>sbz_DoubleChestFridge</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>single wall fridge_building</thingKey>
 					<mainThingDefName>sbz_SingleWallFridge</mainThingDefName>
-					<thingDefs>
-						<li>sbz_SingleWallFridge</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>double wall fridge_building</thingKey>
 					<mainThingDefName>sbz_DoubleWallFridge</mainThingDefName>
-					<thingDefs>
-						<li>sbz_DoubleWallFridge</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>corpse fridge_building</thingKey>
 					<mainThingDefName>sbz_CorpseFridge</mainThingDefName>
-					<thingDefs>
-						<li>sbz_CorpseFridge</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -24406,6 +24976,7 @@
 					<mainThingDefName>ED_PetBowl</mainThingDefName>
 					<thingDefs>
 						<li>ED_PetBowl</li>
+						<li>GM_PropPetBowl</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -24516,67 +25087,89 @@
 				<li>
 					<thingKey>amaro_pawn</thingKey>
 					<mainThingDefName>ERN_Amaro</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>ERN_Amaro</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>grand carbuncle_pawn</thingKey>
 					<mainThingDefName>ERN_BigCarbuncle</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>ERN_BigCarbuncle</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>carbuncle_pawn</thingKey>
 					<mainThingDefName>ERN_Carbuncle</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>ERN_Carbuncle</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>chocobo_pawn</thingKey>
 					<mainThingDefName>ERN_Chocobo</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>ERN_Chocobo</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amar egg (unfert.)_item</thingKey>
 					<mainThingDefName>ERN_EggAmaroUnfertilized</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>ERN_EggAmaroUnfertilized</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amaro egg (fert.)_item</thingKey>
 					<mainThingDefName>EggAmaroFertilized</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>EggAmaroFertilized</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amaro skin_item</thingKey>
 					<mainThingDefName>Leather_Amaro</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>Leather_Amaro</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>carbuncle fur_item</thingKey>
 					<mainThingDefName>Fur_Carbuncle</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>Fur_Carbuncle</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>carbuncle gem_item</thingKey>
 					<mainThingDefName>ERN_CarbuncleGem</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>ERN_CarbuncleGem</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>chocobo egg (fert.)_item</thingKey>
 					<mainThingDefName>EggChocoboFertilized</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>EggChocoboFertilized</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>chocobo egg (unfert.)_item</thingKey>
 					<mainThingDefName>ERN_EggChocoboUnfertilized</mainThingDefName>
-					<thingDefs />
+					<thingDefs>
+						<li>ERN_EggChocoboUnfertilized</li>
+					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
@@ -33091,6 +33684,7 @@
 					<mainThingDefName>VFEPD_DriedBlood</mainThingDefName>
 					<thingDefs>
 						<li>VFEPD_DriedBlood</li>
+						<li>GM_VFEPD_BloodSplatter</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -35831,6 +36425,8 @@
 					<mainThingDefName>VFEPD_FilthTrash</mainThingDefName>
 					<thingDefs>
 						<li>VFEPD_FilthTrash</li>
+						<li>GM_PropCondomWrappers</li>
+						<li>GM_PropUsedCondoms</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -35863,6 +36459,7 @@
 					<mainThingDefName>VFEPD_FilthBlood</mainThingDefName>
 					<thingDefs>
 						<li>VFEPD_FilthBlood</li>
+						<li>GM_VFEPD_FilthBlood</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -36288,6 +36885,7 @@
 					<mainThingDefName>VFEPD_Lockers</mainThingDefName>
 					<thingDefs>
 						<li>VFEPD_Lockers</li>
+						<li>Fox_Lockers</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -39615,9 +40213,7 @@
 				<li>
 					<thingKey>fridge container_building</thingKey>
 					<mainThingDefName>FFE_FridgeContainer</mainThingDefName>
-					<thingDefs>
-						<li>FFE_FridgeContainer</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -43564,8 +44160,10 @@
 				<li>
 					<thingKey>ornate wall_building</thingKey>
 					<mainThingDefName>RB_OrnateWall</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>RB_OrnateWall</li>
+						<li>VFEArch_FineWall</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -43590,6 +44188,7 @@
 					<mainThingDefName>RB_GlassWall</mainThingDefName>
 					<thingDefs>
 						<li>RB_GlassWall</li>
+						<li>SW_NormalGlitterGlassWall</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -47024,225 +47623,169 @@
 				<li>
 					<thingKey>packed snowdrift_building</thingKey>
 					<mainThingDefName>ND_SnowdriftBlocker</mainThingDefName>
-					<thingDefs>
-						<li>ND_SnowdriftBlocker</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>emergency weather radar_building</thingKey>
 					<mainThingDefName>ND_EmergencyWeatherRadar</mainThingDefName>
-					<thingDefs>
-						<li>ND_EmergencyWeatherRadar</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rain-soaked ground_terrain</thingKey>
 					<mainThingDefName>ND_FloodWet</mainThingDefName>
-					<thingDefs>
-						<li>ND_FloodWet</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dangerous floodwater_terrain</thingKey>
 					<mainThingDefName>ND_FloodDangerous</mainThingDefName>
-					<thingDefs>
-						<li>ND_FloodDangerous</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deep floodwater_terrain</thingKey>
 					<mainThingDefName>ND_FloodDeep</mainThingDefName>
-					<thingDefs>
-						<li>ND_FloodDeep</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>extreme floodwater_terrain</thingKey>
 					<mainThingDefName>ND_FloodExtreme</mainThingDefName>
-					<thingDefs>
-						<li>ND_FloodExtreme</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hairline earthquake fractures_terrain</thingKey>
 					<mainThingDefName>ND_CrackedGround</mainThingDefName>
-					<thingDefs>
-						<li>ND_CrackedGround</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fault-fractured ground_terrain</thingKey>
 					<mainThingDefName>ND_FaultFracturedGround</mainThingDefName>
-					<thingDefs>
-						<li>ND_FaultFracturedGround</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>laterally spread ground_terrain</thingKey>
 					<mainThingDefName>ND_RubbleGround</mainThingDefName>
-					<thingDefs>
-						<li>ND_RubbleGround</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>earthquake fault scarp_terrain</thingKey>
 					<mainThingDefName>ND_FaultScarpGround</mainThingDefName>
-					<thingDefs>
-						<li>ND_FaultScarpGround</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>earthquake collapse chasm_terrain</thingKey>
 					<mainThingDefName>ND_CollapseChasm</mainThingDefName>
-					<thingDefs>
-						<li>ND_CollapseChasm</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sinkhole chasm_terrain</thingKey>
 					<mainThingDefName>ND_SinkholeChasm</mainThingDefName>
-					<thingDefs>
-						<li>ND_SinkholeChasm</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flood mud_terrain</thingKey>
 					<mainThingDefName>ND_MuddyGround</mainThingDefName>
-					<thingDefs>
-						<li>ND_MuddyGround</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>eroded flood channel_terrain</thingKey>
 					<mainThingDefName>ND_ErodedChannel</mainThingDefName>
-					<thingDefs>
-						<li>ND_ErodedChannel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>wildfire burn scar_terrain</thingKey>
 					<mainThingDefName>ND_ScorchedGround</mainThingDefName>
-					<thingDefs>
-						<li>ND_ScorchedGround</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>landslide debris field_terrain</thingKey>
 					<mainThingDefName>ND_LandslideDebris</mainThingDefName>
-					<thingDefs>
-						<li>ND_LandslideDebris</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>landslide head scarp_terrain</thingKey>
 					<mainThingDefName>ND_LandslideHeadScarp</mainThingDefName>
-					<thingDefs>
-						<li>ND_LandslideHeadScarp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>packed avalanche deposit_terrain</thingKey>
 					<mainThingDefName>ND_AvalancheDeposit</mainThingDefName>
-					<thingDefs>
-						<li>ND_AvalancheDeposit</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>active lava_terrain</thingKey>
 					<mainThingDefName>ND_ActiveLava</mainThingDefName>
-					<thingDefs>
-						<li>ND_ActiveLava</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>cooled lava rock_terrain</thingKey>
 					<mainThingDefName>ND_CooledLavaRock</mainThingDefName>
-					<thingDefs>
-						<li>ND_CooledLavaRock</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>disaster-grade composite_item</thingKey>
 					<mainThingDefName>ND_DisasterComposite</mainThingDefName>
-					<thingDefs>
-						<li>ND_DisasterComposite</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>disaster sensor array_building</thingKey>
 					<mainThingDefName>ND_DisasterSensorArray</mainThingDefName>
-					<thingDefs>
-						<li>ND_DisasterSensorArray</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>emergency siren_building</thingKey>
 					<mainThingDefName>ND_EmergencySiren</mainThingDefName>
-					<thingDefs>
-						<li>ND_EmergencySiren</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>emergency shelter hub_building</thingKey>
 					<mainThingDefName>ND_EmergencyShelterHub</mainThingDefName>
-					<thingDefs>
-						<li>ND_EmergencyShelterHub</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>reinforced wall_building</thingKey>
 					<mainThingDefName>ND_ReinforcedWall</mainThingDefName>
-					<thingDefs>
-						<li>ND_ReinforcedWall</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>reinforced emergency door_building</thingKey>
 					<mainThingDefName>ND_ReinforcedDoor</mainThingDefName>
-					<thingDefs>
-						<li>ND_ReinforcedDoor</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flood levee_building</thingKey>
 					<mainThingDefName>ND_FloodLevee</mainThingDefName>
-					<thingDefs>
-						<li>ND_FloodLevee</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>storm drain_building</thingKey>
 					<mainThingDefName>ND_DrainagePump</mainThingDefName>
-					<thingDefs>
-						<li>ND_DrainagePump</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -49636,22 +50179,22 @@
 				<li>
 					<thingKey>simple repair bench_building</thingKey>
 					<mainThingDefName>RG_SimpleRepairTable</mainThingDefName>
-					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>RG_SimpleRepairTable</li>
-						<li>HandTailoringBench</li>
 					</thingDefs>
-					<removedDefs />
+					<removedDefs>
+						<li>HandTailoringBench</li>
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>electric repair bench_building</thingKey>
 					<mainThingDefName>RG_ElectricRepairTable</mainThingDefName>
-					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>RG_ElectricRepairTable</li>
-						<li>ElectricTailoringBench</li>
 					</thingDefs>
-					<removedDefs />
+					<removedDefs>
+						<li>ElectricTailoringBench</li>
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>tinkering bench_building</thingKey>
@@ -49778,6 +50321,4613 @@
 					<mainThingDefName>StimpackUltratech</mainThingDefName>
 					<thingDefs>
 						<li>StimpackUltratech</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tome_item</thingKey>
+					<mainThingDefName>Tome</mainThingDefName>
+					<thingDefs>
+						<li>Tome</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ghoul plating_item</thingKey>
+					<mainThingDefName>GhoulPlating</mainThingDefName>
+					<thingDefs>
+						<li>GhoulPlating</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ghoul barbs_item</thingKey>
+					<mainThingDefName>GhoulBarbs</mainThingDefName>
+					<thingDefs>
+						<li>GhoulBarbs</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>adrenal heart_item</thingKey>
+					<mainThingDefName>AdrenalHeart</mainThingDefName>
+					<thingDefs>
+						<li>AdrenalHeart</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corrosive heart_item</thingKey>
+					<mainThingDefName>CorrosiveHeart</mainThingDefName>
+					<thingDefs>
+						<li>CorrosiveHeart</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>metalblood heart_item</thingKey>
+					<mainThingDefName>MetalbloodHeart</mainThingDefName>
+					<thingDefs>
+						<li>MetalbloodHeart</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>revenant vertebrae_item</thingKey>
+					<mainThingDefName>RevenantVertebrae</mainThingDefName>
+					<thingDefs>
+						<li>RevenantVertebrae</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void metal_terrain</thingKey>
+					<mainThingDefName>Voidmetal</mainThingDefName>
+					<thingDefs>
+						<li>Voidmetal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite plate_terrain</thingKey>
+					<mainThingDefName>BioferritePlate</mainThingDefName>
+					<thingDefs>
+						<li>BioferritePlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>burned bioferrite plate_terrain</thingKey>
+					<mainThingDefName>BurnedBioferritePlate</mainThingDefName>
+					<thingDefs>
+						<li>BurnedBioferritePlate</li>
+						<li>AG_BurnedBioferritePlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh_terrain</thingKey>
+					<mainThingDefName>Flesh</mainThingDefName>
+					<thingDefs>
+						<li>Flesh</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gray surface_terrain</thingKey>
+					<mainThingDefName>GraySurface</mainThingDefName>
+					<thingDefs>
+						<li>GraySurface</li>
+						<li>AG_GraySurface</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass_building</thingKey>
+					<mainThingDefName>Fleshmass</mainThingDefName>
+					<thingDefs>
+						<li>Fleshmass</li>
+						<li>Fleshmass_Active</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh sack_building</thingKey>
+					<mainThingDefName>FleshSack</mainThingDefName>
+					<thingDefs>
+						<li>FleshSack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass heart_building</thingKey>
+					<mainThingDefName>FleshmassHeart</mainThingDefName>
+					<thingDefs>
+						<li>FleshmassHeart</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshbulb_building</thingKey>
+					<mainThingDefName>Fleshbulb</mainThingDefName>
+					<thingDefs>
+						<li>Fleshbulb</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>nerve bundle_building</thingKey>
+					<mainThingDefName>NerveBundle</mainThingDefName>
+					<thingDefs>
+						<li>NerveBundle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass spitter_building</thingKey>
+					<mainThingDefName>FleshmassSpitter</mainThingDefName>
+					<thingDefs>
+						<li>FleshmassSpitter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pit gate_building</thingKey>
+					<mainThingDefName>PitGate</mainThingDefName>
+					<thingDefs>
+						<li>PitGate</li>
+						<li>VFEPD_PitGate</li>
+						<li>VEE_InertPitGate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pit gate exit_building</thingKey>
+					<mainThingDefName>PitGateExit</mainThingDefName>
+					<thingDefs>
+						<li>PitGateExit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>holding spot_building</thingKey>
+					<mainThingDefName>HoldingSpot</mainThingDefName>
+					<thingDefs>
+						<li>HoldingSpot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>holding platform_building</thingKey>
+					<mainThingDefName>HoldingPlatform</mainThingDefName>
+					<thingDefs>
+						<li>HoldingPlatform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dirt cube sculpture_building</thingKey>
+					<mainThingDefName>DirtCubeSculpture</mainThingDefName>
+					<thingDefs>
+						<li>DirtCubeSculpture</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>stone cube sculpture_building</thingKey>
+					<mainThingDefName>StoneCubeSculpture</mainThingDefName>
+					<thingDefs>
+						<li>StoneCubeSculpture</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sand cube sculpture_building</thingKey>
+					<mainThingDefName>SandCubeSculpture</mainThingDefName>
+					<thingDefs>
+						<li>SandCubeSculpture</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>scrap cube sculpture_building</thingKey>
+					<mainThingDefName>ScrapCubeSculpture</mainThingDefName>
+					<thingDefs>
+						<li>ScrapCubeSculpture</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pit burrow_building</thingKey>
+					<mainThingDefName>PitBurrow</mainThingDefName>
+					<thingDefs>
+						<li>PitBurrow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tactical turret_building</thingKey>
+					<mainThingDefName>Turret_TacticalTurret</mainThingDefName>
+					<thingDefs>
+						<li>Turret_TacticalTurret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>floor etching_building</thingKey>
+					<mainThingDefName>FloorEtching</mainThingDefName>
+					<thingDefs>
+						<li>FloorEtching</li>
+						<li>FloorEtchingRambling</li>
+						<li>AG_FloorEtching</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gray box_building</thingKey>
+					<mainThingDefName>GrayBox</mainThingDefName>
+					<thingDefs>
+						<li>GrayBox</li>
+						<li>VFEPD_GrayBox</li>
+						<li>AG_GrayBox</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gray statue_building</thingKey>
+					<mainThingDefName>GrayStatueDeadlifeDust</mainThingDefName>
+					<thingDefs>
+						<li>GrayStatueDeadlifeDust</li>
+						<li>GrayStatueTeleporter</li>
+						<li>AG_GrayStatue</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>security door_building</thingKey>
+					<mainThingDefName>SecurityDoor</mainThingDefName>
+					<thingDefs>
+						<li>SecurityDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>electric inhibitor_building</thingKey>
+					<mainThingDefName>ElectricInhibitor</mainThingDefName>
+					<thingDefs>
+						<li>ElectricInhibitor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shard inhibitor_building</thingKey>
+					<mainThingDefName>ShardInhibitor</mainThingDefName>
+					<thingDefs>
+						<li>ShardInhibitor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>proximity detector_building</thingKey>
+					<mainThingDefName>ProximityDetector</mainThingDefName>
+					<thingDefs>
+						<li>ProximityDetector</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>atmospheric heater_building</thingKey>
+					<mainThingDefName>AtmosphericHeater</mainThingDefName>
+					<thingDefs>
+						<li>AtmosphericHeater</li>
+						<li>VFEPD_AtmosphericHeater</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>frenzy inducer_building</thingKey>
+					<mainThingDefName>FrenzyInducer</mainThingDefName>
+					<thingDefs>
+						<li>FrenzyInducer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sleep suppressor_building</thingKey>
+					<mainThingDefName>SleepSuppressor</mainThingDefName>
+					<thingDefs>
+						<li>SleepSuppressor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>noctolith_building</thingKey>
+					<mainThingDefName>Noctolith</mainThingDefName>
+					<thingDefs>
+						<li>Noctolith</li>
+						<li>VFEPD_Noctolith</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ied deadlife trap_building</thingKey>
+					<mainThingDefName>TrapIED_Deadlife</mainThingDefName>
+					<thingDefs>
+						<li>TrapIED_Deadlife</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>endless pit_building</thingKey>
+					<mainThingDefName>EndlessPit2x2c</mainThingDefName>
+					<thingDefs>
+						<li>EndlessPit2x2c</li>
+						<li>EndlessPit3x2c</li>
+						<li>EndlessPit3x3c</li>
+						<li>AG_EndlessPit2x2c</li>
+						<li>AG_EndlessPit3x2c</li>
+						<li>AG_EndlessPit3x3c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>twisted obelisk_building</thingKey>
+					<mainThingDefName>WarpedObelisk_Mutator</mainThingDefName>
+					<thingDefs>
+						<li>WarpedObelisk_Mutator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corrupted obelisk_building</thingKey>
+					<mainThingDefName>WarpedObelisk_Duplicator</mainThingDefName>
+					<thingDefs>
+						<li>WarpedObelisk_Duplicator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>warped obelisk_building</thingKey>
+					<mainThingDefName>WarpedObelisk_Abductor</mainThingDefName>
+					<thingDefs>
+						<li>WarpedObelisk_Abductor</li>
+						<li>WarpedObelisk_Labyrinth</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite generator_building</thingKey>
+					<mainThingDefName>BioferriteGenerator</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteGenerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>electroharvester_building</thingKey>
+					<mainThingDefName>Electroharvester</mainThingDefName>
+					<thingDefs>
+						<li>Electroharvester</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite shaper_building</thingKey>
+					<mainThingDefName>BioferriteShaper</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteShaper</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>serum lab_building</thingKey>
+					<mainThingDefName>SerumCentrifuge</mainThingDefName>
+					<thingDefs>
+						<li>SerumCentrifuge</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite harvester_building</thingKey>
+					<mainThingDefName>BioferriteHarvester</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteHarvester</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>psychic ritual spot_building</thingKey>
+					<mainThingDefName>PsychicRitualSpot</mainThingDefName>
+					<thingDefs>
+						<li>PsychicRitualSpot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shard beacon_building</thingKey>
+					<mainThingDefName>ShardBeacon</mainThingDefName>
+					<thingDefs>
+						<li>ShardBeacon</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void sculpture_building</thingKey>
+					<mainThingDefName>VoidSculpture</mainThingDefName>
+					<thingDefs>
+						<li>VoidSculpture</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void monolith_building</thingKey>
+					<mainThingDefName>VoidMonolith</mainThingDefName>
+					<thingDefs>
+						<li>VoidMonolith</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void monolith attachment_building</thingKey>
+					<mainThingDefName>VoidMonolithAttachmentLeft</mainThingDefName>
+					<thingDefs>
+						<li>VoidMonolithAttachmentLeft</li>
+						<li>VoidMonolithAttachmentRight</li>
+						<li>VoidMonolithAttachmentTop</li>
+						<li>VoidMonolithAttachmentBottomLeft</li>
+						<li>VoidMonolithAttachmentBottomRight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void structure_building</thingKey>
+					<mainThingDefName>VoidStructure</mainThingDefName>
+					<thingDefs>
+						<li>VoidStructure</li>
+						<li>VFEPD_VoidStructure</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void metal wall_building</thingKey>
+					<mainThingDefName>VoidmetalWall</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void metal mass_building</thingKey>
+					<mainThingDefName>VoidmetalMassSmall</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalMassSmall</li>
+						<li>VoidmetalMassMedium</li>
+						<li>VoidmetalMassLarge</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void node_building</thingKey>
+					<mainThingDefName>VoidNode</mainThingDefName>
+					<thingDefs>
+						<li>VoidNode</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>twisted archotech support_building</thingKey>
+					<mainThingDefName>TwistedArchotechSupport_Small</mainThingDefName>
+					<thingDefs>
+						<li>TwistedArchotechSupport_Small</li>
+						<li>TwistedArchotechSupport_Large</li>
+						<li>TwistedArchotechSupport_Vertical</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shard animal pulser_item</thingKey>
+					<mainThingDefName>ShardAnimalPulser</mainThingDefName>
+					<thingDefs>
+						<li>ShardAnimalPulser</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>biomutation pulser_item</thingKey>
+					<mainThingDefName>BiomutationPulser</mainThingDefName>
+					<thingDefs>
+						<li>BiomutationPulser</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>deadlife shell_item</thingKey>
+					<mainThingDefName>Shell_Deadlife</mainThingDefName>
+					<thingDefs>
+						<li>Shell_Deadlife</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidsight serum_item</thingKey>
+					<mainThingDefName>VoidsightSerum</mainThingDefName>
+					<thingDefs>
+						<li>VoidsightSerum</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>metalblood serum_item</thingKey>
+					<mainThingDefName>MetalbloodSerum</mainThingDefName>
+					<thingDefs>
+						<li>MetalbloodSerum</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>juggernaut serum_item</thingKey>
+					<mainThingDefName>JuggernautSerum</mainThingDefName>
+					<thingDefs>
+						<li>JuggernautSerum</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mind-numb serum_item</thingKey>
+					<mainThingDefName>MindNumbSerum</mainThingDefName>
+					<thingDefs>
+						<li>MindNumbSerum</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ghoul resurrection serum_item</thingKey>
+					<mainThingDefName>GhoulResurrectionSerum</mainThingDefName>
+					<thingDefs>
+						<li>GhoulResurrectionSerum</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite_item</thingKey>
+					<mainThingDefName>Bioferrite</mainThingDefName>
+					<thingDefs>
+						<li>Bioferrite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gray_item</thingKey>
+					<mainThingDefName>LabyrinthMatter</mainThingDefName>
+					<thingDefs>
+						<li>LabyrinthMatter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dread leather_item</thingKey>
+					<mainThingDefName>Leather_Dread</mainThingDefName>
+					<thingDefs>
+						<li>Leather_Dread</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shard_item</thingKey>
+					<mainThingDefName>Shard</mainThingDefName>
+					<thingDefs>
+						<li>Shard</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>revenant spine_item</thingKey>
+					<mainThingDefName>RevenantSpine</mainThingDefName>
+					<thingDefs>
+						<li>RevenantSpine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>twisted meat_item</thingKey>
+					<mainThingDefName>Meat_Twisted</mainThingDefName>
+					<thingDefs>
+						<li>Meat_Twisted</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>golden cube_item</thingKey>
+					<mainThingDefName>GoldenCube</mainThingDefName>
+					<thingDefs>
+						<li>GoldenCube</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gray flesh sample_item</thingKey>
+					<mainThingDefName>GrayFleshSample</mainThingDefName>
+					<thingDefs>
+						<li>GrayFleshSample</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass neural lump_item</thingKey>
+					<mainThingDefName>FleshmassNeuralLump</mainThingDefName>
+					<thingDefs>
+						<li>FleshmassNeuralLump</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>revenant flesh chunk_item</thingKey>
+					<mainThingDefName>RevenantFleshChunk</mainThingDefName>
+					<thingDefs>
+						<li>RevenantFleshChunk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>monolith fragment_item</thingKey>
+					<mainThingDefName>MonolithFragment</mainThingDefName>
+					<thingDefs>
+						<li>MonolithFragment</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ritual mask_item</thingKey>
+					<mainThingDefName>Apparel_CultistMask</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_CultistMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ceremonial hood_item</thingKey>
+					<mainThingDefName>Apparel_CeremonialCultistMask</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_CeremonialCultistMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>disruptor flare pack_item</thingKey>
+					<mainThingDefName>Apparel_DisruptorFlarePack</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_DisruptorFlarePack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>turret pack_item</thingKey>
+					<mainThingDefName>Apparel_PackTurret</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_PackTurret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>deadlife pack_item</thingKey>
+					<mainThingDefName>Apparel_DeadlifePack</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_DeadlifePack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shard shock lance_item</thingKey>
+					<mainThingDefName>Apparel_ShardPsychicShockLance</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_ShardPsychicShockLance</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shard insanity lance_item</thingKey>
+					<mainThingDefName>Apparel_ShardPsychicInsanityLance</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_ShardPsychicInsanityLance</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>biomutation lance_item</thingKey>
+					<mainThingDefName>Apparel_BiomutationLance</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_BiomutationLance</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>harbinger tree_plant</thingKey>
+					<mainThingDefName>Plant_TreeHarbinger</mainThingDefName>
+					<thingDefs>
+						<li>Plant_TreeHarbinger</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chopped harbinger stump_plant</thingKey>
+					<mainThingDefName>ChoppedStump_Harbinger</mainThingDefName>
+					<thingDefs>
+						<li>ChoppedStump_Harbinger</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>smashed harbinger stump_plant</thingKey>
+					<mainThingDefName>SmashedStump_Harbinger</mainThingDefName>
+					<thingDefs>
+						<li>SmashedStump_Harbinger</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>harbinger seed_item</thingKey>
+					<mainThingDefName>HarbingerSeed</mainThingDefName>
+					<thingDefs>
+						<li>HarbingerSeed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>nociosphere_pawn</thingKey>
+					<mainThingDefName>Nociosphere</mainThingDefName>
+					<thingDefs>
+						<li>Nociosphere</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>metalhorror_pawn</thingKey>
+					<mainThingDefName>Metalhorror</mainThingDefName>
+					<thingDefs>
+						<li>Metalhorror</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>revenant_pawn</thingKey>
+					<mainThingDefName>Revenant</mainThingDefName>
+					<thingDefs>
+						<li>Revenant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sightstealer_pawn</thingKey>
+					<mainThingDefName>Sightstealer</mainThingDefName>
+					<thingDefs>
+						<li>Sightstealer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>noctol_pawn</thingKey>
+					<mainThingDefName>Noctol</mainThingDefName>
+					<thingDefs>
+						<li>Noctol</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass nucleus_pawn</thingKey>
+					<mainThingDefName>FleshmassNucleus</mainThingDefName>
+					<thingDefs>
+						<li>FleshmassNucleus</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gorehulk_pawn</thingKey>
+					<mainThingDefName>Gorehulk</mainThingDefName>
+					<thingDefs>
+						<li>Gorehulk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>devourer_pawn</thingKey>
+					<mainThingDefName>Devourer</mainThingDefName>
+					<thingDefs>
+						<li>Devourer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chimera_pawn</thingKey>
+					<mainThingDefName>Chimera</mainThingDefName>
+					<thingDefs>
+						<li>Chimera</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bulbfreak_pawn</thingKey>
+					<mainThingDefName>Bulbfreak</mainThingDefName>
+					<thingDefs>
+						<li>Bulbfreak</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>toughspike_pawn</thingKey>
+					<mainThingDefName>Toughspike</mainThingDefName>
+					<thingDefs>
+						<li>Toughspike</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>trispike_pawn</thingKey>
+					<mainThingDefName>Trispike</mainThingDefName>
+					<thingDefs>
+						<li>Trispike</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fingerspike_pawn</thingKey>
+					<mainThingDefName>Fingerspike</mainThingDefName>
+					<thingDefs>
+						<li>Fingerspike</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dreadmeld_pawn</thingKey>
+					<mainThingDefName>Dreadmeld</mainThingDefName>
+					<thingDefs>
+						<li>Dreadmeld</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hellcat rifle_item</thingKey>
+					<mainThingDefName>Gun_HellcatRifle</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HellcatRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>incinerator_item</thingKey>
+					<mainThingDefName>Gun_Incinerator</mainThingDefName>
+					<thingDefs>
+						<li>Gun_Incinerator</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>nerve spiker_item</thingKey>
+					<mainThingDefName>NerveSpiker</mainThingDefName>
+					<thingDefs>
+						<li>NerveSpiker</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>blood warmer_item</thingKey>
+					<mainThingDefName>BloodWarmer</mainThingDefName>
+					<thingDefs>
+						<li>BloodWarmer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>unique hellcat rifle_item</thingKey>
+					<mainThingDefName>Gun_HellcatRifle_Unique</mainThingDefName>
+					<thingDefs>
+						<li>Gun_HellcatRifle_Unique</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>deactivated mech (small)_building</thingKey>
+					<mainThingDefName>FFF_MechCapsule_Small</mainThingDefName>
+					<thingDefs>
+						<li>FFF_MechCapsule_Small</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>deactivated mech (medium)_building</thingKey>
+					<mainThingDefName>FFF_MechCapsule_Medium</mainThingDefName>
+					<thingDefs>
+						<li>FFF_MechCapsule_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>deactivated mech (large)_building</thingKey>
+					<mainThingDefName>FFF_MechCapsule_Large</mainThingDefName>
+					<thingDefs>
+						<li>FFF_MechCapsule_Large</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>deactivated mech (huge)_building</thingKey>
+					<mainThingDefName>FFF_MechCapsule_Huge</mainThingDefName>
+					<thingDefs>
+						<li>FFF_MechCapsule_Huge</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>deactivated mech (colossal)_building</thingKey>
+					<mainThingDefName>FFF_MechCapsule_Colossal</mainThingDefName>
+					<thingDefs>
+						<li>FFF_MechCapsule_Colossal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pawn group tool_none</thingKey>
+					<mainThingDefName>FFF_ExportTool_PawnGroup</mainThingDefName>
+					<thingDefs>
+						<li>FFF_ExportTool_PawnGroup</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>random structure tool_none</thingKey>
+					<mainThingDefName>FFF_ExportTool_RandomStructure</mainThingDefName>
+					<thingDefs>
+						<li>FFF_ExportTool_RandomStructure</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>access link tool_none</thingKey>
+					<mainThingDefName>FFF_ExportTool_LinkAccessKeyWanter</mainThingDefName>
+					<thingDefs>
+						<li>FFF_ExportTool_LinkAccessKeyWanter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>man turret tool_none</thingKey>
+					<mainThingDefName>FFF_ExportTool_ManTurret</mainThingDefName>
+					<thingDefs>
+						<li>FFF_ExportTool_ManTurret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>facility interior wall_building</thingKey>
+					<mainThingDefName>FFF_Wall_A</mainThingDefName>
+					<thingDefs>
+						<li>FFF_Wall_A</li>
+						<li>FFF_Wall_B</li>
+						<li>FFF_Wall_C</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hull wall_building</thingKey>
+					<mainThingDefName>FFF_Wall_Hull</mainThingDefName>
+					<thingDefs>
+						<li>FFF_Wall_Hull</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hull maintenance wall_building</thingKey>
+					<mainThingDefName>FFF_Wall_HullHatch</mainThingDefName>
+					<thingDefs>
+						<li>FFF_Wall_HullHatch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>facility door_building</thingKey>
+					<mainThingDefName>FFF_RCdoor</mainThingDefName>
+					<thingDefs>
+						<li>FFF_RCdoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>trauma team fatigues_item</thingKey>
+					<mainThingDefName>K4G_Apparel_2077TraumaTeamFatigues</mainThingDefName>
+					<thingDefs>
+						<li>K4G_Apparel_2077TraumaTeamFatigues</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>trauma team vest_item</thingKey>
+					<mainThingDefName>K4G_Apparel_2077TraumaTeamVest</mainThingDefName>
+					<thingDefs>
+						<li>K4G_Apparel_2077TraumaTeamVest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>trauma team helmet_item</thingKey>
+					<mainThingDefName>K4G_Apparel_2077TraumaTeamHelmet</mainThingDefName>
+					<thingDefs>
+						<li>K4G_Apparel_2077TraumaTeamHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>holo-barricade base_building</thingKey>
+					<mainThingDefName>OgHoloBarricadeBase</mainThingDefName>
+					<thingDefs>
+						<li>OgHoloBarricadeBase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>holo-barricade_building</thingKey>
+					<mainThingDefName>OgHoloBarricade</mainThingDefName>
+					<thingDefs>
+						<li>OgHoloBarricade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>holo-turret base_building</thingKey>
+					<mainThingDefName>OgHoloTurretBase</mainThingDefName>
+					<thingDefs>
+						<li>OgHoloTurretBase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>holo-turret_building</thingKey>
+					<mainThingDefName>OgHoloTurret</mainThingDefName>
+					<thingDefs>
+						<li>OgHoloTurret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ancient gray pall vent_building</thingKey>
+					<mainThingDefName>AB_AncientGreyPallVent</mainThingDefName>
+					<thingDefs>
+						<li>AB_AncientGreyPallVent</li>
+						<li>VFEPD_AB_AncientGreyPallVent</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ancient blood rain vent_building</thingKey>
+					<mainThingDefName>AB_AncientBloodRainVent</mainThingDefName>
+					<thingDefs>
+						<li>AB_AncientBloodRainVent</li>
+						<li>VFEPD_AB_AncientBloodRainVent</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ancient death pall vent_building</thingKey>
+					<mainThingDefName>AB_AncientDeathPallVent</mainThingDefName>
+					<thingDefs>
+						<li>AB_AncientDeathPallVent</li>
+						<li>VFEPD_AB_AncientDeathPallVent</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>aberrant grimoire_item</thingKey>
+					<mainThingDefName>ABooks_AberrantGrimoire</mainThingDefName>
+					<thingDefs>
+						<li>ABooks_AberrantGrimoire</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Cubic</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Cubic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh covering_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Flesh</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Flesh</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Flesh_Metal</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Flesh_Metal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>horaxian tile_terrain</thingKey>
+					<mainThingDefName>AM_Tile_Horaxian</mainThingDefName>
+					<thingDefs>
+						<li>AM_Tile_Horaxian</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic bed_building</thingKey>
+					<mainThingDefName>AM_CubicBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>double cubic bed_building</thingKey>
+					<mainThingDefName>AM_DoubleCubicBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_DoubleCubicBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic hospital bed_building</thingKey>
+					<mainThingDefName>AM_CubicHospitalBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicHospitalBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass piece (1x1)_building</thingKey>
+					<mainThingDefName>AM_Building_Misc_FleshmassPiece1x1c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Building_Misc_FleshmassPiece1x1c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass piece (2x2)_building</thingKey>
+					<mainThingDefName>AM_Building_Misc_FleshmassPiece2x2c</mainThingDefName>
+					<thingDefs>
+						<li>AM_Building_Misc_FleshmassPiece2x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>horaxian bed_building</thingKey>
+					<mainThingDefName>AM_HoraxianBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_HoraxianBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>double horaxian bed_building</thingKey>
+					<mainThingDefName>AM_DoubleHoraxianBed</mainThingDefName>
+					<thingDefs>
+						<li>AM_DoubleHoraxianBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decorative gray statue_building</thingKey>
+					<mainThingDefName>AM_GrayStatueDecorative</mainThingDefName>
+					<thingDefs>
+						<li>AM_GrayStatueDecorative</li>
+						<li>VFEPD_GrayStatue</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic slab (medium)_building</thingKey>
+					<mainThingDefName>AM_CubicSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic slab (broad)_building</thingKey>
+					<mainThingDefName>AM_CubicSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh slab (medium)_building</thingKey>
+					<mainThingDefName>AM_FleshSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_FleshSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flesh slab (broad)_building</thingKey>
+					<mainThingDefName>AM_FleshSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_FleshSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>horaxian slab (medium)_building</thingKey>
+					<mainThingDefName>AM_HoraxianSlab_Medium</mainThingDefName>
+					<thingDefs>
+						<li>AM_HoraxianSlab_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>horaxian slab (broad)_building</thingKey>
+					<mainThingDefName>AM_HoraxianSlab_Broad</mainThingDefName>
+					<thingDefs>
+						<li>AM_HoraxianSlab_Broad</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flanker helmet_item</thingKey>
+					<mainThingDefName>ABT_Apparel_AS_ReconHelmet</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_AS_ReconHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flanker armor_item</thingKey>
+					<mainThingDefName>ABT_Apparel_AS_ReconArmor</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_AS_ReconArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vanguard helmet_item</thingKey>
+					<mainThingDefName>ABT_Apparel_AS_MarineHelmet</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_AS_MarineHelmet</li>
+						<li>EoD_VanguardHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vanguard armor_item</thingKey>
+					<mainThingDefName>ABT_Apparel_AS_MarineArmor</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_AS_MarineArmor</li>
+						<li>EoD_VanguardArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>breacher helmet_item</thingKey>
+					<mainThingDefName>ABT_Apparel_AS_CataphractHelmet</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_AS_CataphractHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>breacher armor_item</thingKey>
+					<mainThingDefName>ABT_Apparel_AS_CataphractArmor</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_AS_CataphractArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>light helmet_item</thingKey>
+					<mainThingDefName>ABT_Apparel_IND_ReconHelmet</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_IND_ReconHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>light suit_item</thingKey>
+					<mainThingDefName>ABT_Apparel_IND_ReconArmor</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_IND_ReconArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>combat helmet_item</thingKey>
+					<mainThingDefName>ABT_Apparel_IND_MarineHelmet</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_IND_MarineHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>combat suit_item</thingKey>
+					<mainThingDefName>ABT_Apparel_IND_MarineArmor</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_IND_MarineArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>heavy-duty helmet_item</thingKey>
+					<mainThingDefName>ABT_Apparel_IND_CataphractHelmet</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_IND_CataphractHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>heavy-duty suit_item</thingKey>
+					<mainThingDefName>ABT_Apparel_IND_CataphractArmor</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_IND_CataphractArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>glitter helmet_item</thingKey>
+					<mainThingDefName>ABT_Apparel_Ultra_Helmet</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_Ultra_Helmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>glitter suit_item</thingKey>
+					<mainThingDefName>ABT_Apparel_Ultra_Armor</mainThingDefName>
+					<thingDefs>
+						<li>ABT_Apparel_Ultra_Armor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flak collar_item</thingKey>
+					<mainThingDefName>Apparel_FlakCollar</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_FlakCollar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>armored goggles_item</thingKey>
+					<mainThingDefName>Apparel_ArmoredGoggles</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_ArmoredGoggles</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>flak goggles_item</thingKey>
+					<mainThingDefName>Apparel_FlakGoggles</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_FlakGoggles</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>heavy flak jacket_item</thingKey>
+					<mainThingDefName>Apparel_HeavyFlakJacket</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_HeavyFlakJacket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ammochute_item</thingKey>
+					<mainThingDefName>Apparel_AmmoChute</mainThingDefName>
+					<thingDefs>
+						<li>Apparel_AmmoChute</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>single rocket launcher_item</thingKey>
+					<mainThingDefName>Gun_SingleLauncher</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SingleLauncher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grenade launcher_item</thingKey>
+					<mainThingDefName>Gun_GrenadeLauncher</mainThingDefName>
+					<thingDefs>
+						<li>Gun_GrenadeLauncher</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>saw_item</thingKey>
+					<mainThingDefName>Gun_SAW</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SAW</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>body bag_building</thingKey>
+					<mainThingDefName>USAC_CorpseBag</mainThingDefName>
+					<thingDefs>
+						<li>USAC_CorpseBag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hesco wall_building</thingKey>
+					<mainThingDefName>USAC_HESCO</mainThingDefName>
+					<thingDefs>
+						<li>USAC_HESCO</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty usac supply crate (s)_building</thingKey>
+					<mainThingDefName>USAC_Crate_Small_Empty</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Crate_Small_Empty</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty usac supply crate (m)_building</thingKey>
+					<mainThingDefName>USAC_Crate_Medium_Empty</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Crate_Medium_Empty</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty usac supply crate (l)_building</thingKey>
+					<mainThingDefName>USAC_Crate_Large_Empty</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Crate_Large_Empty</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>usac supply crate (s)_building</thingKey>
+					<mainThingDefName>USAC_Crate_Small</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Crate_Small</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>usac supply crate (m)_building</thingKey>
+					<mainThingDefName>USAC_Crate_Medium</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Crate_Medium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>usac supply crate (l)_building</thingKey>
+					<mainThingDefName>USAC_Crate_Large</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Crate_Large</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m88 rocky wreck_building</thingKey>
+					<mainThingDefName>USAC_Wreck_Rocky</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Wreck_Rocky</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m939 paraman wreck_building</thingKey>
+					<mainThingDefName>USAC_Wreck_Paraman</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Wreck_Paraman</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>xm3 gonk wreck_building</thingKey>
+					<mainThingDefName>USAC_Wreck_Gonk</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Wreck_Gonk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m7 cobalt wreck_building</thingKey>
+					<mainThingDefName>USAC_Wreck_Cobalt</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Wreck_Cobalt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m110 omaha wreck_building</thingKey>
+					<mainThingDefName>USAC_Wreck_Omaha</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Wreck_Omaha</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>assault mining rig_building</thingKey>
+					<mainThingDefName>USAC_HeavyMiningRig</mainThingDefName>
+					<thingDefs>
+						<li>USAC_HeavyMiningRig</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>heavy sentry gun_building</thingKey>
+					<mainThingDefName>USAC_Turret_HMG</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Turret_HMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>usac standard corpse storage solution_building</thingKey>
+					<mainThingDefName>USAC_CorpseStorage</mainThingDefName>
+					<thingDefs>
+						<li>USAC_CorpseStorage</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hardiman powered unit_item</thingKey>
+					<mainThingDefName>USAC_Apparel_ExoSkeleton</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Apparel_ExoSkeleton</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>assault helmet_item</thingKey>
+					<mainThingDefName>USAC_Apparel_AssaultHelmet</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Apparel_AssaultHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>heavy helmet_item</thingKey>
+					<mainThingDefName>USAC_Apparel_HeavyHelmet</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Apparel_HeavyHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gladiator helmet_item</thingKey>
+					<mainThingDefName>USAC_Apparel_MeleeHelmet</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Apparel_MeleeHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>night vision helmet_item</thingKey>
+					<mainThingDefName>USAC_Apparel_NightVisionHelmet</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Apparel_NightVisionHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neuro-booster_item</thingKey>
+					<mainThingDefName>USAC_NeuroBooster</mainThingDefName>
+					<thingDefs>
+						<li>USAC_NeuroBooster</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>credit bond_item</thingKey>
+					<mainThingDefName>USAC_Bond</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Bond</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>disposable battery_item</thingKey>
+					<mainThingDefName>USAC_DisposableBattery</mainThingDefName>
+					<thingDefs>
+						<li>USAC_DisposableBattery</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>disposable repair tool_item</thingKey>
+					<mainThingDefName>USAC_DisposableRepairTool</mainThingDefName>
+					<thingDefs>
+						<li>USAC_DisposableRepairTool</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>b-ration_item</thingKey>
+					<mainThingDefName>USAC_MealSurvivalPack</mainThingDefName>
+					<thingDefs>
+						<li>USAC_MealSurvivalPack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>heated b-ration_item</thingKey>
+					<mainThingDefName>USAC_MealSurvivalPackHeated</mainThingDefName>
+					<thingDefs>
+						<li>USAC_MealSurvivalPackHeated</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mechlink serum_item</thingKey>
+					<mainThingDefName>USAC_TempMechlink</mainThingDefName>
+					<thingDefs>
+						<li>USAC_TempMechlink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m88 "rocky" order_item</thingKey>
+					<mainThingDefName>USAC_MechOrder_Rocky</mainThingDefName>
+					<thingDefs>
+						<li>USAC_MechOrder_Rocky</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m939 "paraman" order_item</thingKey>
+					<mainThingDefName>USAC_MechOrder_Paraman</mainThingDefName>
+					<thingDefs>
+						<li>USAC_MechOrder_Paraman</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m7 "cobalt" order_item</thingKey>
+					<mainThingDefName>USAC_MechOrder_Cobalt</mainThingDefName>
+					<thingDefs>
+						<li>USAC_MechOrder_Cobalt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>xm3 "gonk" order_item</thingKey>
+					<mainThingDefName>USAC_MechOrder_Gonk</mainThingDefName>
+					<thingDefs>
+						<li>USAC_MechOrder_Gonk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m110 "omaha" order_item</thingKey>
+					<mainThingDefName>USAC_MechOrder_Omaha</mainThingDefName>
+					<thingDefs>
+						<li>USAC_MechOrder_Omaha</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cobra assault cannon_item</thingKey>
+					<mainThingDefName>USAC_Gun_CobraAC</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_CobraAC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>viper dmr_item</thingKey>
+					<mainThingDefName>USAC_Gun_ViperDMR</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_ViperDMR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bushmaster autocannon_item</thingKey>
+					<mainThingDefName>USAC_Gun_BushmasterAC</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_BushmasterAC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>torchwood recoilless rifle_item</thingKey>
+					<mainThingDefName>USAC_Gun_TorchwoodRR</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_TorchwoodRR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>advanced auto rifle_item</thingKey>
+					<mainThingDefName>USAC_Gun_AssaultRifle</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_AssaultRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>advanced lmg_item</thingKey>
+					<mainThingDefName>USAC_Gun_LightMachinegun</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_LightMachinegun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>advanced marksman rifle_item</thingKey>
+					<mainThingDefName>USAC_Gun_MarksmanRifle</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_MarksmanRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>advanced battle rifle_item</thingKey>
+					<mainThingDefName>USAC_Gun_BattleRifle</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_BattleRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>objective sniper weapon_item</thingKey>
+					<mainThingDefName>USAC_Gun_OSW</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_OSW</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>advanced support weapon_item</thingKey>
+					<mainThingDefName>USAC_Gun_ACSW</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Gun_ACSW</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m7 "cobalt"_pawn</thingKey>
+					<mainThingDefName>USAC_Mech_Cobalt</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Mech_Cobalt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>xm3 "gonk"_pawn</thingKey>
+					<mainThingDefName>USAC_Mech_Gonk</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Mech_Gonk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m110 "omaha"_pawn</thingKey>
+					<mainThingDefName>USAC_Mech_Omaha</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Mech_Omaha</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m939 "paraman"_pawn</thingKey>
+					<mainThingDefName>USAC_Mech_Paraman</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Mech_Paraman</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>m88 "rocky"_pawn</thingKey>
+					<mainThingDefName>USAC_Mech_Rocky</mainThingDefName>
+					<thingDefs>
+						<li>USAC_Mech_Rocky</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bladelink_item</thingKey>
+					<mainThingDefName>HG_Bladelink</mainThingDefName>
+					<thingDefs>
+						<li>HG_Bladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prestige bladelink_item</thingKey>
+					<mainThingDefName>HG_PrestigeBladelink</mainThingDefName>
+					<thingDefs>
+						<li>HG_PrestigeBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bladelink deserter helmet_item</thingKey>
+					<mainThingDefName>HG_BladelinkDeserterHelmet</mainThingDefName>
+					<thingDefs>
+						<li>HG_BladelinkDeserterHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restraint chair_building</thingKey>
+					<mainThingDefName>CE_RestraintChair</mainThingDefName>
+					<thingDefs>
+						<li>CE_RestraintChair</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restraint rack_building</thingKey>
+					<mainThingDefName>CE_RestraintRack</mainThingDefName>
+					<thingDefs>
+						<li>CE_RestraintRack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>restraint pole_building</thingKey>
+					<mainThingDefName>CE_RestraintPole</mainThingDefName>
+					<thingDefs>
+						<li>CE_RestraintPole</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pillory_building</thingKey>
+					<mainThingDefName>CE_Pillory</mainThingDefName>
+					<thingDefs>
+						<li>CE_Pillory</li>
+						<li>GM_PropPillory</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>guillotine_building</thingKey>
+					<mainThingDefName>CE_Guillotine</mainThingDefName>
+					<thingDefs>
+						<li>CE_Guillotine</li>
+						<li>GM_PropGuillotine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall-mounted cot_building</thingKey>
+					<mainThingDefName>CE_WallMountedCot</mainThingDefName>
+					<thingDefs>
+						<li>CE_WallMountedCot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>small prisoner cage_building</thingKey>
+					<mainThingDefName>CE_CageSmall</mainThingDefName>
+					<thingDefs>
+						<li>CE_CageSmall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>medium prisoner cage_building</thingKey>
+					<mainThingDefName>CE_CageMedium</mainThingDefName>
+					<thingDefs>
+						<li>CE_CageMedium</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>large prisoner cage_building</thingKey>
+					<mainThingDefName>CE_CageLarge</mainThingDefName>
+					<thingDefs>
+						<li>CE_CageLarge</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hyperhealing canister_item</thingKey>
+					<mainThingDefName>CH_HealingCanister_Basic</mainThingDefName>
+					<thingDefs>
+						<li>CH_HealingCanister_Basic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>enhanced hyperhealing canister_item</thingKey>
+					<mainThingDefName>CH_HealingCanister_Advanced</mainThingDefName>
+					<thingDefs>
+						<li>CH_HealingCanister_Advanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>medic dartgun_item</thingKey>
+					<mainThingDefName>CH_MedicGun_Basic</mainThingDefName>
+					<thingDefs>
+						<li>CH_MedicGun_Basic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>medic dartrifle_item</thingKey>
+					<mainThingDefName>CH_MedicGun_Advanced</mainThingDefName>
+					<thingDefs>
+						<li>CH_MedicGun_Advanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>katana scabbard_item</thingKey>
+					<mainThingDefName>EoD_KatanaScabbard</mainThingDefName>
+					<thingDefs>
+						<li>EoD_KatanaScabbard</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ultratech scabbard_item</thingKey>
+					<mainThingDefName>EoD_KatanaScabbardUltra</mainThingDefName>
+					<thingDefs>
+						<li>EoD_KatanaScabbardUltra</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>archotech scabbard_item</thingKey>
+					<mainThingDefName>EoD_KatanaScabbardArcho</mainThingDefName>
+					<thingDefs>
+						<li>EoD_KatanaScabbardArcho</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>monoblade_item</thingKey>
+					<mainThingDefName>EoD_Monoblade</mainThingDefName>
+					<thingDefs>
+						<li>EoD_Monoblade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>persona monoblade_item</thingKey>
+					<mainThingDefName>EoD_MonobladeBladelink</mainThingDefName>
+					<thingDefs>
+						<li>EoD_MonobladeBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>persona prestige monoblade_item</thingKey>
+					<mainThingDefName>EoD_MonobladePrestige</mainThingDefName>
+					<thingDefs>
+						<li>EoD_MonobladePrestige</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>luci's edge_item</thingKey>
+					<mainThingDefName>EoD_LuciBlade</mainThingDefName>
+					<thingDefs>
+						<li>EoD_LuciBlade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>archoblade_item</thingKey>
+					<mainThingDefName>EoD_Archoblade</mainThingDefName>
+					<thingDefs>
+						<li>EoD_Archoblade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>unique charge absolver_item</thingKey>
+					<mainThingDefName>EoD_Gun_ChargeAbsolver_Unique</mainThingDefName>
+					<thingDefs>
+						<li>EoD_Gun_ChargeAbsolver_Unique</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge trapshot rifle_item</thingKey>
+					<mainThingDefName>EoD_Gun_ChargeTrapshot</mainThingDefName>
+					<thingDefs>
+						<li>EoD_Gun_ChargeTrapshot</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge absolver_item</thingKey>
+					<mainThingDefName>EoD_Gun_ChargeAbsolver</mainThingDefName>
+					<thingDefs>
+						<li>EoD_Gun_ChargeAbsolver</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>charge magnum_item</thingKey>
+					<mainThingDefName>EoD_Gun_ChargeMagnum</mainThingDefName>
+					<thingDefs>
+						<li>EoD_Gun_ChargeMagnum</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fish trap_building</thingKey>
+					<mainThingDefName>WFFT_FishTrap</mainThingDefName>
+					<thingDefs>
+						<li>WFFT_FishTrap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fish net_building</thingKey>
+					<mainThingDefName>WFFT_FishNet</mainThingDefName>
+					<thingDefs>
+						<li>WFFT_FishNet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz_pawn</thingKey>
+					<mainThingDefName>KCA_Kimchianz</mainThingDefName>
+					<thingDefs>
+						<li>KCA_Kimchianz</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz wrap-style jeogori_item</thingKey>
+					<mainThingDefName>KCA_ApparelBasicA</mainThingDefName>
+					<thingDefs>
+						<li>KCA_ApparelBasicA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz open-front jeogori_item</thingKey>
+					<mainThingDefName>KCA_ApparelBasicB</mainThingDefName>
+					<thingDefs>
+						<li>KCA_ApparelBasicB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz basic helmet_item</thingKey>
+					<mainThingDefName>KCA_HelmetBasicA</mainThingDefName>
+					<thingDefs>
+						<li>KCA_HelmetBasicA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz basic armor_item</thingKey>
+					<mainThingDefName>KCA_ArmorBasicA</mainThingDefName>
+					<thingDefs>
+						<li>KCA_ArmorBasicA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz premium helmet_item</thingKey>
+					<mainThingDefName>KCA_HelmetPremiumA</mainThingDefName>
+					<thingDefs>
+						<li>KCA_HelmetPremiumA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz premium armor_item</thingKey>
+					<mainThingDefName>KCA_ArmorPremiumA</mainThingDefName>
+					<thingDefs>
+						<li>KCA_ArmorPremiumA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz premium wrap-stlye jeogori_item</thingKey>
+					<mainThingDefName>KCA_ApparelPremiumA</mainThingDefName>
+					<thingDefs>
+						<li>KCA_ApparelPremiumA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz premium open-front jeogori_item</thingKey>
+					<mainThingDefName>KCA_ApparelPremiumB</mainThingDefName>
+					<thingDefs>
+						<li>KCA_ApparelPremiumB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz vacsuit helmet_item</thingKey>
+					<mainThingDefName>KCA_VacsuitHelmetA</mainThingDefName>
+					<thingDefs>
+						<li>KCA_VacsuitHelmetA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz vacsuit armor_item</thingKey>
+					<mainThingDefName>KCA_VacsuitA</mainThingDefName>
+					<thingDefs>
+						<li>KCA_VacsuitA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz gate_building</thingKey>
+					<mainThingDefName>KCA_Door</mainThingDefName>
+					<thingDefs>
+						<li>KCA_Door</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz automatic gate_building</thingKey>
+					<mainThingDefName>KCA_Autodoor</mainThingDefName>
+					<thingDefs>
+						<li>KCA_Autodoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz gate frame_building</thingKey>
+					<mainThingDefName>KCA_DoorFrame</mainThingDefName>
+					<thingDefs>
+						<li>KCA_DoorFrame</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz eave_building</thingKey>
+					<mainThingDefName>KCB_WallEave</mainThingDefName>
+					<thingDefs>
+						<li>KCB_WallEave</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz eave (incorner)_building</thingKey>
+					<mainThingDefName>KCB_WallEaveInnerCorner</mainThingDefName>
+					<thingDefs>
+						<li>KCB_WallEaveInnerCorner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz eave (outcorner)_building</thingKey>
+					<mainThingDefName>KCB_WallEaveOuterCorner</mainThingDefName>
+					<thingDefs>
+						<li>KCB_WallEaveOuterCorner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz roof_building</thingKey>
+					<mainThingDefName>KCB_WallRoof</mainThingDefName>
+					<thingDefs>
+						<li>KCB_WallRoof</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz roof (corner)_building</thingKey>
+					<mainThingDefName>KCB_WallRoofConer</mainThingDefName>
+					<thingDefs>
+						<li>KCB_WallRoofConer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz wall_building</thingKey>
+					<mainThingDefName>KCA_Wall</mainThingDefName>
+					<thingDefs>
+						<li>KCA_Wall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz cooking station_building</thingKey>
+					<mainThingDefName>KCA_CookingStation</mainThingDefName>
+					<thingDefs>
+						<li>KCA_CookingStation</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchi onggi_building</thingKey>
+					<mainThingDefName>KCA_StandardOnggi</mainThingDefName>
+					<thingDefs>
+						<li>KCA_StandardOnggi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz tailor bench_building</thingKey>
+					<mainThingDefName>KCA_TailoringStation</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>KCA_TailoringStation</li>
+						<li>ElectricTailoringBench</li>
+						<li>HandTailoringBench</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz machining table_building</thingKey>
+					<mainThingDefName>KCA_CraftingStation</mainThingDefName>
+					<thingDefs>
+						<li>KCA_CraftingStation</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz stele_building</thingKey>
+					<mainThingDefName>KCA_KimchianzMonument</mainThingDefName>
+					<thingDefs>
+						<li>KCA_KimchianzMonument</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimjang ritual onggi_building</thingKey>
+					<mainThingDefName>KCA_KimjangRitualOnggi</mainThingDefName>
+					<thingDefs>
+						<li>KCA_KimjangRitualOnggi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz workshop tuner_building</thingKey>
+					<mainThingDefName>KCA_ToolCabinet</mainThingDefName>
+					<thingDefs>
+						<li>KCA_ToolCabinet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchi_item</thingKey>
+					<mainThingDefName>KCA_Kimchi</mainThingDefName>
+					<thingDefs>
+						<li>KCA_Kimchi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fermenting kimchi_item</thingKey>
+					<mainThingDefName>KCA_FermentationKimchi</mainThingDefName>
+					<thingDefs>
+						<li>KCA_FermentationKimchi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sour kimchi_item</thingKey>
+					<mainThingDefName>KCA_SourKimchi</mainThingDefName>
+					<thingDefs>
+						<li>KCA_SourKimchi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>stir-fried kimchi_item</thingKey>
+					<mainThingDefName>KCA_StirFryKimchi</mainThingDefName>
+					<thingDefs>
+						<li>KCA_StirFryKimchi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchi stew_item</thingKey>
+					<mainThingDefName>KCA_KimchiStew</mainThingDefName>
+					<thingDefs>
+						<li>KCA_KimchiStew</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bossam_item</thingKey>
+					<mainThingDefName>KCA_Bossam</mainThingDefName>
+					<thingDefs>
+						<li>KCA_Bossam</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchi jjim_item</thingKey>
+					<mainThingDefName>KCA_Kimchijjim</mainThingDefName>
+					<thingDefs>
+						<li>KCA_Kimchijjim</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchi fried rice_item</thingKey>
+					<mainThingDefName>KCA_KimchiFriedRice</mainThingDefName>
+					<thingDefs>
+						<li>KCA_KimchiFriedRice</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchi meat rice bowl_item</thingKey>
+					<mainThingDefName>KCA_KimchiMeatRiceBowl</mainThingDefName>
+					<thingDefs>
+						<li>KCA_KimchiMeatRiceBowl</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>napa cabbage_plant</thingKey>
+					<mainThingDefName>KCA_NapaCabbagePlant</mainThingDefName>
+					<thingDefs>
+						<li>KCA_NapaCabbagePlant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chili pepper_plant</thingKey>
+					<mainThingDefName>KCA_Plant_Pepper</mainThingDefName>
+					<thingDefs>
+						<li>KCA_Plant_Pepper</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>napa cabbage_item</thingKey>
+					<mainThingDefName>KCA_RawNapaCabbage</mainThingDefName>
+					<thingDefs>
+						<li>KCA_RawNapaCabbage</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chili pepper_item</thingKey>
+					<mainThingDefName>KCA_RawPepper</mainThingDefName>
+					<thingDefs>
+						<li>KCA_RawPepper</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fermentation crystal_item</thingKey>
+					<mainThingDefName>KCA_FermentationCrystal</mainThingDefName>
+					<thingDefs>
+						<li>KCA_FermentationCrystal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>lactic serum amplifier_item</thingKey>
+					<mainThingDefName>KCA_ProbioticSerumInjector</mainThingDefName>
+					<thingDefs>
+						<li>KCA_ProbioticSerumInjector</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz blazing pulse rifle_item</thingKey>
+					<mainThingDefName>KCA_BlazingPulseRifle</mainThingDefName>
+					<thingDefs>
+						<li>KCA_BlazingPulseRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz precision musket_item</thingKey>
+					<mainThingDefName>KCA_PrecisionMusket</mainThingDefName>
+					<thingDefs>
+						<li>KCA_PrecisionMusket</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz lightweight seungja chongtong_item</thingKey>
+					<mainThingDefName>KCA_SeungjaChongtong</mainThingDefName>
+					<thingDefs>
+						<li>KCA_SeungjaChongtong</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dokkaebi club_item</thingKey>
+					<mainThingDefName>KCA_DokkaebiClub</mainThingDefName>
+					<thingDefs>
+						<li>KCA_DokkaebiClub</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz scarlet hwando_item</thingKey>
+					<mainThingDefName>KCA_RedHwando</mainThingDefName>
+					<thingDefs>
+						<li>KCA_RedHwando</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kimchianz blazing greatsword_item</thingKey>
+					<mainThingDefName>KCA_BlazingGreatsword</mainThingDefName>
+					<thingDefs>
+						<li>KCA_BlazingGreatsword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>オートリペアー（機械化ウマ）_item</thingKey>
+					<mainThingDefName>MMH_AutoRepair</mainThingDefName>
+					<thingDefs>
+						<li>MMH_AutoRepair</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp fatigues_item</thingKey>
+					<mainThingDefName>KRC_RcFatigues</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RcFatigues</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rabbit helmet (type a)_item</thingKey>
+					<mainThingDefName>KRC_RabbitHelmetTypeA</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RabbitHelmetTypeA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rabbit helmet (type c)_item</thingKey>
+					<mainThingDefName>KRC_RabbitHelmetTypeC</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RabbitHelmetTypeC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rabbit helmet (type b)_item</thingKey>
+					<mainThingDefName>KRC_RabbitHelmetTypeB</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RabbitHelmetTypeB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp reindeer helmet (type a)_item</thingKey>
+					<mainThingDefName>KRC_ReindeerHelmetTypeA</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerHelmetTypeA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp reindeer helmet (type b)_item</thingKey>
+					<mainThingDefName>KRC_ReindeerHelmetTypeB</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerHelmetTypeB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp reindeer helmet (type c)_item</thingKey>
+					<mainThingDefName>KRC_ReindeerHelmetTypeC</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerHelmetTypeC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino helmet (type a)_item</thingKey>
+					<mainThingDefName>KRC_RhinoHelmetTypeA</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RhinoHelmetTypeA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino helmet (type b)_item</thingKey>
+					<mainThingDefName>KRC_RhinoHelmetTypeB</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RhinoHelmetTypeB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino helmet (type c)_item</thingKey>
+					<mainThingDefName>KRC_RhinoHelmetTypeC</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RhinoHelmetTypeC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rabbit armor_item</thingKey>
+					<mainThingDefName>KRC_RabbitArmor</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
+					<thingDefs>
+						<li>KRC_RabbitArmor</li>
+						<li>Apparel_ArmorLocust</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp reindeer armor_item</thingKey>
+					<mainThingDefName>KRC_ReindeerArmor</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino armor_item</thingKey>
+					<mainThingDefName>KRC_RhinoArmor</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RhinoArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp turtleneck_item</thingKey>
+					<mainThingDefName>KRC_RcTurtleneck</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RcTurtleneck</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp lab coat_item</thingKey>
+					<mainThingDefName>KRC_RcLabCoat</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RcLabCoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rabbit captain helmet_item</thingKey>
+					<mainThingDefName>KRC_RabbitCaptainHelmet</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RabbitCaptainHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp reindeer captain helmet_item</thingKey>
+					<mainThingDefName>KRC_ReindeerCaptainHelmet</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerCaptainHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino captain helmet_item</thingKey>
+					<mainThingDefName>KRC_RhinoCaptainHelmet</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RhinoCaptainHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rabbit captain armor_item</thingKey>
+					<mainThingDefName>KRC_RabbitCaptainArmor</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RabbitCaptainArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp reindeer captain armor_item</thingKey>
+					<mainThingDefName>KRC_ReindeerCaptainArmor</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerCaptainArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino captain armor_item</thingKey>
+					<mainThingDefName>KRC_RhinoCaptainArmor</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RhinoCaptainArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp commander beret_item</thingKey>
+					<mainThingDefName>KRC_CommanderBeret</mainThingDefName>
+					<thingDefs>
+						<li>KRC_CommanderBeret</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp commander coat_item</thingKey>
+					<mainThingDefName>KRC_CommanderCoat</mainThingDefName>
+					<thingDefs>
+						<li>KRC_CommanderCoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp commander overcoat_item</thingKey>
+					<mainThingDefName>KRC_CommanderOvercoat</mainThingDefName>
+					<thingDefs>
+						<li>KRC_CommanderOvercoat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp reindeer antlers (type a)_item</thingKey>
+					<mainThingDefName>KRC_ReindeerAntlerA</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerAntlerA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp reindeer antlers (type b)_item</thingKey>
+					<mainThingDefName>KRC_ReindeerAntlerB</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerAntlerB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>rabbit rifle_item</thingKey>
+					<mainThingDefName>KRC_RabbitGun</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RabbitGun</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rabbit knife_item</thingKey>
+					<mainThingDefName>KRC_RabbitKnife</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RabbitKnife</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp commander sword_item</thingKey>
+					<mainThingDefName>KRC_NikolaiSword</mainThingDefName>
+					<thingDefs>
+						<li>KRC_NikolaiSword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino wristblade_item</thingKey>
+					<mainThingDefName>KRC_RhinoWristblade</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RhinoWristblade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino hammer_item</thingKey>
+					<mainThingDefName>KRC_RhinoHammer</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RhinoHammer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp rhino captain's hammer_item</thingKey>
+					<mainThingDefName>KRC_MaximHammer</mainThingDefName>
+					<thingDefs>
+						<li>KRC_MaximHammer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp 4th pack reindeer staff_item</thingKey>
+					<mainThingDefName>KRC_ReindeerStaff</mainThingDefName>
+					<thingDefs>
+						<li>KRC_ReindeerStaff</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>r corp 4th pack reindeer captain staff_item</thingKey>
+					<mainThingDefName>KRC_RudolphStaff</mainThingDefName>
+					<thingDefs>
+						<li>KRC_RudolphStaff</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>simple clothing bench_building</thingKey>
+					<mainThingDefName>RG_SimpleRepairTable</mainThingDefName>
+					<thingDefs>
+						<li>RG_SimpleRepairTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>electric clothing bench_building</thingKey>
+					<mainThingDefName>RG_ElectricRepairTable</mainThingDefName>
+					<thingDefs>
+						<li>RG_ElectricRepairTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>general`s hat_item</thingKey>
+					<mainThingDefName>SNB_Hat</mainThingDefName>
+					<thingDefs>
+						<li>SNB_Hat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) glass wall_building</thingKey>
+					<mainThingDefName>SW_NormalAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_NormalAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>blue glass wall_building</thingKey>
+					<mainThingDefName>SW_BlueGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_BlueGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) blue glass wall_building</thingKey>
+					<mainThingDefName>SW_BlueAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_BlueAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>green glass wall_building</thingKey>
+					<mainThingDefName>SW_GreenGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_GreenGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) green glass wall_building</thingKey>
+					<mainThingDefName>SW_GreenAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_GreenAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>yellow glass wall_building</thingKey>
+					<mainThingDefName>SW_YellowGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_YellowGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) yellow glass wall_building</thingKey>
+					<mainThingDefName>SW_YellowAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_YellowAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>orange glass wall_building</thingKey>
+					<mainThingDefName>SW_OrangeGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_OrangeGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) orange glass wall_building</thingKey>
+					<mainThingDefName>SW_OrangeAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_OrangeAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>red glass wall_building</thingKey>
+					<mainThingDefName>SW_RedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_RedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) red glass wall_building</thingKey>
+					<mainThingDefName>SW_RedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_RedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pink glass wall_building</thingKey>
+					<mainThingDefName>SW_PinkGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_PinkGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) pink glass wall_building</thingKey>
+					<mainThingDefName>SW_PinkAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_PinkAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>purple glass wall_building</thingKey>
+					<mainThingDefName>SW_PurpleGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_PurpleGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) purple glass wall_building</thingKey>
+					<mainThingDefName>SW_PurpleAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_PurpleAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_RoundedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_RoundedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_RoundedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_RoundedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>blue rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_BlueRoundedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_BlueRoundedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) blue rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_BlueRoundedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_BlueRoundedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>green rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_GreenRoundedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_GreenRoundedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) green rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_GreenRoundedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_GreenRoundedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>yellow rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_YellowRoundedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_YellowRoundedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) yellow rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_YellowRoundedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_YellowRoundedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>orange rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_OrangeRoundedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_OrangeRoundedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) orange rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_OrangeRoundedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_OrangeRoundedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>red rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_RedRoundedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_RedRoundedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) red rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_RedRoundedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_RedRoundedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pink rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_PinkRoundedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_PinkRoundedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) pink rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_PinkRoundedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_PinkRoundedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>purple rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_PurpleRoundedGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_PurpleRoundedGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>(alert) purple rounded glass wall_building</thingKey>
+					<mainThingDefName>SW_PurpleRoundedAlertGlitterGlassWall</mainThingDefName>
+					<thingDefs>
+						<li>SW_PurpleRoundedAlertGlitterGlassWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tox rapier_item</thingKey>
+					<mainThingDefName>CAT_ToxRapier</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxRapier</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tox curved blade_item</thingKey>
+					<mainThingDefName>CAT_ToxCurvedBlade</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxCurvedBlade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tox scythe_item</thingKey>
+					<mainThingDefName>CAT_ToxScythe</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxScythe</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tox gauntlet_item</thingKey>
+					<mainThingDefName>CAT_ToxGauntlet</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxGauntlet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tox triblade_item</thingKey>
+					<mainThingDefName>CAT_ToxTriblade</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxTriblade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>persona tox rapier_item</thingKey>
+					<mainThingDefName>CAT_ToxRapierBladelink</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxRapierBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>persona tox curved blade_item</thingKey>
+					<mainThingDefName>CAT_ToxCurvedBladeBladelink</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxCurvedBladeBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>persona tox scythe_item</thingKey>
+					<mainThingDefName>CAT_ToxScytheBladelink</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxScytheBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>persona tox gauntlet_item</thingKey>
+					<mainThingDefName>CAT_ToxGauntletBladelink</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxGauntletBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>persona tox triblade_item</thingKey>
+					<mainThingDefName>CAT_ToxTribladeBladelink</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxTribladeBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prestige stellic polearm_item</thingKey>
+					<mainThingDefName>CAT_ToxStellicPolearmBladelink</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxStellicPolearmBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prestige stellic thurible_item</thingKey>
+					<mainThingDefName>CAT_ToxStellicThuribleBladelink</mainThingDefName>
+					<thingDefs>
+						<li>CAT_ToxStellicThuribleBladelink</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fletcher crossbow_item</thingKey>
+					<mainThingDefName>CAT_Fletcher_Crossbow</mainThingDefName>
+					<thingDefs>
+						<li>CAT_Fletcher_Crossbow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>zetatech atlus shuttle_building</thingKey>
+					<mainThingDefName>TT_Shuttle</mainThingDefName>
+					<thingDefs>
+						<li>TT_Shuttle</li>
+						<li>TT_Shuttle_Dispatch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>udjat tactical mask_item</thingKey>
+					<mainThingDefName>KAL_UdjatTacMask</mainThingDefName>
+					<thingDefs>
+						<li>KAL_UdjatTacMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>udjat helmet_item</thingKey>
+					<mainThingDefName>KAL_UdjatHelmet</mainThingDefName>
+					<thingDefs>
+						<li>KAL_UdjatHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>udjat team leader helmet_item</thingKey>
+					<mainThingDefName>KAL_UdjatHelmetLeader</mainThingDefName>
+					<thingDefs>
+						<li>KAL_UdjatHelmetLeader</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>udjat team leader armor robe_item</thingKey>
+					<mainThingDefName>KAL_UdjatArmor</mainThingDefName>
+					<thingDefs>
+						<li>KAL_UdjatArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>udjat armor robe_item</thingKey>
+					<mainThingDefName>KAL_UdjatArmorBasic</mainThingDefName>
+					<thingDefs>
+						<li>KAL_UdjatArmorBasic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>udjat team leader rifle_item</thingKey>
+					<mainThingDefName>KAL_Udjat_Rifle</mainThingDefName>
+					<thingDefs>
+						<li>KAL_Udjat_Rifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>udjat rifle_item</thingKey>
+					<mainThingDefName>KAL_Udjat_RifleBasic</mainThingDefName>
+					<thingDefs>
+						<li>KAL_Udjat_RifleBasic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>udjat khopesh_item</thingKey>
+					<mainThingDefName>KAL_Udjat_Khopesh</mainThingDefName>
+					<thingDefs>
+						<li>KAL_Udjat_Khopesh</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>traditional recurve bow_item</thingKey>
+					<mainThingDefName>UBE_Bow_TraditionalRecurve</mainThingDefName>
+					<thingDefs>
+						<li>UBE_Bow_TraditionalRecurve</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>european longbow_item</thingKey>
+					<mainThingDefName>UBE_Bow_Longbow</mainThingDefName>
+					<thingDefs>
+						<li>UBE_Bow_Longbow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>modern recurve bow_item</thingKey>
+					<mainThingDefName>UBE_Bow_ModernRecurve</mainThingDefName>
+					<thingDefs>
+						<li>UBE_Bow_ModernRecurve</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>modern compound bow_item</thingKey>
+					<mainThingDefName>UBE_Bow_CompoundBow</mainThingDefName>
+					<thingDefs>
+						<li>UBE_Bow_CompoundBow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>"coronal"_item</thingKey>
+					<mainThingDefName>UBE_Bow_Coronal</mainThingDefName>
+					<thingDefs>
+						<li>UBE_Bow_Coronal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>"meltdown"_item</thingKey>
+					<mainThingDefName>UBE_Bow_Meltdown</mainThingDefName>
+					<thingDefs>
+						<li>UBE_Bow_Meltdown</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>"havoc"_item</thingKey>
+					<mainThingDefName>UBE_Bow_Havoc</mainThingDefName>
+					<thingDefs>
+						<li>UBE_Bow_Havoc</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>"whisper of the past"_item</thingKey>
+					<mainThingDefName>UBE_Bow_TheWhisper</mainThingDefName>
+					<thingDefs>
+						<li>UBE_Bow_TheWhisper</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>guardian_item</thingKey>
+					<mainThingDefName>Gun_SemiSmart_Pistol</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SemiSmart_Pistol</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vanguard_item</thingKey>
+					<mainThingDefName>Gun_SemiSmart_SMG</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SemiSmart_SMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>warden_item</thingKey>
+					<mainThingDefName>Gun_SemiSmart_Carbine</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SemiSmart_Carbine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>enforcer_item</thingKey>
+					<mainThingDefName>Gun_SemiSmart_BattleRifle</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SemiSmart_BattleRifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>watchman_item</thingKey>
+					<mainThingDefName>Gun_SemiSmart_Rifle</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SemiSmart_Rifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sentinel_item</thingKey>
+					<mainThingDefName>Gun_SemiSmart_LMG</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SemiSmart_LMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>panopticon_item</thingKey>
+					<mainThingDefName>Gun_SemiSmart_Sniper</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SemiSmart_Sniper</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>barricade mlws_item</thingKey>
+					<mainThingDefName>Gun_SemiSmart_Barricade</mainThingDefName>
+					<thingDefs>
+						<li>Gun_SemiSmart_Barricade</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>simple ballistic computer_item</thingKey>
+					<mainThingDefName>SimpleBC</mainThingDefName>
+					<thingDefs>
+						<li>SimpleBC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>advanced ballistic computer_item</thingKey>
+					<mainThingDefName>AdvancedBC</mainThingDefName>
+					<thingDefs>
+						<li>AdvancedBC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fake cube_building</thingKey>
+					<mainThingDefName>VFEPD_FakeCube</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_FakeCube</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decorative platform_building</thingKey>
+					<mainThingDefName>VFEPD_DecorativePlatform</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_DecorativePlatform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>atmospheric heater, lit_building</thingKey>
+					<mainThingDefName>VFEPD_AtmosphericHeaterLit</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_AtmosphericHeaterLit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decorative cube, dirt_building</thingKey>
+					<mainThingDefName>VFEPD_DecorativeCubeSculture_Dirt</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_DecorativeCubeSculture_Dirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decorative cube, stone_building</thingKey>
+					<mainThingDefName>VFEPD_DecorativeCubeSculture_Stone</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_DecorativeCubeSculture_Stone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decorative cube, sand_building</thingKey>
+					<mainThingDefName>VFEPD_DecorativeCubeSculture_Sand</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_DecorativeCubeSculture_Sand</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decorative cube, scrap_building</thingKey>
+					<mainThingDefName>VFEPD_DecorativeCubeSculture_Scrap</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_DecorativeCubeSculture_Scrap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty gray box_building</thingKey>
+					<mainThingDefName>VFEPD_GrayBox_Empty</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_GrayBox_Empty</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fake gray door_building</thingKey>
+					<mainThingDefName>VFEPD_FakeGrayDoor</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_FakeGrayDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fake security door_building</thingKey>
+					<mainThingDefName>VFEPD_FakeSecurityDoor</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_FakeSecurityDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>inactive twisted obelisk_building</thingKey>
+					<mainThingDefName>VFEPD_InactiveTwistedObelisk</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_InactiveTwistedObelisk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>inactive corrupted obelisk_building</thingKey>
+					<mainThingDefName>VFEPD_InactiveCorruptedObelisk</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_InactiveCorruptedObelisk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>inactive warped obelisk_building</thingKey>
+					<mainThingDefName>VFEPD_InactiveWarpedObelisk</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_InactiveWarpedObelisk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fake pit burrow_building</thingKey>
+					<mainThingDefName>VFEPD_PitBurrow</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_PitBurrow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fake pit, small_building</thingKey>
+					<mainThingDefName>VFEPD_EndlessPit2x2c</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_EndlessPit2x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fake pit, medium_building</thingKey>
+					<mainThingDefName>VFEPD_EndlessPit3x2c</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_EndlessPit3x2c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fake pit, large_building</thingKey>
+					<mainThingDefName>VFEPD_EndlessPit3x3c</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_EndlessPit3x3c</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>archotech support_building</thingKey>
+					<mainThingDefName>VFEPD_ArchotechSupport_Small</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_ArchotechSupport_Small</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>large archotech support_building</thingKey>
+					<mainThingDefName>VFEPD_ArchotechSupport_Large</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_ArchotechSupport_Large</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vertical archotech support_building</thingKey>
+					<mainThingDefName>VFEPD_ArchotechSupport_Vertical</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_ArchotechSupport_Vertical</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decorative void sculpture_building</thingKey>
+					<mainThingDefName>VFEPD_VoidSculpture</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_VoidSculpture</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>void structure, lit_building</thingKey>
+					<mainThingDefName>VFEPD_VoidStructureLit</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_VoidStructureLit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fleshmass debris_building</thingKey>
+					<mainThingDefName>VFEPD_Fleshmassfilth</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_Fleshmassfilth</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>revenant smear_building</thingKey>
+					<mainThingDefName>VFEPD_RevenantSmear</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_RevenantSmear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>revenant gore pool_building</thingKey>
+					<mainThingDefName>VFEPD_RevenantGorePool</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_RevenantGorePool</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>loose ground_building</thingKey>
+					<mainThingDefName>VFEPD_LooseGround</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_LooseGround</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>twisted flesh_building</thingKey>
+					<mainThingDefName>VFEPD_TwistedFlesh</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_TwistedFlesh</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>metalhorror debris_building</thingKey>
+					<mainThingDefName>VFEPD_MetalhorrorDebris</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_MetalhorrorDebris</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>floor etchings_building</thingKey>
+					<mainThingDefName>VFEPD_FloorEtchings</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_FloorEtchings</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fake harbinger tree_building</thingKey>
+					<mainThingDefName>VFEPD_FakeHarbingerTree</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_FakeHarbingerTree</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>nociosphere departing_building</thingKey>
+					<mainThingDefName>VFEPD_NociosphereDeparting</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_NociosphereDeparting</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tachycardiac arrest_building</thingKey>
+					<mainThingDefName>VFEPD_TachycardiacArrest</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_TachycardiacArrest</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shambler raise_building</thingKey>
+					<mainThingDefName>VFEPD_ShamblerRaise</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_ShamblerRaise</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>abduct warmup_building</thingKey>
+					<mainThingDefName>VFEPD_AbductWarmup</mainThingDefName>
+					<thingDefs>
+						<li>VFEPD_AbductWarmup</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>trading terminal_building</thingKey>
+					<mainThingDefName>VTE_TradingTerminal</mainThingDefName>
+					<thingDefs>
+						<li>VTE_TradingTerminal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>w corp cap_item</thingKey>
+					<mainThingDefName>KWC_WcorpCap</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WcorpCap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>w corp shirt_item</thingKey>
+					<mainThingDefName>KWC_WcorpShirt</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WcorpShirt</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>w corp chestplate_item</thingKey>
+					<mainThingDefName>KWC_WcorpPlate</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WcorpPlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dimensional refraction edge - type: blade mk 7_item</thingKey>
+					<mainThingDefName>KWC_WarpSword</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WarpSword</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dimensional refraction edge - type: polearm mk 3_item</thingKey>
+					<mainThingDefName>KWC_WarpPolearm</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WarpPolearm</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dimensional refraction edge - type: dagger mk 2_item</thingKey>
+					<mainThingDefName>KWC_WarpDagger</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WarpDagger</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dimensional refraction edge - type: axe mk 4_item</thingKey>
+					<mainThingDefName>KWC_WarpAxe</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WarpAxe</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dimensional refraction edge - type: machete mk 4_item</thingKey>
+					<mainThingDefName>KWC_WarpKnife</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WarpKnife</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dimensional refraction edge - type: baton mk 1_item</thingKey>
+					<mainThingDefName>KWC_WarpBaton</mainThingDefName>
+					<thingDefs>
+						<li>KWC_WarpBaton</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gray wall_building</thingKey>
+					<mainThingDefName>AG_GrayWall</mainThingDefName>
+					<thingDefs>
+						<li>AG_GrayWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>gray door_building</thingKey>
+					<mainThingDefName>AG_GrayDoor</mainThingDefName>
+					<thingDefs>
+						<li>AG_GrayDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>scire antler_item</thingKey>
+					<mainThingDefName>FC_ScireAntler</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mirelung antler_item</thingKey>
+					<mainThingDefName>FC_MirelungAntler</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>infernihart antler_item</thingKey>
+					<mainThingDefName>FC_InfernihartAntler</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>auravine antler_item</thingKey>
+					<mainThingDefName>FC_AuravineAntler</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>scire leather_item</thingKey>
+					<mainThingDefName>FC_Leather_Scire</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>auravine leather_item</thingKey>
+					<mainThingDefName>FC_Leather_Auravine</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>infernihart leather_item</thingKey>
+					<mainThingDefName>FC_Leather_Infernihart</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mirelung leather_item</thingKey>
+					<mainThingDefName>FC_Leather_Mirelung</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>auravine_pawn</thingKey>
+					<mainThingDefName>FC_Auravine</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>infernihart_pawn</thingKey>
+					<mainThingDefName>FC_Infernihart</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mirelung_pawn</thingKey>
+					<mainThingDefName>FC_Mirelung</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>scire_pawn</thingKey>
+					<mainThingDefName>FC_Scire</mainThingDefName>
+					<thingDefs />
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ashtray_building</thingKey>
+					<mainThingDefName>GM_PropAshtray</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropAshtray</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>decanter bottle_building</thingKey>
+					<mainThingDefName>GM_PropDecanter</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropDecanter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>row of liquor bottles_building</thingKey>
+					<mainThingDefName>GM_PropLiquors</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropLiquors</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shot glasses_building</thingKey>
+					<mainThingDefName>GM_PropShotGlasses</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropShotGlasses</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>condoms_building</thingKey>
+					<mainThingDefName>GM_PropCondomBox</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropCondomBox</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>dirty laundry_building</thingKey>
+					<mainThingDefName>GM_PropDirtyLaundry</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropDirtyLaundry</li>
+						<li>GM_PropDirtyUnderwear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>handcuffs_building</thingKey>
+					<mainThingDefName>GM_PropPlayCuffs</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropPlayCuffs</li>
+						<li>GM_PropCuffs</li>
+						<li>GM_PropCuffsHung</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sex toy_building</thingKey>
+					<mainThingDefName>GM_PropSextoy</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropSextoy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mannequin_building</thingKey>
+					<mainThingDefName>GM_PropDollManequin</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropDollManequin</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty rack_building</thingKey>
+					<mainThingDefName>GM_PropEmptyRack</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropEmptyRack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pole stage_building</thingKey>
+					<mainThingDefName>GM_PropPoleStage</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropPoleStage</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>camera_building</thingKey>
+					<mainThingDefName>GM_PropRecorder</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropRecorder</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>x-cross_building</thingKey>
+					<mainThingDefName>GM_PropXRack</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropXRack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>coffee cup_building</thingKey>
+					<mainThingDefName>GM_PropCoffee</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropCoffee</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>coffee machine_building</thingKey>
+					<mainThingDefName>GM_PropCoffeeMachine</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropCoffeeMachine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>file folder_building</thingKey>
+					<mainThingDefName>GM_PropFolder</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropFolder</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>medicine bottles_building</thingKey>
+					<mainThingDefName>GM_PropMedBottles</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropMedBottles</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>medicine pills_building</thingKey>
+					<mainThingDefName>GM_PropMedPills</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropMedPills</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>stack of paperworks_building</thingKey>
+					<mainThingDefName>GM_PropPaperworks</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropPaperworks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty bottles_building</thingKey>
+					<mainThingDefName>GM_PropBeerBottles</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropBeerBottles</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty cans_building</thingKey>
+					<mainThingDefName>GM_PropBeerCans</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropBeerCans</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>drug trash_building</thingKey>
+					<mainThingDefName>GM_PropUsedDrugs</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropUsedDrugs</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spilled fluid_building</thingKey>
+					<mainThingDefName>GM_VFEPD_FilthCum</mainThingDefName>
+					<thingDefs>
+						<li>GM_VFEPD_FilthCum</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>knee splitter_building</thingKey>
+					<mainThingDefName>GM_PropKneeSplitter</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropKneeSplitter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>torture tool_building</thingKey>
+					<mainThingDefName>GM_PropTortureToolA</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropTortureToolA</li>
+						<li>GM_PropTortureToolB</li>
+						<li>GM_PropTortureToolC</li>
+						<li>GM_PropTortureToolD</li>
+						<li>GM_PropTortureToolE</li>
+						<li>GM_PropTortureToolF</li>
+						<li>GM_PropTortureToolG</li>
+						<li>GM_PropTortureToolH</li>
+						<li>GM_PropTortureToolI</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>torture tool kit_building</thingKey>
+					<mainThingDefName>GM_PropTortureToolKit</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropTortureToolKit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>torture tool tray_building</thingKey>
+					<mainThingDefName>GM_PropTortureToolTray</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropTortureToolTray</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall shackle_building</thingKey>
+					<mainThingDefName>GM_PropWallShackle</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropWallShackle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall shackles_building</thingKey>
+					<mainThingDefName>GM_PropWallShacklesLong</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropWallShacklesLong</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wall chained handcuff_building</thingKey>
+					<mainThingDefName>GM_PropWallChainCuff</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropWallChainCuff</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bolted handcuff_building</thingKey>
+					<mainThingDefName>GM_PropCuffsBolted</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropCuffsBolted</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>stray chains_building</thingKey>
+					<mainThingDefName>GM_PropChainStray</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropChainStray</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hanging handcuffs_building</thingKey>
+					<mainThingDefName>GM_PropCuffsCeiling</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropCuffsCeiling</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hanging chains_building</thingKey>
+					<mainThingDefName>GM_PropChainsCeiling</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropChainsCeiling</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x2 rustic table_building</thingKey>
+					<mainThingDefName>GM_3x2RusticTable</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x2RusticTable</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>rustic prison bed_building</thingKey>
+					<mainThingDefName>GM_RusticPrisonBed</mainThingDefName>
+					<thingDefs>
+						<li>GM_RusticPrisonBed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chair with restraints_building</thingKey>
+					<mainThingDefName>GM_RusticCuffsChair</mainThingDefName>
+					<thingDefs>
+						<li>GM_RusticCuffsChair</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>2x2 oubliette_building</thingKey>
+					<mainThingDefName>GM_2x2Oubliette</mainThingDefName>
+					<thingDefs>
+						<li>GM_2x2Oubliette</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x2 oubliette_building</thingKey>
+					<mainThingDefName>GM_3x2Oubliette</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x2Oubliette</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x3 oubliette_building</thingKey>
+					<mainThingDefName>GM_3x3Oubliette</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x3Oubliette</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty gibbet cage_building</thingKey>
+					<mainThingDefName>GM_PropGibbet</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropGibbet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>empty tall gibbet cage_building</thingKey>
+					<mainThingDefName>GM_PropGibbetTall</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropGibbetTall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cage pile a_building</thingKey>
+					<mainThingDefName>GM_PropGibbetPileA</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropGibbetPileA</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cage pile b_building</thingKey>
+					<mainThingDefName>GM_PropGibbetPileB</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropGibbetPileB</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cage pile c_building</thingKey>
+					<mainThingDefName>GM_PropGibbetPileC</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropGibbetPileC</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cage pile d_building</thingKey>
+					<mainThingDefName>GM_PropGibbetPileD</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropGibbetPileD</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>torture rack_building</thingKey>
+					<mainThingDefName>GM_PropTortureRack</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropTortureRack</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prisoner pole_building</thingKey>
+					<mainThingDefName>GM_PropPrisonerPole</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropPrisonerPole</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chopping block_building</thingKey>
+					<mainThingDefName>GM_PropChoppingBlock</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropChoppingBlock</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>low brazier_building</thingKey>
+					<mainThingDefName>GM_PropLowBrazier</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropLowBrazier</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>low brazier (unlit)_building</thingKey>
+					<mainThingDefName>GM_PropLowBrazierUnlit</mainThingDefName>
+					<thingDefs>
+						<li>GM_PropLowBrazierUnlit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>2x2 cage base_building</thingKey>
+					<mainThingDefName>GM_2x2CageBase</mainThingDefName>
+					<thingDefs>
+						<li>GM_2x2CageBase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x2 cage base_building</thingKey>
+					<mainThingDefName>GM_3x2CageBase</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x2CageBase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x3 cage base_building</thingKey>
+					<mainThingDefName>GM_3x3CageBase</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x3CageBase</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>2x2 cage (round bar)_building</thingKey>
+					<mainThingDefName>GM_2x2CageTopRound</mainThingDefName>
+					<thingDefs>
+						<li>GM_2x2CageTopRound</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>2x2 cage (flat bar)_building</thingKey>
+					<mainThingDefName>GM_2x2CageTopFlat</mainThingDefName>
+					<thingDefs>
+						<li>GM_2x2CageTopFlat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>2x2 cage (spiked)_building</thingKey>
+					<mainThingDefName>GM_2x2CageTopSpiky</mainThingDefName>
+					<thingDefs>
+						<li>GM_2x2CageTopSpiky</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>2x2 cage (shoddy)_building</thingKey>
+					<mainThingDefName>GM_2x2CageTopShoddy</mainThingDefName>
+					<thingDefs>
+						<li>GM_2x2CageTopShoddy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x2 cage (round bar)_building</thingKey>
+					<mainThingDefName>GM_3x2CageTopRound</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x2CageTopRound</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x2 cage (flat bar)_building</thingKey>
+					<mainThingDefName>GM_3x2CageTopFlat</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x2CageTopFlat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x2 cage (spiked)_building</thingKey>
+					<mainThingDefName>GM_3x2CageTopSpiky</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x2CageTopSpiky</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x2 cage (shoddy)_building</thingKey>
+					<mainThingDefName>GM_3x2CageTopShoddy</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x2CageTopShoddy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x3 cage (round bar)_building</thingKey>
+					<mainThingDefName>GM_3x3CageTopRound</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x3CageTopRound</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x3 cage (flat bar)_building</thingKey>
+					<mainThingDefName>GM_3x3CageTopFlat</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x3CageTopFlat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x3 cage (spiked)_building</thingKey>
+					<mainThingDefName>GM_3x3CageTopSpiky</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x3CageTopSpiky</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>3x3 cage (shoddy)_building</thingKey>
+					<mainThingDefName>GM_3x3CageTopShoddy</mainThingDefName>
+					<thingDefs>
+						<li>GM_3x3CageTopShoddy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>large security door_building</thingKey>
+					<mainThingDefName>RB_LargeSecurityDoor</mainThingDefName>
+					<thingDefs>
+						<li>RB_LargeSecurityDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cubic crib_building</thingKey>
+					<mainThingDefName>AM_CubicCrib</mainThingDefName>
+					<thingDefs>
+						<li>AM_CubicCrib</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>doner kebab_item</thingKey>
+					<mainThingDefName>Meal_DonerKebab</mainThingDefName>
+					<thingDefs>
+						<li>Meal_DonerKebab</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kebabtech implant_item</thingKey>
+					<mainThingDefName>DonerKebabMachine</mainThingDefName>
+					<thingDefs>
+						<li>DonerKebabMachine</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>machine spirit altar_building</thingKey>
+					<mainThingDefName>UFRecipes_MachineSpiritAltar</mainThingDefName>
+					<thingDefs>
+						<li>UFRecipes_MachineSpiritAltar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>worker projection implant_item</thingKey>
+					<mainThingDefName>UFRecipes_WorkerProjectionImplant</mainThingDefName>
+					<thingDefs>
+						<li>UFRecipes_WorkerProjectionImplant</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>imperial info techprint_item</thingKey>
+					<mainThingDefName>IF_ImperialInfo</mainThingDefName>
+					<thingDefs>
+						<li>IF_ImperialInfo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>imperial propaganda_item</thingKey>
+					<mainThingDefName>IF_ImperialPropaganda</mainThingDefName>
+					<thingDefs>
+						<li>IF_ImperialPropaganda</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>paper_item</thingKey>
+					<mainThingDefName>Fox_Paper</mainThingDefName>
+					<thingDefs>
+						<li>Fox_Paper</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>book_item</thingKey>
+					<mainThingDefName>Fox_Book</mainThingDefName>
+					<thingDefs>
+						<li>Fox_Book</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pam_item</thingKey>
+					<mainThingDefName>Fox_PAM</mainThingDefName>
+					<thingDefs>
+						<li>Fox_PAM</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>data core_item</thingKey>
+					<mainThingDefName>Fox_DataCore</mainThingDefName>
+					<thingDefs>
+						<li>Fox_DataCore</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neolithic desk_building</thingKey>
+					<mainThingDefName>Neo_Learning_Desk</mainThingDefName>
+					<thingDefs>
+						<li>Neo_Learning_Desk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>regular desk_building</thingKey>
+					<mainThingDefName>Mid_Learning_Desk</mainThingDefName>
+					<thingDefs>
+						<li>Mid_Learning_Desk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>advanced desk_building</thingKey>
+					<mainThingDefName>Adv_Learning_Desk</mainThingDefName>
+					<thingDefs>
+						<li>Adv_Learning_Desk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spacer desk_building</thingKey>
+					<mainThingDefName>Spacer_Learning_Desk</mainThingDefName>
+					<thingDefs>
+						<li>Spacer_Learning_Desk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>neolithic stone_building</thingKey>
+					<mainThingDefName>Neo_Board</mainThingDefName>
+					<thingDefs>
+						<li>Neo_Board</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chalk board_building</thingKey>
+					<mainThingDefName>Board</mainThingDefName>
+					<thingDefs>
+						<li>Board</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spacer board_building</thingKey>
+					<mainThingDefName>Spacer_Board</mainThingDefName>
+					<thingDefs>
+						<li>Spacer_Board</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>joy bookshelf_building</thingKey>
+					<mainThingDefName>Joy_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Joy_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spacer bookshelf_building</thingKey>
+					<mainThingDefName>Spacer_Joy_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Spacer_Joy_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shooting bookshelf_building</thingKey>
+					<mainThingDefName>Shooting_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Shooting_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>melee bookshelf_building</thingKey>
+					<mainThingDefName>Melee_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Melee_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>construction bookshelf_building</thingKey>
+					<mainThingDefName>Construct_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Construct_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mining bookshelf_building</thingKey>
+					<mainThingDefName>Mining_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Mining_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cooking bookshelf_building</thingKey>
+					<mainThingDefName>Cooking_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Cooking_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>plants bookshelf_building</thingKey>
+					<mainThingDefName>Plants_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Plants_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>animals bookshelf_building</thingKey>
+					<mainThingDefName>Animals_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Animals_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>crafting bookshelf_building</thingKey>
+					<mainThingDefName>Crafting_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Crafting_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art bookshelf_building</thingKey>
+					<mainThingDefName>Art_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Art_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>medicine bookshelf_building</thingKey>
+					<mainThingDefName>Medicine_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Medicine_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>social bookshelf_building</thingKey>
+					<mainThingDefName>Social_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Social_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>intellectual bookshelf_building</thingKey>
+					<mainThingDefName>Intellectual_Bookshelf</mainThingDefName>
+					<thingDefs>
+						<li>Intellectual_Bookshelf</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>library table_building</thingKey>
+					<mainThingDefName>Library_Table</mainThingDefName>
+					<thingDefs>
+						<li>Library_Table</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>author desk_building</thingKey>
+					<mainThingDefName>AuthorDesk</mainThingDefName>
+					<thingDefs>
+						<li>AuthorDesk</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>printing press_building</thingKey>
+					<mainThingDefName>Printing_Press</mainThingDefName>
+					<thingDefs>
+						<li>Printing_Press</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>ywwuyi duck_pawn</thingKey>
+					<mainThingDefName>QWY_ywwuyi</mainThingDefName>
+					<thingDefs>
+						<li>QWY_ywwuyi</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>quin_pawn</thingKey>
+					<mainThingDefName>QWY_Quin</mainThingDefName>
+					<thingDefs>
+						<li>QWY_Quin</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wtmsbear_pawn</thingKey>
+					<mainThingDefName>QWY_WTMSBear</mainThingDefName>
+					<thingDefs>
+						<li>QWY_WTMSBear</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>amidonkey_pawn</thingKey>
+					<mainThingDefName>QWY_Amidonkey</mainThingDefName>
+					<thingDefs>
+						<li>QWY_Amidonkey</li>
 					</thingDefs>
 					<removedDefs />
 				</li>

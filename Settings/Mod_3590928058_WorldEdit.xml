@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="WorldEdit_2_0.Settings.SettingsManager">
+		<activeEditor>False</activeEditor>
 		<Editors>
 			<li Class="WorldEdit_2_0.MainEditor.Tiles.TileEditor">
 				<callKeyCode>F1</callKeyCode>

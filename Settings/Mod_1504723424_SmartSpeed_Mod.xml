@@ -4,7 +4,7 @@
 		<normalSpeed>1</normalSpeed>
 		<fastSpeed>3</fastSpeed>
 		<superfastSpeed>6</superfastSpeed>
-		<ultrafastSpeed>500</ultrafastSpeed>
+		<ultrafastSpeed>20.7999992</ultrafastSpeed>
 		<currSetting>Normal</currSetting>
 	</ModSettings>
 </SettingsBlock>

@@ -51,6 +51,11 @@
 			<li>MUS_Fishing_RattanTable</li>
 			<li>UFLI_4PBed</li>
 			<li>UFLI_TripleBed</li>
+			<li>Door</li>
+			<li>VFEArch_SingleDoor</li>
+			<li>VFEArch_SingleDoor_Flipped</li>
+			<li>RB_DoubleDoor</li>
+			<li>VFEArch_FineWall</li>
 		</hiddenBuildables>
 		<revealHiddenCombo>
 			<ctrl>True</ctrl>

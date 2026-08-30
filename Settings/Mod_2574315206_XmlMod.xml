@@ -434,26 +434,26 @@
 				<li>FrozenSnowFox.FrozenSnowFoxTweaks;FSFRABuyableResearchDataMax</li>
 			</keys>
 			<values>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
-				<li>false</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
+				<li>False</li>
 				<li>false</li>
 				<li>8</li>
 				<li>0.75</li>
@@ -571,7 +571,7 @@
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
-				<li>False</li>
+				<li>True</li>
 				<li>False</li>
 				<li>False</li>
 				<li>False</li>
@@ -851,7 +851,7 @@
 				<li>false</li>
 				<li>0.00</li>
 				<li>0.00</li>
-				<li>false</li>
+				<li>False</li>
 				<li>120000</li>
 				<li>360000</li>
 				<li>false</li>
