@@ -6,5 +6,7 @@
 		<li IfModActive="Ludeon.RimWorld.Royalty">Compatibility/Ludeon.RimWorld.Royalty</li>
 		<li IfModActive="snafu.japanworld">Compatibility/snafu.japanworld</li>
 		<li IfModActive="stevezero.repairablegear">Compatibility/stevezero.repairablegear</li>
+		<li IfModActive="KindSeal.UFLI">Compatibility/KindSeal.UFLI/1.6</li>
+		<li IfModActive="wowgag.EvolvingEnemyStrongholds">Compatibility/wowgag.EvolvingEnemyStrongholds/1.6</li>
 	</v1.6>
 </loadFolders>
