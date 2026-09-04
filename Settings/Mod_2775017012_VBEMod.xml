@@ -3,7 +3,7 @@
 	<ModSettings Class="VBE.VBESettings">
 		<cycle>False</cycle>
 		<randomize>False</randomize>
-		<current>Samuraisamurai.rimthemes</current>
+		<current>Classic Cassandra-1</current>
 		<enabled>
 			<keys>
 				<li>VBE_Adventure</li>
@@ -55,8 +55,10 @@
 				<li>Rim-Life 2-1_Animated</li>
 				<li>Vanilla-1_Animated</li>
 				<li>Samuraisamurai.rimthemes_Animated</li>
+				<li>Cyber Choommrsamuelstreamer.rimthemesrecolours_Animated</li>
 			</keys>
 			<values>
+				<li>True</li>
 				<li>True</li>
 				<li>True</li>
 				<li>True</li>

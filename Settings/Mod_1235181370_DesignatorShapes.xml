@@ -2,8 +2,8 @@
 <SettingsBlock>
 	<ModSettings Class="Merthsoft.DesignatorShapes.DesignatorSettings">
 		<DrawBackground>True</DrawBackground>
-		<WindowX>244</WindowX>
-		<WindowY>164</WindowY>
+		<WindowX>124</WindowX>
+		<WindowY>351</WindowY>
 		<Keys>
 			<li>Q</li>
 			<li>E</li>

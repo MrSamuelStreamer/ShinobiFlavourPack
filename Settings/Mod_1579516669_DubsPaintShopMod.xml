@@ -156,5 +156,7 @@
 				</swatches>
 			</li>
 		</Palettes>
+		<JobMode>False</JobMode>
+		<TintBeds>False</TintBeds>
 	</ModSettings>
 </SettingsBlock>

@@ -1,14 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="FacialAnimation.FacialAnimationModSettings">
-		<EnablePortraitAnimationInPortrait>True</EnablePortraitAnimationInPortrait>
 		<UpdateAnimationInPortraitInterval>60</UpdateAnimationInPortraitInterval>
-		<DrawBrowsAboveHat>False</DrawBrowsAboveHat>
-		<DrawGeneParts>False</DrawGeneParts>
-		<DrawEarsParts>False</DrawEarsParts>
-		<DrawFaceTypeForGenes>False</DrawFaceTypeForGenes>
+		<EnableAnimationsForAllPawns>False</EnableAnimationsForAllPawns>
 		<EnableAnimationsForNonOfTheAbove>False</EnableAnimationsForNonOfTheAbove>
 		<EnableFacialAnimationMainTab>False</EnableFacialAnimationMainTab>
-		<IgnoreEnableAnimationForRaceXenoTypeListAA />
+		<IgnoreEnableAnimationForRaceXenoTypeListAA>
+			<li>Human-GS_Geist</li>
+		</IgnoreEnableAnimationForRaceXenoTypeListAA>
 	</ModSettings>
 </SettingsBlock>

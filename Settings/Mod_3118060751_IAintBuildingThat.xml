@@ -25,6 +25,37 @@
 			<li>AB_ExoticColumn</li>
 			<li>VCE_CanningMachine</li>
 			<li>BS_AndroidFuelRefinery</li>
+			<li>VVE_Wagon_Blueprint</li>
+			<li>VVE_Warbird_Blueprint</li>
+			<li>VVE_Wisent_Blueprint</li>
+			<li>VVE_Tango_Blueprint</li>
+			<li>VVE_Snatcher_Blueprint</li>
+			<li>VVE_BangBus_Blueprint</li>
+			<li>VVE_Bunsen_Blueprint</li>
+			<li>VVE_Dinghy_Blueprint</li>
+			<li>VVE_Dirtbike_Blueprint</li>
+			<li>VVE_Highwayman_Blueprint</li>
+			<li>VVE_Mule_Blueprint</li>
+			<li>VVE_Bulldog_Blueprint</li>
+			<li>VVE_Mosquito_Blueprint</li>
+			<li>VVE_Roadrunner_Blueprint</li>
+			<li>VVE_Smuggler_Blueprint</li>
+			<li>VVE_Trawler_Blueprint</li>
+			<li>VVE_Charley_Blueprint</li>
+			<li>MUS_Fishing_RattanBed</li>
+			<li>MUS_Fishing_RattanDoubleBed</li>
+			<li>MUS_Fishing_RattanLowTable</li>
+			<li>MUS_Fishing_RattanCabinet</li>
+			<li>MUS_Fishing_CaneChair</li>
+			<li>MUS_Fishing_CaneBench</li>
+			<li>MUS_Fishing_RattanTable</li>
+			<li>UFLI_4PBed</li>
+			<li>UFLI_TripleBed</li>
+			<li>Door</li>
+			<li>VFEArch_SingleDoor</li>
+			<li>VFEArch_SingleDoor_Flipped</li>
+			<li>RB_DoubleDoor</li>
+			<li>VFEArch_FineWall</li>
 		</hiddenBuildables>
 		<revealHiddenCombo>
 			<ctrl>True</ctrl>
