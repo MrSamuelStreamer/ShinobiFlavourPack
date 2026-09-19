@@ -49,6 +49,7 @@
         </Reference>
         <Reference Include="VFED">
           <HintPath>..\..\..\..\..\..\..\workshop\content\294100\3025493377\1.6\Assemblies\VFED.dll</HintPath>
+          <Private>False</Private>
         </Reference>
     </ItemGroup>
     <ItemGroup>
