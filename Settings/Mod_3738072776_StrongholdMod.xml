@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="EvolvingEnemyStrongholds.StrongholdSettings">
+		<schemaVersion>2</schemaVersion>
 		<preventScoutDeath>True</preventScoutDeath>
 		<scoutUnlockHighTier>True</scoutUnlockHighTier>
 		<scoutSuccessMul>1.49729335</scoutSuccessMul>

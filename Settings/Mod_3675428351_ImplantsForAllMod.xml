@@ -91,18 +91,51 @@
 			<li>Eccentric_Hediff_Horn_Oni</li>
 			<li>Eccentric_Hediff_Horn_Thrumbo</li>
 			<li>Eccentric_Hediff_Horn_Unicorn</li>
-			<li>Eccentric_Hediff_Horn_Ram</li>
+			<li>FieldHand</li>
+			<li>Gha_DrillAppendage</li>
+			<li>DrillArm</li>
+			<li>Gha_BuilderAppendage</li>
+			<li>Gha_CrafterAppendage</li>
+			<li>DonerImplant</li>
+			<li>Joywire</li>
+			<li>Painstopper</li>
+			<li>Mindscrew</li>
 		</blacklistedHediffs>
+		<blacklistedMods>
+			<li>aelanna.eccentrictech.cosmetics2</li>
+			<li>cyco.donerimplant</li>
+			<li>momo.meckhorse</li>
+			<li>k.cybernet</li>
+		</blacklistedMods>
+		<factionsRestricted>True</factionsRestricted>
+		<allowPlayer>False</allowPlayer>
+		<advancedFactionSettings>True</advancedFactionSettings>
 		<playerRange />
 		<alliesRange />
 		<neutralsRange />
 		<hostilesRange />
 		<noFactionRange />
 		<neolithicLimits />
-		<medievalLimits />
+		<medievalLimits>
+			<useGlobalValues>False</useGlobalValues>
+			<minImplants>1</minImplants>
+			<maxImplants>5</maxImplants>
+		</medievalLimits>
 		<industrialLimits />
-		<spacerLimits />
-		<ultraLimits />
-		<archotechLimits />
+		<spacerLimits>
+			<useGlobalValues>False</useGlobalValues>
+			<minImplants>3</minImplants>
+			<maxImplants>8</maxImplants>
+		</spacerLimits>
+		<ultraLimits>
+			<useGlobalValues>False</useGlobalValues>
+			<minImplants>3</minImplants>
+			<maxImplants>8</maxImplants>
+		</ultraLimits>
+		<archotechLimits>
+			<useGlobalValues>False</useGlobalValues>
+			<minImplants>8</minImplants>
+			<maxImplants>12</maxImplants>
+		</archotechLimits>
 	</ModSettings>
 </SettingsBlock>

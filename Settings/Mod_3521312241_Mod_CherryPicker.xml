@@ -151,6 +151,50 @@
 			<li>PawnKindDef/Mech_Legionary</li>
 			<li>RecipeDef/Legionary</li>
 			<li>IncidentDef/Sabotage</li>
+			<li>ThingDef/CH_Mendoria</li>
+			<li>ThingDef/Corpse_CH_Mendoria</li>
+			<li>PawnKindDef/CH_Mendoria</li>
+			<li>RecipeDef/CH_Mendoria</li>
+			<li>HediffDef/MSSFP_GoldenCubeImplant</li>
+			<li>AbilityDef/BulwarksBlessing</li>
+			<li>HediffDef/HealingAura</li>
+			<li>HediffDef/HealingAuraEffect</li>
+			<li>GeneDef/Bulwarks_Blessing</li>
+			<li>IncidentDef/MechCluster</li>
+			<li>RecipeDef/Make_BionicEye</li>
+			<li>RecipeDef/Make_BionicArm</li>
+			<li>RecipeDef/Make_BionicLeg</li>
+			<li>RecipeDef/Make_BionicSpine</li>
+			<li>RecipeDef/Make_BionicHeart</li>
+			<li>RecipeDef/Make_BionicStomach</li>
+			<li>RecipeDef/Make_BionicEar</li>
+			<li>RecipeDef/Make_BionicTongue</li>
+			<li>RecipeDef/Make_BionicJaw</li>
+			<li>IncidentDef/DefoliatorShipPartCrash</li>
+			<li>IncidentDef/PsychicEmanatorShipPartCrash</li>
+			<li>IncidentDef/LE_MechanoidOverclock</li>
+			<li>IncidentDef/LE_MechanoidThrottling</li>
+			<li>IncidentDef/LE_MechaniteCloud</li>
+			<li>RecipeDef/InstallBionicSpine</li>
+			<li>RecipeDef/InstallBionicArm</li>
+			<li>RecipeDef/InstallBionicLeg</li>
+			<li>RecipeDef/InstallBionicEar</li>
+			<li>RecipeDef/InstallBionicStomach</li>
+			<li>RecipeDef/InstallBionicHeart</li>
+			<li>RecipeDef/InstallBionicEye</li>
+			<li>RecipeDef/InstallBionicJaw</li>
+			<li>RecipeDef/InstallDetoxifierStomach</li>
+			<li>RecipeDef/InstallReprocessorStomach</li>
+			<li>RecipeDef/InstallNuclearStomach</li>
+			<li>RecipeDef/InstallDetoxifierLung</li>
+			<li>RecipeDef/InstallDetoxifierKidney</li>
+			<li>RecipeDef/InstallImmunoenhancer</li>
+			<li>RecipeDef/RemoveImmunoenhancer</li>
+			<li>IncidentDef/LE_MedicineSpoiled</li>
+			<li>ThingDef/Mech_Centurion</li>
+			<li>RecipeDef/Centurion</li>
+			<li>PawnKindDef/Mech_Centurion</li>
+			<li>ThingDef/Corpse_Mech_Centurion</li>
 		</keys>
 	</ModSettings>
 </SettingsBlock>

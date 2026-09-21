@@ -8,5 +8,6 @@
 		<li IfModActive="wowgag.EvolvingEnemyStrongholds">Compatibility/wowgag.EvolvingEnemyStrongholds/1.6</li>
 		<li IfModActive="cyberware.2077">Compatibility/cyberware.2077</li>
     <li IfModActive="oskarpotocki.vfe.deserters">Compatibility/oskarpotocki.vfe.deserters/1.6</li>
-  </v1.6>
+		<li IfModActive="kimchibok.kimchianzbeta">Compatibility/kimchibok.kimchianzbeta</li>
+	</v1.6>
 </loadFolders>

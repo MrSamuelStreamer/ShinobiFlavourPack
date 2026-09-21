@@ -11,16 +11,15 @@
 		<LimitModeAmountRanged_RelativeMass>0.285714298</LimitModeAmountRanged_RelativeMass>
 		<LimitModeAmountTotal_RelativeMass>0.285714298</LimitModeAmountTotal_RelativeMass>
 		<LimitModeSingle_Selection_defNames>
-			<li>K4G_MeleeWeapon_Katana</li>
+			<li>TSF_Katana</li>
 			<li>K4G_MeleeWeapon_Sabre</li>
-			<li>TA_Katana</li>
-			<li>TA_Naginata</li>
-			<li>TA_Yari</li>
+			<li>TSF_Naginata</li>
+			<li>TSF_Yari</li>
 			<li>EoD_Archoblade</li>
 			<li>UBE_Bow_ModernRecurve</li>
 			<li>MeleeWeapon_Gladius</li>
 			<li>UMW_Gladius_Unique</li>
-			<li>TA_Wakizashi</li>
+			<li>HS_BasicWakizashi</li>
 			<li>MeleeWeapon_Axe</li>
 			<li>UBE_Bow_TraditionalRecurve</li>
 			<li>UMW_Axe_Unique</li>
@@ -73,7 +72,6 @@
 			<li>TSF_Shuriken</li>
 			<li>K4G_Gun_Nailgun</li>
 			<li>K4G_Gun_ComradePistol</li>
-			<li>RimTeppo_TanZutsu</li>
 			<li>K4G_Gun_Snubgun</li>
 			<li>ElephantTusk</li>
 			<li>Bow_Recurve</li>
@@ -84,18 +82,16 @@
 			<li>Flamebow</li>
 			<li>Bow_Short</li>
 			<li>K4G_MeleeWeapon_ShatteredBottle</li>
-			<li>AB_WeaponPoisonDart</li>
 		</LimitModeSingle_Selection_defNames>
 		<LimitModeSingleMelee_Selection_defNames>
-			<li>K4G_MeleeWeapon_Katana</li>
+			<li>TSF_Katana</li>
 			<li>K4G_MeleeWeapon_Sabre</li>
-			<li>TA_Katana</li>
-			<li>TA_Naginata</li>
-			<li>TA_Yari</li>
+			<li>TSF_Naginata</li>
+			<li>TSF_Yari</li>
 			<li>EoD_Archoblade</li>
 			<li>MeleeWeapon_Gladius</li>
 			<li>UMW_Gladius_Unique</li>
-			<li>TA_Wakizashi</li>
+			<li>HS_BasicWakizashi</li>
 			<li>MeleeWeapon_Axe</li>
 			<li>UMW_Axe_Unique</li>
 			<li>MeleeWeapon_Mace</li>
@@ -141,7 +137,6 @@
 			<li>Weapon_GrenadeEMP</li>
 			<li>Weapon_GrenadeTox</li>
 			<li>K4G_Gun_PrecisionPistol</li>
-			<li>CH_MedicGun_Basic</li>
 			<li>K4G_Gun_LightSMG</li>
 			<li>Gun_JKE-X2_Kenshin_AC</li>
 			<li>Weapon_GrenadeFrag</li>
@@ -153,7 +148,6 @@
 			<li>TA_Tanzutsu</li>
 			<li>HS_Edo_Blackpowder_Bomb</li>
 			<li>TA_Samuraizutsu</li>
-			<li>RimTeppo_BanZutsu</li>
 			<li>Gun_Autopistol</li>
 			<li>RNGun_M9A1STranq_Pistol</li>
 			<li>RNGun_MK23SOCOM_Pistol</li>
@@ -164,8 +158,7 @@
 			<li>K4G_Gun_Nailgun</li>
 			<li>UBE_Bow_Longbow</li>
 			<li>K4G_Gun_ComradePistol</li>
-			<li>TA_Yumi</li>
-			<li>RimTeppo_TanZutsu</li>
+			<li>TSF_Yumi</li>
 			<li>K4G_Gun_Snubgun</li>
 			<li>Bow_Recurve</li>
 			<li>K4G_Gun_Bolter</li>
@@ -174,7 +167,6 @@
 			<li>MSS_Blowgun</li>
 			<li>Flamebow</li>
 			<li>Bow_Short</li>
-			<li>AB_WeaponPoisonDart</li>
 		</LimitModeSingleRanged_Selection_defNames>
 		<LimitModeSingle_Selection />
 		<LimitModeSingleMelee_Selection />

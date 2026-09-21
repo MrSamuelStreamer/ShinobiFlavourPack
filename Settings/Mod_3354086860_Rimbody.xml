@@ -7,15 +7,15 @@
 		<Rimbody_muscleThresholdHulk>35</Rimbody_muscleThresholdHulk>
 		<Rimbody_muscleThresholdThin>15</Rimbody_muscleThresholdThin>
 		<Rimbody_gracePeriod>1</Rimbody_gracePeriod>
-		<Rimbody_rateFactor>1</Rimbody_rateFactor>
+		<Rimbody_rateFactor>3</Rimbody_rateFactor>
 		<Rimbody_nonSenescentpoint>25</Rimbody_nonSenescentpoint>
-		<Rimbody_genderDifference>True</Rimbody_genderDifference>
+		<Rimbody_genderDifference>False</Rimbody_genderDifference>
 		<Rimbody_showFleck>True</Rimbody_showFleck>
-		<Rimbody_useFatigue>True</Rimbody_useFatigue>
+		<Rimbody_useFatigue>False</Rimbody_useFatigue>
 		<Rimbody_useExhaustion>False</Rimbody_useExhaustion>
 		<Rimbody_workoutDuringRecTime>True</Rimbody_workoutDuringRecTime>
 		<Rimbody_useRecToSelect>False</Rimbody_useRecToSelect>
-		<Rimbody_WorkOutGainEfficiency>1</Rimbody_WorkOutGainEfficiency>
+		<Rimbody_WorkOutGainEfficiency>2</Rimbody_WorkOutGainEfficiency>
 		<Rimbody_carryRateMultiplier>1</Rimbody_carryRateMultiplier>
 		<raceOption_v1>
 			<keys />

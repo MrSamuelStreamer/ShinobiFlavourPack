@@ -56,6 +56,9 @@
 			<li>VFEArch_SingleDoor_Flipped</li>
 			<li>RB_DoubleDoor</li>
 			<li>VFEArch_FineWall</li>
+			<li>KCA_KimjangRitualOnggi</li>
+			<li>Zombrella</li>
+			<li>Zombgrella</li>
 		</hiddenBuildables>
 		<revealHiddenCombo>
 			<ctrl>True</ctrl>
