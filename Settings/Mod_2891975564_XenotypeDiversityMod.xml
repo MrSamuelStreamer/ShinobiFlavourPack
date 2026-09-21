@@ -89,6 +89,7 @@
 				<li>ResearchExpedition</li>
 				<li>FactionLoadout_Special_WildMan</li>
 				<li>FactionLoadout_Special_CreepJoiner</li>
+				<li>FactionLoadout_Special_Factionless</li>
 			</keys>
 			<values>
 				<li />
@@ -108,7 +109,6 @@
 					<XenotypeChances>
 						<keys>
 							<li>Baseliner</li>
-							<li>Highmate</li>
 							<li>ERN_Shisune</li>
 							<li>GS_Geist</li>
 							<li>OW_Nekomate</li>
@@ -116,7 +116,6 @@
 							<li>Harana</li>
 							<li>Zohar</li>
 							<li>BS_Kitsune</li>
-							<li>KCA_Cabbianz</li>
 							<li>OE_Tortle</li>
 							<li>BS_Nekomata</li>
 							<li>BS_RedOni</li>
@@ -124,10 +123,7 @@
 						</keys>
 						<values>
 							<li>
-								<chance>0</chance>
-							</li>
-							<li>
-								<chance>98</chance>
+								<chance>139</chance>
 							</li>
 							<li>
 								<chance>80</chance>
@@ -151,19 +147,16 @@
 								<chance>106</chance>
 							</li>
 							<li>
-								<chance>38</chance>
-							</li>
-							<li>
 								<chance>63</chance>
 							</li>
 							<li>
-								<chance>61</chance>
+								<chance>60</chance>
 							</li>
 							<li>
-								<chance>49</chance>
+								<chance>48</chance>
 							</li>
 							<li>
-								<chance>52</chance>
+								<chance>51</chance>
 							</li>
 						</values>
 					</XenotypeChances>
@@ -447,6 +440,7 @@
 						</values>
 					</XenotypeChances>
 				</li>
+				<li />
 				<li />
 				<li />
 				<li />
@@ -997,6 +991,14 @@
 				<li>Ghoul</li>
 				<li>Researcher</li>
 				<li>Gha_Assassin_Laborer</li>
+				<li>QWY_ywwuyi</li>
+				<li>QWY_Quin</li>
+				<li>QWY_WTMSBear</li>
+				<li>QWY_Amidonkey</li>
+				<li>ERN_Amaro</li>
+				<li>ERN_BigCarbuncle</li>
+				<li>ERN_Carbuncle</li>
+				<li>ERN_Chocobo</li>
 			</keys>
 			<values>
 				<li />
@@ -1403,6 +1405,14 @@
 						</values>
 					</XenotypeChances>
 				</li>
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
+				<li />
 				<li />
 				<li />
 				<li />

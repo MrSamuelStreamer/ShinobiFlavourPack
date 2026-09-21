@@ -3,5 +3,10 @@
 	<ModSettings Class="BigAndSmall.BSSettings">
 		<preventUndead>True</preventUndead>
 		<inflitratorChance>0.0399999991</inflitratorChance>
+		<enableDraftedJobs>True</enableDraftedJobs>
+		<autoCombatResets>True</autoCombatResets>
+		<autoCombatResetsLongCharge>True</autoCombatResetsLongCharge>
+		<showFullAiControlBtn>False</showFullAiControlBtn>
+		<showAutoUseAllAbilitiesBtn>False</showAutoUseAllAbilitiesBtn>
 	</ModSettings>
 </SettingsBlock>

@@ -527,6 +527,12 @@
 				<li>KCA_CraftingStation</li>
 				<li>KCA_KimjangRitualOnggi</li>
 				<li>KCA_ToolCabinet</li>
+				<li>VFED_ImperialMegaHighShield</li>
+				<li>VFED_ImperialUnderfarm</li>
+				<li>VFED_SurveillanceStation</li>
+				<li>VFED_SurveillancePillar</li>
+				<li>VFED_Techprinter</li>
+				<li>VFED_WaterMain</li>
 			</keys>
 			<values>
 				<li>Museum_Decoration</li>
@@ -1048,6 +1054,12 @@
 				<li>Production</li>
 				<li>Misc</li>
 				<li>Misc</li>
+				<li>HiTech</li>
+				<li>HiTech</li>
+				<li>HiTech</li>
+				<li>HiTech</li>
+				<li>HiTech</li>
+				<li>HiTech</li>
 			</values>
 		</ManualSorting>
 		<ManualTabs>

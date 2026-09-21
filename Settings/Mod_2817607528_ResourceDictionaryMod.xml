@@ -6114,6 +6114,170 @@
 				<li>quin_pawn</li>
 				<li>wtmsbear_pawn</li>
 				<li>amidonkey_pawn</li>
+				<li>fishy fish instanoodle_item</li>
+				<li>classic flavor instanoodle_item</li>
+				<li>vegetarian friendly instanoodle_item</li>
+				<li>extra protein instanoodle_item</li>
+				<li>aged prickle instanoodle_item</li>
+				<li>economic hpserum_item</li>
+				<li>standard hpserum_item</li>
+				<li>experimental hpserum_item</li>
+				<li>mendoria_pawn</li>
+				<li>chinis magister_item</li>
+				<li>chinis selaria_item</li>
+				<li>voidmetal focus_building</li>
+				<li>bioferrite leg (awful)_item</li>
+				<li>bioferrite leg (poor)_item</li>
+				<li>bioferrite leg (normal)_item</li>
+				<li>bioferrite leg (good)_item</li>
+				<li>bioferrite leg (excellent)_item</li>
+				<li>bioferrite leg (masterwork)_item</li>
+				<li>bioferrite leg (legendary)_item</li>
+				<li>bioferrite arm (awful)_item</li>
+				<li>bioferrite arm (poor)_item</li>
+				<li>bioferrite arm (normal)_item</li>
+				<li>bioferrite arm (good)_item</li>
+				<li>bioferrite arm (excellent)_item</li>
+				<li>bioferrite arm (masterwork)_item</li>
+				<li>bioferrite arm (legendary)_item</li>
+				<li>voidmetal leg (awful)_item</li>
+				<li>voidmetal leg (poor)_item</li>
+				<li>voidmetal leg (normal)_item</li>
+				<li>voidmetal leg (good)_item</li>
+				<li>voidmetal leg (excellent)_item</li>
+				<li>voidmetal leg (masterwork)_item</li>
+				<li>voidmetal leg (legendary)_item</li>
+				<li>voidmetal arm (awful)_item</li>
+				<li>voidmetal arm (poor)_item</li>
+				<li>voidmetal arm (normal)_item</li>
+				<li>voidmetal arm (good)_item</li>
+				<li>voidmetal arm (excellent)_item</li>
+				<li>voidmetal arm (masterwork)_item</li>
+				<li>voidmetal arm (legendary)_item</li>
+				<li>voidmetal_item</li>
+				<li>null terrain_terrain</li>
+				<li>prefab border (white)_terrain</li>
+				<li>prefab border (red)_terrain</li>
+				<li>prefab border (green)_terrain</li>
+				<li>prefab border (blue)_terrain</li>
+				<li>prefab border (yellow)_terrain</li>
+				<li>economic hp serum_item</li>
+				<li>standard hp serum_item</li>
+				<li>experimental hp serum_item</li>
+				<li>breakfast tea_item</li>
+				<li>led lights strip_building</li>
+				<li>hidden led lights strip_building</li>
+				<li>rich fungal soil_terrain</li>
+				<li>hot spring_building</li>
+				<li>abyss_terrain</li>
+				<li>chasm wall (metal)_building</li>
+				<li>chasm wall (natural)_building</li>
+				<li>chasm wall (natural smoothed)_building</li>
+				<li>shadow_building</li>
+				<li>shadow (inner corner)_building</li>
+				<li>shadow (outer corner)_building</li>
+				<li>cliff_building</li>
+				<li>cliff (curve l)_building</li>
+				<li>cliff (curve r)_building</li>
+				<li>cliff (steep slope l)_building</li>
+				<li>cliff (steep slope r)_building</li>
+				<li>cliff (gentle slope l)_building</li>
+				<li>cliff (gentle slope r)_building</li>
+				<li>cliff (turn l)_building</li>
+				<li>cliff (turn r)_building</li>
+				<li>cliff (vert l)_building</li>
+				<li>cliff (vert r)_building</li>
+				<li>cliff (vert slope l)_building</li>
+				<li>cliff (vert slope r)_building</li>
+				<li>triple door_building</li>
+				<li>triple autodoor_building</li>
+				<li>blahaj_item</li>
+				<li>art deco sandstone sq tile_terrain</li>
+				<li>art deco granite sq tile_terrain</li>
+				<li>art deco limestone sq tile_terrain</li>
+				<li>art deco slate sq tile_terrain</li>
+				<li>art deco marble sq tile_terrain</li>
+				<li>art deco sandstone diamond tile_terrain</li>
+				<li>art deco granite diamond tile_terrain</li>
+				<li>art deco limestone diamond tile_terrain</li>
+				<li>art deco slate diamond tile_terrain</li>
+				<li>art deco marble diamond tile_terrain</li>
+				<li>grassy sandstone cobblestone_terrain</li>
+				<li>grassy granite cobblestone_terrain</li>
+				<li>grassy limestone cobblestone_terrain</li>
+				<li>grassy slate cobblestone_terrain</li>
+				<li>grassy marble cobblestone_terrain</li>
+				<li>cracked sandstone tile_terrain</li>
+				<li>cracked granite tile_terrain</li>
+				<li>cracked limestone tile_terrain</li>
+				<li>cracked slate tile_terrain</li>
+				<li>cracked marble tile_terrain</li>
+				<li>corrugated double door_building</li>
+				<li>log door_building</li>
+				<li>spacer alcohol_building</li>
+				<li>afterlife holocolumn_building</li>
+				<li>afterlife logo_building</li>
+				<li>spacer fishtank_building</li>
+				<li>caduceus decal_building</li>
+				<li>pride banner_building</li>
+				<li>pride banner (progress)_building</li>
+				<li>pride banner (new progress)_building</li>
+				<li>pride banner (trans)_building</li>
+				<li>pride banner (nonbinary)_building</li>
+				<li>pride banner (lesbian)_building</li>
+				<li>pride banner (gay men)_building</li>
+				<li>pride banner (bisexual)_building</li>
+				<li>pride banner (pansexual)_building</li>
+				<li>pride banner (asexual)_building</li>
+				<li>platform base_building</li>
+				<li>platform base edge_building</li>
+				<li>platform heavy support_building</li>
+				<li>heavy pillar_building</li>
+				<li>diagonal wall_building</li>
+				<li>diagonal brick wall_building</li>
+				<li>diagonal metal wall_building</li>
+				<li>wallcap_building</li>
+				<li>tire wall_building</li>
+				<li>invisible wall_building</li>
+				<li>invisible door_building</li>
+				<li>fire nation armor_item</li>
+				<li>fire nation helmet_item</li>
+				<li>earth empire uniform_item</li>
+				<li>earth empire helmet_item</li>
+				<li>earth empire engineer_item</li>
+				<li>earth empire engineer headwrap_item</li>
+				<li>kyoshi warrior armor_item</li>
+				<li>kyoshi warrior headdress_item</li>
+				<li>equalist jumpsuit_item</li>
+				<li>equalist mask_item</li>
+				<li>amon mask_item</li>
+				<li>korra outfit_item</li>
+				<li>asami racing jumpsuit_item</li>
+				<li>asami dress_item</li>
+				<li>sticks fence gate_building</li>
+				<li>board fence gate_building</li>
+				<li>bamboo fence gate_building</li>
+				<li>corrugated fence gate_building</li>
+				<li>wrought fence gate_building</li>
+				<li>bars fence gate_building</li>
+				<li>bamboo gate frame_building</li>
+				<li>stone gate frame_building</li>
+				<li>sticks fence connector_building</li>
+				<li>bamboo fence connector_building</li>
+				<li>corrugated fence connector_building</li>
+				<li>spikes fence connector_building</li>
+				<li>bars fence connector_building</li>
+				<li>bars wall connector_building</li>
+				<li>sticks fence_building</li>
+				<li>thin bamboo wall_building</li>
+				<li>bush fence_building</li>
+				<li>rock pile fence_building</li>
+				<li>corrugated fence wall_building</li>
+				<li>spike bars wall_building</li>
+				<li>spikes fence_building</li>
+				<li>bars fence_building</li>
+				<li>bars wall_building</li>
+				<li>biocoded remains_item</li>
 			</keys>
 			<values>
 				<li>
@@ -9294,8 +9458,10 @@
 				<li>
 					<thingKey>steel_item</thingKey>
 					<mainThingDefName>Steel</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Steel</li>
+						<li>RB_Glass</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -10008,7 +10174,6 @@
 					<mainThingDefName>Glowstool</mainThingDefName>
 					<thingDefs>
 						<li>Glowstool</li>
-						<li>AB_Glowstool</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -10017,7 +10182,6 @@
 					<mainThingDefName>Agarilux</mainThingDefName>
 					<thingDefs>
 						<li>Agarilux</li>
-						<li>AB_Agarilux</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -10026,7 +10190,6 @@
 					<mainThingDefName>Bryolux</mainThingDefName>
 					<thingDefs>
 						<li>Bryolux</li>
-						<li>AB_Bryolux</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -10998,49 +11161,62 @@
 				</li>
 				<li>
 					<thingKey>bionic eye_item</thingKey>
-					<mainThingDefName>BionicEye</mainThingDefName>
+					<mainThingDefName>Gha_ReconEye</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>BionicEye</li>
+						<li>Gha_ReconEye</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>bionic arm_item</thingKey>
-					<mainThingDefName>BionicArm</mainThingDefName>
+					<mainThingDefName>Arasaka_Arm_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>BionicArm</li>
+						<li>Arasaka_Arm_AC</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>bionic leg_item</thingKey>
-					<mainThingDefName>BionicLeg</mainThingDefName>
+					<mainThingDefName>Arasaka_Leg_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>BionicLeg</li>
+						<li>BS_BionicStriderLeg</li>
+						<li>Arasaka_Leg_AC</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>bionic spine_item</thingKey>
-					<mainThingDefName>BionicSpine</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>BionicSpine</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>bionic heart_item</thingKey>
-					<mainThingDefName>BionicHeart</mainThingDefName>
+					<mainThingDefName>Arasaka_Heart_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>BionicHeart</li>
+						<li>Arasaka_Heart_AC</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>bionic stomach_item</thingKey>
-					<mainThingDefName>BionicStomach</mainThingDefName>
+					<mainThingDefName>Arasaka_Stomach_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>BionicStomach</li>
+						<li>Arasaka_Stomach_AC</li>
+						<li>DetoxifierStomach</li>
+						<li>ReprocessorStomach</li>
+						<li>NuclearStomach</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -11054,9 +11230,11 @@
 				</li>
 				<li>
 					<thingKey>bionic ear_item</thingKey>
-					<mainThingDefName>BionicEar</mainThingDefName>
+					<mainThingDefName>Arasaka_Ear_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>BionicEar</li>
+						<li>Arasaka_Ear_AC</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -11070,9 +11248,11 @@
 				</li>
 				<li>
 					<thingKey>bionic jaw_item</thingKey>
-					<mainThingDefName>BionicJaw</mainThingDefName>
+					<mainThingDefName>Arasaka_Jaw_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>BionicJaw</li>
+						<li>Arasaka_Jaw_AC</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -11502,9 +11682,12 @@
 				</li>
 				<li>
 					<thingKey>immunoenhancer_item</thingKey>
-					<mainThingDefName>Immunoenhancer</mainThingDefName>
+					<mainThingDefName>Arasaka_Kidney_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Immunoenhancer</li>
+						<li>DetoxifierKidney</li>
+						<li>Arasaka_Kidney_AC</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -11622,11 +11805,10 @@
 				</li>
 				<li>
 					<thingKey>drill arm_item</thingKey>
-					<mainThingDefName>DrillArm</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>DrillArm</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>field hand_item</thingKey>
@@ -13322,11 +13504,10 @@
 				</li>
 				<li>
 					<thingKey>detoxifier lung_item</thingKey>
-					<mainThingDefName>DetoxifierLung</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>DetoxifierLung</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>detoxifier kidney_item</thingKey>
@@ -14438,7 +14619,6 @@
 						<li>MarshFlood</li>
 						<li>ToxicFlood</li>
 						<li>SpringFlood</li>
-						<li>AB_MutagenicOcularWaterFlood</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -17667,7 +17847,6 @@
 						<li>RG_Plant_AridGrass</li>
 						<li>Plant_Grass</li>
 						<li>RG_Plant_TundraGrass</li>
-						<li>AB_GlowingGrass</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -18515,7 +18694,8 @@
 				</li>
 				<li>
 					<thingKey>katana_item</thingKey>
-					<mainThingDefName>K4G_MeleeWeapon_Katana</mainThingDefName>
+					<mainThingDefName>TSF_Katana</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>K4G_MeleeWeapon_Katana</li>
 						<li>TSF_Katana</li>
@@ -19485,32 +19665,25 @@
 				<li>
 					<thingKey>broken poolside tiles_terrain</thingKey>
 					<mainThingDefName>AB_BrokenPoolTiles</mainThingDefName>
-					<thingDefs>
-						<li>AB_BrokenPoolTiles</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>healing spring water_terrain</thingKey>
 					<mainThingDefName>AB_HealingSpringwater</mainThingDefName>
-					<thingDefs>
-						<li>AB_HealingSpringwater</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mutagenic ocular water_terrain</thingKey>
 					<mainThingDefName>AB_MutagenicOcularWater</mainThingDefName>
-					<thingDefs>
-						<li>AB_MutagenicOcularWater</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>quicksand_terrain</thingKey>
 					<mainThingDefName>AB_Quicksand</mainThingDefName>
 					<thingDefs>
-						<li>AB_Quicksand</li>
 						<li>VEE_Quicksand</li>
 					</thingDefs>
 					<removedDefs />
@@ -19519,7 +19692,6 @@
 					<thingKey>ancient freezing vent_building</thingKey>
 					<mainThingDefName>AB_AncientFreezingVent</mainThingDefName>
 					<thingDefs>
-						<li>AB_AncientFreezingVent</li>
 						<li>VFEPD_AB_AncientFreezingVent</li>
 					</thingDefs>
 					<removedDefs />
@@ -19528,7 +19700,6 @@
 					<thingKey>derelict archotech tower_building</thingKey>
 					<mainThingDefName>AB_DerelictArchotechTower</mainThingDefName>
 					<thingDefs>
-						<li>AB_DerelictArchotechTower</li>
 						<li>VFEPD_AB_DerelictArchotechTower</li>
 					</thingDefs>
 					<removedDefs />
@@ -19537,7 +19708,6 @@
 					<thingKey>derelict major archotech structure_building</thingKey>
 					<mainThingDefName>AB_DerelictMajorArchotechStructure</mainThingDefName>
 					<thingDefs>
-						<li>AB_DerelictMajorArchotechStructure</li>
 						<li>VFEPD_AB_DerelictMajorArchotechStructure</li>
 					</thingDefs>
 					<removedDefs />
@@ -19546,7 +19716,6 @@
 					<thingKey>derelict archonexus core_building</thingKey>
 					<mainThingDefName>AB_DerelictArchonexusCore</mainThingDefName>
 					<thingDefs>
-						<li>AB_DerelictArchonexusCore</li>
 						<li>VFEPD_AB_DerelictArchonexusCore</li>
 					</thingDefs>
 					<removedDefs />
@@ -19555,7 +19724,6 @@
 					<thingKey>ruined mech turret base_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedTurret_Single</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedTurret_Single</li>
 						<li>VFEPD_AB_Mech_RuinedTurret_Single</li>
 					</thingDefs>
 					<removedDefs />
@@ -19564,7 +19732,6 @@
 					<thingKey>ruined mech turret_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedTurret_Full</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedTurret_Full</li>
 						<li>VFEPD_AB_Mech_RuinedTurret_Full</li>
 					</thingDefs>
 					<removedDefs />
@@ -19573,7 +19740,6 @@
 					<thingKey>ruined mech shield_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedShield</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedShield</li>
 						<li>VFEPD_AB_Mech_RuinedShield</li>
 					</thingDefs>
 					<removedDefs />
@@ -19582,7 +19748,6 @@
 					<thingKey>ruined mech mortar gun_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedMortar_Single</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedMortar_Single</li>
 						<li>VFEPD_AB_Mech_RuinedMortar_Single</li>
 					</thingDefs>
 					<removedDefs />
@@ -19591,7 +19756,6 @@
 					<thingKey>ruined mech mortar_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedMortar_Full</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedMortar_Full</li>
 						<li>VFEPD_AB_Mech_RuinedMortar_Full</li>
 					</thingDefs>
 					<removedDefs />
@@ -19600,7 +19764,6 @@
 					<thingKey>ruined mech large turret base_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedLargeGunPlatform</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedLargeGunPlatform</li>
 						<li>VFEPD_AB_Mech_RuinedLargeGunPlatform</li>
 					</thingDefs>
 					<removedDefs />
@@ -19609,7 +19772,6 @@
 					<thingKey>ruined mech power cell_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedCell</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedCell</li>
 						<li>VFEPD_AB_Mech_RuinedCell</li>
 					</thingDefs>
 					<removedDefs />
@@ -19618,7 +19780,6 @@
 					<thingKey>ruined mech proximity activator_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedActivator</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedActivator</li>
 						<li>VFEPD_AB_Mech_RuinedActivator</li>
 					</thingDefs>
 					<removedDefs />
@@ -19627,7 +19788,6 @@
 					<thingKey>ruined mech capsule_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedCapsule</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedCapsule</li>
 						<li>VFEPD_AB_Mech_RuinedCapsule</li>
 					</thingDefs>
 					<removedDefs />
@@ -19636,7 +19796,6 @@
 					<thingKey>ruined mech assembler_building</thingKey>
 					<mainThingDefName>AB_Mech_RuinedAssembler</mainThingDefName>
 					<thingDefs>
-						<li>AB_Mech_RuinedAssembler</li>
 						<li>VFEPD_AB_Mech_RuinedAssembler</li>
 					</thingDefs>
 					<removedDefs />
@@ -19645,7 +19804,6 @@
 					<thingKey>derelict swimming pool_building</thingKey>
 					<mainThingDefName>AB_DerelictSwimmingPool</mainThingDefName>
 					<thingDefs>
-						<li>AB_DerelictSwimmingPool</li>
 						<li>VFEPD_AB_DerelictSwimmingPool</li>
 					</thingDefs>
 					<removedDefs />
@@ -19654,7 +19812,6 @@
 					<thingKey>derelict recliner_building</thingKey>
 					<mainThingDefName>AB_DerelictRecliner</mainThingDefName>
 					<thingDefs>
-						<li>AB_DerelictRecliner</li>
 						<li>VFEPD_AB_DerelictRecliner</li>
 					</thingDefs>
 					<removedDefs />
@@ -19663,7 +19820,6 @@
 					<thingKey>derelict beach umbrella_building</thingKey>
 					<mainThingDefName>AB_DerelictBeachUmbrella</mainThingDefName>
 					<thingDefs>
-						<li>AB_DerelictBeachUmbrella</li>
 						<li>VFEPD_AB_DerelictBeachUmbrella</li>
 					</thingDefs>
 					<removedDefs />
@@ -19672,7 +19828,6 @@
 					<thingKey>dirty beach ball_building</thingKey>
 					<mainThingDefName>AB_DirtyBeachBall</mainThingDefName>
 					<thingDefs>
-						<li>AB_DirtyBeachBall</li>
 						<li>VFEPD_AB_DirtyBeachBall</li>
 					</thingDefs>
 					<removedDefs />
@@ -19681,7 +19836,6 @@
 					<thingKey>derelict pool ladder_building</thingKey>
 					<mainThingDefName>AB_DerelictPoolLadder</mainThingDefName>
 					<thingDefs>
-						<li>AB_DerelictPoolLadder</li>
 						<li>VFEPD_AB_DerelictPoolLadder</li>
 					</thingDefs>
 					<removedDefs />
@@ -19690,7 +19844,6 @@
 					<thingKey>dirty pool float_building</thingKey>
 					<mainThingDefName>AB_DirtyPoolFloat</mainThingDefName>
 					<thingDefs>
-						<li>AB_DirtyPoolFloat</li>
 						<li>VFEPD_AB_DirtyPoolFloat</li>
 					</thingDefs>
 					<removedDefs />
@@ -19699,7 +19852,6 @@
 					<thingKey>mechanoid resonance receiver_building</thingKey>
 					<mainThingDefName>AB_MechanoidReceiver</mainThingDefName>
 					<thingDefs>
-						<li>AB_MechanoidReceiver</li>
 						<li>VFEPD_AB_MechanoidReceiver</li>
 					</thingDefs>
 					<removedDefs />
@@ -19708,7 +19860,6 @@
 					<thingKey>mycotic collector_building</thingKey>
 					<mainThingDefName>AB_MycoticCollector</mainThingDefName>
 					<thingDefs>
-						<li>AB_MycoticCollector</li>
 						<li>VFEPD_AB_MycoticCollector</li>
 					</thingDefs>
 					<removedDefs />
@@ -19716,16 +19867,13 @@
 				<li>
 					<thingKey>magma vent_building</thingKey>
 					<mainThingDefName>AB_MagmaVent</mainThingDefName>
-					<thingDefs>
-						<li>AB_MagmaVent</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>magma-thermal generator_building</thingKey>
 					<mainThingDefName>AB_MagmaThermalPlant</mainThingDefName>
 					<thingDefs>
-						<li>AB_MagmaThermalPlant</li>
 						<li>VFEPD_AB_MagmaThermalPlant</li>
 					</thingDefs>
 					<removedDefs />
@@ -19733,800 +19881,601 @@
 				<li>
 					<thingKey>rusted wall_building</thingKey>
 					<mainThingDefName>AB_RustedWall</mainThingDefName>
-					<thingDefs>
-						<li>AB_RustedWall</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>golden cube tree_plant</thingKey>
 					<mainThingDefName>AB_GoldenCubeTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_GoldenCubeTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flesh tree_plant</thingKey>
 					<mainThingDefName>AB_FleshTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_FleshTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dessert tree_plant</thingKey>
 					<mainThingDefName>AB_DessertTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_DessertTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>techno tree_plant</thingKey>
 					<mainThingDefName>AB_TechnoTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_TechnoTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>luminescent tree_plant</thingKey>
 					<mainThingDefName>AB_LuminescentTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_LuminescentTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>toxic gamma_plant</thingKey>
 					<mainThingDefName>AB_ToxicGamma</mainThingDefName>
-					<thingDefs>
-						<li>AB_ToxicGamma</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>polluted stikehr_plant</thingKey>
 					<mainThingDefName>AB_PollutedStikehr</mainThingDefName>
-					<thingDefs>
-						<li>AB_PollutedStikehr</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deep jungle polux_plant</thingKey>
 					<mainThingDefName>AB_JungleTree_Polluted</mainThingDefName>
-					<thingDefs>
-						<li>AB_JungleTree_Polluted</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>weeping toxberry_plant</thingKey>
 					<mainThingDefName>AB_WeepingToxberry</mainThingDefName>
-					<thingDefs>
-						<li>AB_WeepingToxberry</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>toxibulb_plant</thingKey>
 					<mainThingDefName>AB_ToxiBulb</mainThingDefName>
-					<thingDefs>
-						<li>AB_ToxiBulb</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>euphorbia desiccata_plant</thingKey>
 					<mainThingDefName>AB_EuphorbiaDesiccata</mainThingDefName>
-					<thingDefs>
-						<li>AB_EuphorbiaDesiccata</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>toxi grass_plant</thingKey>
 					<mainThingDefName>AB_ToxiGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_ToxiGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant toxic flower_plant</thingKey>
 					<mainThingDefName>AB_GiantToxicFlower</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantToxicFlower</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>agaritox_plant</thingKey>
 					<mainThingDefName>AB_GiantAgariTox</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantAgariTox</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amethyst land coral fungus_plant</thingKey>
 					<mainThingDefName>AB_LandCoral</mainThingDefName>
-					<thingDefs>
-						<li>AB_LandCoral</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flowering ocular grass_plant</thingKey>
 					<mainThingDefName>AB_EyeGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_EyeGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mutated ocular tree_plant</thingKey>
 					<mainThingDefName>AB_AlienTree_Polluted</mainThingDefName>
-					<thingDefs>
-						<li>AB_AlienTree_Polluted</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>polluted globular aberration_plant</thingKey>
 					<mainThingDefName>AB_GlobularPlant_Polluted</mainThingDefName>
-					<thingDefs>
-						<li>AB_GlobularPlant_Polluted</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>psychotropic fungus_item</thingKey>
 					<mainThingDefName>AB_PsychotropicFungus</mainThingDefName>
-					<thingDefs>
-						<li>AB_PsychotropicFungus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raw rime nodules_item</thingKey>
 					<mainThingDefName>AB_RawRimeNodules</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawRimeNodules</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane pipe_building</thingKey>
 					<mainThingDefName>AB_PropanePipe</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropanePipe</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>subterranean propane pipe_building</thingKey>
 					<mainThingDefName>AB_PropanePipe_Underground</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropanePipe_Underground</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane valve_building</thingKey>
 					<mainThingDefName>AB_Propane_Valve</mainThingDefName>
-					<thingDefs>
-						<li>AB_Propane_Valve</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane storage tank_building</thingKey>
 					<mainThingDefName>AB_PropaneStorage</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneStorage</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane tap_building</thingKey>
 					<mainThingDefName>AB_PropaneTap</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneTap</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane drain_building</thingKey>
 					<mainThingDefName>AB_PropaneDrain</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneDrain</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane pump_building</thingKey>
 					<mainThingDefName>AB_PropanePump</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropanePump</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dense mud_terrain</thingKey>
 					<mainThingDefName>AB_DenseMud</mainThingDefName>
-					<thingDefs>
-						<li>AB_DenseMud</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dense grass_terrain</thingKey>
 					<mainThingDefName>AB_DenseGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_DenseGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>webbed marshy soil_terrain</thingKey>
 					<mainThingDefName>AB_WebbedMarshyTerrain</mainThingDefName>
-					<thingDefs>
-						<li>AB_WebbedMarshyTerrain</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rose quartz tile_terrain</thingKey>
 					<mainThingDefName>AB_TileRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AB_TileRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mudstone tile_terrain</thingKey>
 					<mainThingDefName>AB_TileMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_TileMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>cragstone tile_terrain</thingKey>
 					<mainThingDefName>AB_TileCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_TileCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>onyxglass tile_terrain</thingKey>
 					<mainThingDefName>AB_TileObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AB_TileObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rose quartz flagstone_terrain</thingKey>
 					<mainThingDefName>AB_FlagstoneRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AB_FlagstoneRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mudstone flagstone_terrain</thingKey>
 					<mainThingDefName>AB_FlagstoneMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_FlagstoneMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>cragstone flagstone_terrain</thingKey>
 					<mainThingDefName>AB_FlagstoneCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_FlagstoneCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>onyxglass flagstone_terrain</thingKey>
 					<mainThingDefName>AB_FlagstoneObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AB_FlagstoneObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mushroom stalk planks_terrain</thingKey>
 					<mainThingDefName>AB_AlienWoodFloors_MushroomStalks</mainThingDefName>
-					<thingDefs>
-						<li>AB_AlienWoodFloors_MushroomStalks</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>red wood planks_terrain</thingKey>
 					<mainThingDefName>AB_AlienWoodFloors_RedWood</mainThingDefName>
-					<thingDefs>
-						<li>AB_AlienWoodFloors_RedWood</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>crystalline wood planks_terrain</thingKey>
 					<mainThingDefName>AB_AlienWoodFloors_CrystalWood</mainThingDefName>
-					<thingDefs>
-						<li>AB_AlienWoodFloors_CrystalWood</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>asphalt road_terrain</thingKey>
 					<mainThingDefName>AB_AsphaltFloor</mainThingDefName>
-					<thingDefs>
-						<li>AB_AsphaltFloor</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>forsaken sand_terrain</thingKey>
 					<mainThingDefName>AB_ForsakenSand</mainThingDefName>
-					<thingDefs>
-						<li>AB_ForsakenSand</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fine forsaken sand_terrain</thingKey>
 					<mainThingDefName>AB_FineForsakenSand</mainThingDefName>
-					<thingDefs>
-						<li>AB_FineForsakenSand</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>forsaken rocks_terrain</thingKey>
 					<mainThingDefName>AB_ForsakenRock</mainThingDefName>
-					<thingDefs>
-						<li>AB_ForsakenRock</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>forsaken mud_terrain</thingKey>
 					<mainThingDefName>AB_DarkMud</mainThingDefName>
-					<thingDefs>
-						<li>AB_DarkMud</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dark stony soil_terrain</thingKey>
 					<mainThingDefName>AB_DarkGravel</mainThingDefName>
-					<thingDefs>
-						<li>AB_DarkGravel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fertile cracked mud_terrain</thingKey>
 					<mainThingDefName>AB_CrackedMud</mainThingDefName>
-					<thingDefs>
-						<li>AB_CrackedMud</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fertile rich cracked mud_terrain</thingKey>
 					<mainThingDefName>AB_RichCrackedMud</mainThingDefName>
-					<thingDefs>
-						<li>AB_RichCrackedMud</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fine sand_terrain</thingKey>
 					<mainThingDefName>AB_FineSand</mainThingDefName>
-					<thingDefs>
-						<li>AB_FineSand</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>compacted sand_terrain</thingKey>
 					<mainThingDefName>AB_CompactedSand</mainThingDefName>
-					<thingDefs>
-						<li>AB_CompactedSand</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hardened slime ground_terrain</thingKey>
 					<mainThingDefName>AB_Slime</mainThingDefName>
-					<thingDefs>
-						<li>AB_Slime</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rich hardened slime ground_terrain</thingKey>
 					<mainThingDefName>AB_RichSlime</mainThingDefName>
-					<thingDefs>
-						<li>AB_RichSlime</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slime grass_terrain</thingKey>
 					<mainThingDefName>AB_SlimeGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_SlimeGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimy mud_terrain</thingKey>
 					<mainThingDefName>AB_SlimyMud</mainThingDefName>
-					<thingDefs>
-						<li>AB_SlimyMud</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>shallow liquid slime_terrain</thingKey>
 					<mainThingDefName>AB_LiquidSlime</mainThingDefName>
-					<thingDefs>
-						<li>AB_LiquidSlime</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flowery soil_terrain</thingKey>
 					<mainThingDefName>AB_GrassyFlowerySoil</mainThingDefName>
-					<thingDefs>
-						<li>AB_GrassyFlowerySoil</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fertile flowery soil_terrain</thingKey>
 					<mainThingDefName>AB_FertileGrassyFlowerySoil</mainThingDefName>
-					<thingDefs>
-						<li>AB_FertileGrassyFlowerySoil</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>oversaturated flowery soil_terrain</thingKey>
 					<mainThingDefName>AB_FertileGrassyFlowerySoil_Oversaturated</mainThingDefName>
-					<thingDefs>
-						<li>AB_FertileGrassyFlowerySoil_Oversaturated</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>polymer flooring_terrain</thingKey>
 					<mainThingDefName>GU_MetalFloor1</mainThingDefName>
-					<thingDefs>
-						<li>GU_MetalFloor1</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>metallic floor_terrain</thingKey>
 					<mainThingDefName>GU_MetalFloor2</mainThingDefName>
-					<thingDefs>
-						<li>GU_MetalFloor2</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>seamless metallic floor_terrain</thingKey>
 					<mainThingDefName>GU_MetalFloor3</mainThingDefName>
-					<thingDefs>
-						<li>GU_MetalFloor3</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>soil on cracked metal_terrain</thingKey>
 					<mainThingDefName>AB_SoilOnCrackedMetal</mainThingDefName>
-					<thingDefs>
-						<li>AB_SoilOnCrackedMetal</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>uncovered metallic pipes_terrain</thingKey>
 					<mainThingDefName>GU_Piping</mainThingDefName>
-					<thingDefs>
-						<li>GU_Piping</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fertile mud_terrain</thingKey>
 					<mainThingDefName>AB_FertileMud</mainThingDefName>
-					<thingDefs>
-						<li>AB_FertileMud</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fertile marsh_terrain</thingKey>
 					<mainThingDefName>AB_FertileMarsh</mainThingDefName>
-					<thingDefs>
-						<li>AB_FertileMarsh</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mycotic soil_terrain</thingKey>
 					<mainThingDefName>AB_MycoticSoil</mainThingDefName>
-					<thingDefs>
-						<li>AB_MycoticSoil</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rich mycotic soil_terrain</thingKey>
 					<mainThingDefName>AB_MycoticSoilRich</mainThingDefName>
-					<thingDefs>
-						<li>AB_MycoticSoilRich</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mycotic grass_terrain</thingKey>
 					<mainThingDefName>AB_MycoticGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_MycoticGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>red-tinged ground_terrain</thingKey>
 					<mainThingDefName>GU_AlienSand</mainThingDefName>
-					<thingDefs>
-						<li>GU_AlienSand</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rich red-tinged ground_terrain</thingKey>
 					<mainThingDefName>GU_RichAlienSand</mainThingDefName>
-					<thingDefs>
-						<li>GU_RichAlienSand</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fine red sand_terrain</thingKey>
 					<mainThingDefName>GU_AlienSandFine</mainThingDefName>
-					<thingDefs>
-						<li>GU_AlienSandFine</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>red shallow water_terrain</thingKey>
 					<mainThingDefName>GU_RedWaterShallow</mainThingDefName>
-					<thingDefs>
-						<li>GU_RedWaterShallow</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>red deep water_terrain</thingKey>
 					<mainThingDefName>GU_RedWaterDeep</mainThingDefName>
-					<thingDefs>
-						<li>GU_RedWaterDeep</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>chest-deep red moving water_terrain</thingKey>
 					<mainThingDefName>GU_RedWaterMovingChestDeep</mainThingDefName>
-					<thingDefs>
-						<li>GU_RedWaterMovingChestDeep</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>shallow red moving water_terrain</thingKey>
 					<mainThingDefName>GU_RedWaterMovingShallow</mainThingDefName>
-					<thingDefs>
-						<li>GU_RedWaterMovingShallow</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>shallow red ocean water_terrain</thingKey>
 					<mainThingDefName>GU_RedWaterOceanShallow</mainThingDefName>
-					<thingDefs>
-						<li>GU_RedWaterOceanShallow</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deep red ocean water_terrain</thingKey>
 					<mainThingDefName>GU_RedWaterOceanDeep</mainThingDefName>
-					<thingDefs>
-						<li>GU_RedWaterOceanDeep</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>parched sand_terrain</thingKey>
 					<mainThingDefName>GU_MossyRed</mainThingDefName>
-					<thingDefs>
-						<li>GU_MossyRed</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>packed snow_terrain</thingKey>
 					<mainThingDefName>AB_PackedSnow</mainThingDefName>
-					<thingDefs>
-						<li>AB_PackedSnow</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>packed ice_terrain</thingKey>
 					<mainThingDefName>AB_PackedIce</mainThingDefName>
-					<thingDefs>
-						<li>AB_PackedIce</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>solid propane compounds_terrain</thingKey>
 					<mainThingDefName>AB_SolidPropane</mainThingDefName>
-					<thingDefs>
-						<li>AB_SolidPropane</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>snowed rocky terrain_terrain</thingKey>
 					<mainThingDefName>AB_SnowOverRocks</mainThingDefName>
-					<thingDefs>
-						<li>AB_SnowOverRocks</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>liquid propane lake_terrain</thingKey>
 					<mainThingDefName>AB_PropaneLake</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneLake</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>black volcanic sand_terrain</thingKey>
 					<mainThingDefName>AB_BlackPebbles</mainThingDefName>
-					<thingDefs>
-						<li>AB_BlackPebbles</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rough obsidian_terrain</thingKey>
 					<mainThingDefName>AB_Obsidian</mainThingDefName>
-					<thingDefs>
-						<li>AB_Obsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>solidifying lava_terrain</thingKey>
 					<mainThingDefName>AB_SolidifiedLava</mainThingDefName>
-					<thingDefs>
-						<li>AB_SolidifiedLava</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hardened grass_terrain</thingKey>
 					<mainThingDefName>AB_HardenedGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_HardenedGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fertile volcanic soil_terrain</thingKey>
 					<mainThingDefName>AB_HardenedGrassFertile</mainThingDefName>
-					<thingDefs>
-						<li>AB_HardenedGrassFertile</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>lava lake_terrain</thingKey>
 					<mainThingDefName>AB_LiquidLava</mainThingDefName>
-					<thingDefs>
-						<li>AB_LiquidLava</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>volcanic stony soil_terrain</thingKey>
 					<mainThingDefName>AB_VolcanicGravel</mainThingDefName>
-					<thingDefs>
-						<li>AB_VolcanicGravel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>asphalt bridge_terrain</thingKey>
 					<mainThingDefName>AB_AsphaltBridge</mainThingDefName>
-					<thingDefs>
-						<li>AB_AsphaltBridge</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>lush grass_terrain</thingKey>
 					<mainThingDefName>AB_LushGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_LushGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>grassy sand_terrain</thingKey>
 					<mainThingDefName>AB_GrassySand</mainThingDefName>
-					<thingDefs>
-						<li>AB_GrassySand</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>parched mud_terrain</thingKey>
 					<mainThingDefName>AB_ParchedEarth</mainThingDefName>
-					<thingDefs>
-						<li>AB_ParchedEarth</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tarred mud_terrain</thingKey>
 					<mainThingDefName>AB_TarMud</mainThingDefName>
-					<thingDefs>
-						<li>AB_TarMud</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tar puddles_terrain</thingKey>
 					<mainThingDefName>AB_ArtificialTar</mainThingDefName>
-					<thingDefs>
-						<li>AB_ArtificialTar</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tar pit_terrain</thingKey>
 					<mainThingDefName>AB_Tar</mainThingDefName>
-					<thingDefs>
-						<li>AB_Tar</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>shackled gamma_building</thingKey>
 					<mainThingDefName>AB_ShackledGamma</mainThingDefName>
 					<thingDefs>
-						<li>AB_ShackledGamma</li>
 						<li>VFEPD_AB_ShackledGamma</li>
 					</thingDefs>
 					<removedDefs />
@@ -20535,7 +20484,6 @@
 					<thingKey>gallatross bones_building</thingKey>
 					<mainThingDefName>AB_GallatrossBones</mainThingDefName>
 					<thingDefs>
-						<li>AB_GallatrossBones</li>
 						<li>VFEPD_AB_GallatrossBones</li>
 					</thingDefs>
 					<removedDefs />
@@ -20544,7 +20492,6 @@
 					<thingKey>ancient gallatross skull_building</thingKey>
 					<mainThingDefName>AB_AncientGallatrossSkull</mainThingDefName>
 					<thingDefs>
-						<li>AB_AncientGallatrossSkull</li>
 						<li>VFEPD_AB_AncientGallatrossSkull</li>
 					</thingDefs>
 					<removedDefs />
@@ -20553,7 +20500,6 @@
 					<thingKey>ancient bone_building</thingKey>
 					<mainThingDefName>AB_AncientBone</mainThingDefName>
 					<thingDefs>
-						<li>AB_AncientBone</li>
 						<li>VFEPD_AB_AncientBone</li>
 					</thingDefs>
 					<removedDefs />
@@ -20562,7 +20508,6 @@
 					<thingKey>ancient shattered bone_building</thingKey>
 					<mainThingDefName>AB_AncientBrokenBone</mainThingDefName>
 					<thingDefs>
-						<li>AB_AncientBrokenBone</li>
 						<li>VFEPD_AB_AncientBrokenBone</li>
 					</thingDefs>
 					<removedDefs />
@@ -20571,7 +20516,6 @@
 					<thingKey>ancient bones_building</thingKey>
 					<mainThingDefName>AB_AncientVerticalBone</mainThingDefName>
 					<thingDefs>
-						<li>AB_AncientVerticalBone</li>
 						<li>VFEPD_AB_AncientVerticalBone</li>
 					</thingDefs>
 					<removedDefs />
@@ -20580,7 +20524,6 @@
 					<thingKey>huge gallatross skeleton_building</thingKey>
 					<mainThingDefName>AB_HugeGallatrossSkeleton</mainThingDefName>
 					<thingDefs>
-						<li>AB_HugeGallatrossSkeleton</li>
 						<li>VFEPD_AB_HugeGallatrossSkeleton</li>
 					</thingDefs>
 					<removedDefs />
@@ -20589,7 +20532,6 @@
 					<thingKey>slime compressor_building</thingKey>
 					<mainThingDefName>AB_SlimeCompressor</mainThingDefName>
 					<thingDefs>
-						<li>AB_SlimeCompressor</li>
 						<li>VFEPD_AB_SlimeCompressor</li>
 					</thingDefs>
 					<removedDefs />
@@ -20597,16 +20539,13 @@
 				<li>
 					<thingKey>long abandoned ship part_building</thingKey>
 					<mainThingDefName>AB_AbandonedShipPart</mainThingDefName>
-					<thingDefs>
-						<li>AB_AbandonedShipPart</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>alcyonite solar generator_building</thingKey>
 					<mainThingDefName>AB_AlcyoniteSolar</mainThingDefName>
 					<thingDefs>
-						<li>AB_AlcyoniteSolar</li>
 						<li>VFEPD_AB_AlcyoniteSolar</li>
 					</thingDefs>
 					<removedDefs />
@@ -20615,7 +20554,6 @@
 					<thingKey>advanced alcyonite solar generator_building</thingKey>
 					<mainThingDefName>AB_AlcyoniteSolar_Advanced</mainThingDefName>
 					<thingDefs>
-						<li>AB_AlcyoniteSolar_Advanced</li>
 						<li>VFEPD_AB_AlcyoniteSolar_Advanced</li>
 					</thingDefs>
 					<removedDefs />
@@ -20624,7 +20562,6 @@
 					<thingKey>ocular gas spewer_building</thingKey>
 					<mainThingDefName>AB_OcularGasSpewer</mainThingDefName>
 					<thingDefs>
-						<li>AB_OcularGasSpewer</li>
 						<li>VFEPD_AB_OcularGasSpewer</li>
 					</thingDefs>
 					<removedDefs />
@@ -20633,7 +20570,6 @@
 					<thingKey>ocular compliance center_building</thingKey>
 					<mainThingDefName>AB_AlienComplianceCenter</mainThingDefName>
 					<thingDefs>
-						<li>AB_AlienComplianceCenter</li>
 						<li>VFEPD_AB_AlienComplianceCenter</li>
 					</thingDefs>
 					<removedDefs />
@@ -20641,104 +20577,79 @@
 				<li>
 					<thingKey>core sample drill_building</thingKey>
 					<mainThingDefName>AB_CoreSampleDrill</mainThingDefName>
-					<thingDefs>
-						<li>AB_CoreSampleDrill</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane stove_building</thingKey>
 					<mainThingDefName>AB_PropaneStove</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneStove</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane smithy_building</thingKey>
 					<mainThingDefName>AB_PropaneFueledSmithy</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneFueledSmithy</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane smelter_building</thingKey>
 					<mainThingDefName>AB_PropaneSmelter</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneSmelter</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane machining table_building</thingKey>
 					<mainThingDefName>AB_PropaneTableMachining</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneTableMachining</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane heater_building</thingKey>
 					<mainThingDefName>AB_PropaneHeater</mainThingDefName>
-					<thingDefs>
-						<li>AB_PropaneHeater</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane turret_building</thingKey>
 					<mainThingDefName>AB_Turret_Propane</mainThingDefName>
-					<thingDefs>
-						<li>AB_Turret_Propane</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>exotic door_building</thingKey>
 					<mainThingDefName>AB_ExoticDoor</mainThingDefName>
-					<thingDefs>
-						<li>AB_ExoticDoor</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>exotic autodoor_building</thingKey>
 					<mainThingDefName>AB_ExoticAutoDoor</mainThingDefName>
-					<thingDefs>
-						<li>AB_ExoticAutoDoor</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>exotic wall_building</thingKey>
 					<mainThingDefName>AB_ExoticWall</mainThingDefName>
-					<thingDefs>
-						<li>AB_ExoticWall</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant bones_building</thingKey>
 					<mainThingDefName>AB_BoneWall</mainThingDefName>
-					<thingDefs>
-						<li>AB_BoneWall</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>exotic column_building</thingKey>
 					<mainThingDefName>AB_ExoticColumn</mainThingDefName>
-					<thingDefs>
-						<li>AB_ExoticColumn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tar pump_building</thingKey>
 					<mainThingDefName>AB_TarPump</mainThingDefName>
 					<thingDefs>
-						<li>AB_TarPump</li>
 						<li>VFEPD_AB_TarPump</li>
 					</thingDefs>
 					<removedDefs />
@@ -20746,24 +20657,19 @@
 				<li>
 					<thingKey>ied tar trap_building</thingKey>
 					<mainThingDefName>AB_TrapIED_Tar</mainThingDefName>
-					<thingDefs>
-						<li>AB_TrapIED_Tar</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tar hole_building</thingKey>
 					<mainThingDefName>AB_TarHole</mainThingDefName>
-					<thingDefs>
-						<li>AB_TarHole</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>bumbledrone hive_building</thingKey>
 					<mainThingDefName>AB_BumbledroneHive</mainThingDefName>
 					<thingDefs>
-						<li>AB_BumbledroneHive</li>
 						<li>VFEPD_AB_BumbledroneHive</li>
 					</thingDefs>
 					<removedDefs />
@@ -20771,648 +20677,487 @@
 				<li>
 					<thingKey>slime meal_item</thingKey>
 					<mainThingDefName>AB_SlimeMeal</mainThingDefName>
-					<thingDefs>
-						<li>AB_SlimeMeal</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pink fungus_item</thingKey>
 					<mainThingDefName>AB_PinkRawFungus</mainThingDefName>
-					<thingDefs>
-						<li>AB_PinkRawFungus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>blue fungus_item</thingKey>
 					<mainThingDefName>AB_BlueRawFungus</mainThingDefName>
-					<thingDefs>
-						<li>AB_BlueRawFungus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>purple fungus_item</thingKey>
 					<mainThingDefName>AB_PurpleRawFungus</mainThingDefName>
-					<thingDefs>
-						<li>AB_PurpleRawFungus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slime_item</thingKey>
 					<mainThingDefName>AB_RawSlime</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawSlime</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>crystal horn_item</thingKey>
 					<mainThingDefName>AB_RawCrystalHorn</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawCrystalHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>frost leaf_item</thingKey>
 					<mainThingDefName>AB_RawFrostLeaf</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawFrostLeaf</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tentacular fruit_item</thingKey>
 					<mainThingDefName>AB_RawTentacularFruit</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawTentacularFruit</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>iashiphus fruit_item</thingKey>
 					<mainThingDefName>AB_RawIashiphus</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawIashiphus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>brown barrel cactus_item</thingKey>
 					<mainThingDefName>AB_RawBrownBarrelCactus</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawBrownBarrelCactus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sugar famewort_item</thingKey>
 					<mainThingDefName>AB_RawSugarFamewort</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawSugarFamewort</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>blood bouquet_item</thingKey>
 					<mainThingDefName>AB_RawBloodBouquet</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawBloodBouquet</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>bumbledrone jelly_item</thingKey>
 					<mainThingDefName>AB_BumbledroneFood</mainThingDefName>
-					<thingDefs>
-						<li>AB_BumbledroneFood</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant sunflower seeds_item</thingKey>
 					<mainThingDefName>AB_GiantSeeds</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantSeeds</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ragadast_item</thingKey>
 					<mainThingDefName>AB_RawRagadast</mainThingDefName>
-					<thingDefs>
-						<li>AB_RawRagadast</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tar shell_item</thingKey>
 					<mainThingDefName>AB_Shell_Tar</mainThingDefName>
-					<thingDefs>
-						<li>AB_Shell_Tar</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>alcyonite chunk_item</thingKey>
 					<mainThingDefName>AB_AlcyoniteChunk</mainThingDefName>
-					<thingDefs>
-						<li>AB_AlcyoniteChunk</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>crystalline wood_item</thingKey>
 					<mainThingDefName>AB_CrystalWood</mainThingDefName>
-					<thingDefs>
-						<li>AB_CrystalWood</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mushroom stalks_item</thingKey>
 					<mainThingDefName>AB_MushroomWoodLog</mainThingDefName>
-					<thingDefs>
-						<li>AB_MushroomWoodLog</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>cordax resin_item</thingKey>
 					<mainThingDefName>AB_CordaxResin</mainThingDefName>
-					<thingDefs>
-						<li>AB_CordaxResin</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>asphalt bucket_item</thingKey>
 					<mainThingDefName>AB_AsphaltBucket</mainThingDefName>
-					<thingDefs>
-						<li>AB_AsphaltBucket</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane_item</thingKey>
 					<mainThingDefName>AB_Propane</mainThingDefName>
-					<thingDefs>
-						<li>AB_Propane</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rose quartz_building</thingKey>
 					<mainThingDefName>GU_RoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>GU_RoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>smoothed quartz_building</thingKey>
 					<mainThingDefName>GU_SmoothedQuartz</mainThingDefName>
-					<thingDefs>
-						<li>GU_SmoothedQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rose quartz chunk_item</thingKey>
 					<mainThingDefName>GU_ChunkRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>GU_ChunkRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rose quartz blocks_item</thingKey>
 					<mainThingDefName>GU_BlocksRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>GU_BlocksRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>cragstone_building</thingKey>
 					<mainThingDefName>AB_Cragstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_Cragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>smoothed cragstone_building</thingKey>
 					<mainThingDefName>AB_SmoothedCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_SmoothedCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>cragstone chunk_item</thingKey>
 					<mainThingDefName>AB_ChunkCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_ChunkCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>cragstone blocks_item</thingKey>
 					<mainThingDefName>AB_BlocksCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_BlocksCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>onyxglass_building</thingKey>
 					<mainThingDefName>AB_Obsidianstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_Obsidianstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>smoothed onyxglass_building</thingKey>
 					<mainThingDefName>AB_SmoothedObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AB_SmoothedObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>onyxglass chunk_item</thingKey>
 					<mainThingDefName>AB_ChunkObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AB_ChunkObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>onyxglass blocks_item</thingKey>
 					<mainThingDefName>AB_BlocksObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AB_BlocksObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mudstone_building</thingKey>
 					<mainThingDefName>AB_Mudstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_Mudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>smoothed mudstone_building</thingKey>
 					<mainThingDefName>AB_SmoothedMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_SmoothedMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mudstone chunk_item</thingKey>
 					<mainThingDefName>AB_ChunkMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_ChunkMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mudstone blocks_item</thingKey>
 					<mainThingDefName>AB_BlocksMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_BlocksMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hardened slime_building</thingKey>
 					<mainThingDefName>AB_SlimeStone</mainThingDefName>
-					<thingDefs>
-						<li>AB_SlimeStone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>smoothed slime_building</thingKey>
 					<mainThingDefName>AB_SmoothedSlimeStone</mainThingDefName>
-					<thingDefs>
-						<li>AB_SmoothedSlimeStone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hardened slime chunk_item</thingKey>
 					<mainThingDefName>AB_ChunkSlimeStone</mainThingDefName>
-					<thingDefs>
-						<li>AB_ChunkSlimeStone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ancient metal_building</thingKey>
 					<mainThingDefName>GU_AncientMetals</mainThingDefName>
-					<thingDefs>
-						<li>GU_AncientMetals</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>smoothed ancient metal_building</thingKey>
 					<mainThingDefName>AB_SmoothedAncientMetals</mainThingDefName>
-					<thingDefs>
-						<li>AB_SmoothedAncientMetals</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>red bugloss_plant</thingKey>
 					<mainThingDefName>AB_RedBugloss</mainThingDefName>
-					<thingDefs>
-						<li>AB_RedBugloss</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gomphoeria_plant</thingKey>
 					<mainThingDefName>AB_Gomphoeria</mainThingDefName>
-					<thingDefs>
-						<li>AB_Gomphoeria</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>aaklac_plant</thingKey>
 					<mainThingDefName>AB_Aaklac</mainThingDefName>
-					<thingDefs>
-						<li>AB_Aaklac</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deep jungle tree_plant</thingKey>
 					<mainThingDefName>AB_JungleTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_JungleTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant stikehr_plant</thingKey>
 					<mainThingDefName>AB_GiantStikehr</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantStikehr</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant septimum_plant</thingKey>
 					<mainThingDefName>AB_GiantSeptimum</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantSeptimum</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>wild ragadast_plant</thingKey>
 					<mainThingDefName>AB_WildRadagast</mainThingDefName>
-					<thingDefs>
-						<li>AB_WildRadagast</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant gamma_plant</thingKey>
 					<mainThingDefName>AB_GiantGamma</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantGamma</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tangle tea_plant</thingKey>
 					<mainThingDefName>AB_TangleTea</mainThingDefName>
-					<thingDefs>
-						<li>AB_TangleTea</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>euphorbia rimworldia_plant</thingKey>
 					<mainThingDefName>AB_EuphorbiaRimworldia</mainThingDefName>
-					<thingDefs>
-						<li>AB_EuphorbiaRimworldia</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dead bower tree_plant</thingKey>
 					<mainThingDefName>AB_DeadBowerTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_DeadBowerTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimecasia_plant</thingKey>
 					<mainThingDefName>AB_Slimecasia</mainThingDefName>
-					<thingDefs>
-						<li>AB_Slimecasia</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimy fern_plant</thingKey>
 					<mainThingDefName>AB_SlimyFern</mainThingDefName>
-					<thingDefs>
-						<li>AB_SlimyFern</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tall slimy grass_plant</thingKey>
 					<mainThingDefName>AB_TallSlimyGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_TallSlimyGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimy tree_plant</thingKey>
 					<mainThingDefName>AB_SlimyTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_SlimyTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>large slimy tree_plant</thingKey>
 					<mainThingDefName>AB_LargeSlimyTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_LargeSlimyTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flowers_plant</thingKey>
 					<mainThingDefName>AB_Flowers</mainThingDefName>
-					<thingDefs>
-						<li>AB_Flowers</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gargantuan lithops_plant</thingKey>
 					<mainThingDefName>AB_GargantuanLithops</mainThingDefName>
-					<thingDefs>
-						<li>AB_GargantuanLithops</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant mutant hibiscus_plant</thingKey>
 					<mainThingDefName>AB_GiantFlower</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantFlower</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant sunflower_plant</thingKey>
 					<mainThingDefName>AB_GiantSunflower</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantSunflower</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant tulips_plant</thingKey>
 					<mainThingDefName>AB_GiantTulip</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantTulip</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sessile mechanoid tree_plant</thingKey>
 					<mainThingDefName>AB_SessileMechanoid</mainThingDefName>
-					<thingDefs>
-						<li>AB_SessileMechanoid</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hardy grass_plant</thingKey>
 					<mainThingDefName>AB_HardyGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_HardyGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mangrove tree_plant</thingKey>
 					<mainThingDefName>AB_MangroveTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_MangroveTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>parasitic mangrove_plant</thingKey>
 					<mainThingDefName>AB_ParasiticMangrove</mainThingDefName>
-					<thingDefs>
-						<li>AB_ParasiticMangrove</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mangrove palm_plant</thingKey>
 					<mainThingDefName>AB_MangrovePalm</mainThingDefName>
-					<thingDefs>
-						<li>AB_MangrovePalm</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>lilac beacon_plant</thingKey>
 					<mainThingDefName>AB_LilacBeacon</mainThingDefName>
-					<thingDefs>
-						<li>AB_LilacBeacon</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>witches' oyster_plant</thingKey>
 					<mainThingDefName>AB_WitchesOyster</mainThingDefName>
-					<thingDefs>
-						<li>AB_WitchesOyster</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>agaricus domecap_plant</thingKey>
 					<mainThingDefName>AB_AgaricusDomeCap</mainThingDefName>
-					<thingDefs>
-						<li>AB_AgaricusDomeCap</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant agarilux_plant</thingKey>
 					<mainThingDefName>AB_GiantAgarilux</mainThingDefName>
-					<thingDefs>
-						<li>AB_GiantAgarilux</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>arbuscular mycorrhiza_plant</thingKey>
 					<mainThingDefName>AB_ArbuscularMycorrhiza</mainThingDefName>
-					<thingDefs>
-						<li>AB_ArbuscularMycorrhiza</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dribbling cap_plant</thingKey>
 					<mainThingDefName>AB_DribblingCap</mainThingDefName>
-					<thingDefs>
-						<li>AB_DribblingCap</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>recurved stropharia_plant</thingKey>
 					<mainThingDefName>AB_RecurvedStropharia</mainThingDefName>
-					<thingDefs>
-						<li>AB_RecurvedStropharia</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimy pholiota_plant</thingKey>
 					<mainThingDefName>AB_SlimyPholiota</mainThingDefName>
-					<thingDefs>
-						<li>AB_SlimyPholiota</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>glowing agarilux_plant</thingKey>
 					<mainThingDefName>AB_GlowingAgarilux</mainThingDefName>
-					<thingDefs>
-						<li>AB_GlowingAgarilux</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>agarilux prime_plant</thingKey>
 					<mainThingDefName>AB_AgariluxPrime</mainThingDefName>
-					<thingDefs>
-						<li>AB_AgariluxPrime</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular grass_plant</thingKey>
 					<mainThingDefName>AB_AlienGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_AlienGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular plant_plant</thingKey>
 					<mainThingDefName>AB_RedLeaves</mainThingDefName>
 					<thingDefs>
-						<li>AB_RedLeaves</li>
 						<li>AB_RedPlantsTall</li>
 					</thingDefs>
 					<removedDefs />
@@ -21420,169 +21165,127 @@
 				<li>
 					<thingKey>ocular tree_plant</thingKey>
 					<mainThingDefName>AB_AlienTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_AlienTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>half transformed ocular tree_plant</thingKey>
 					<mainThingDefName>AB_HalfAlienTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_HalfAlienTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tentacular aberration_plant</thingKey>
 					<mainThingDefName>AB_TentacularPlant</mainThingDefName>
-					<thingDefs>
-						<li>AB_TentacularPlant</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>globular aberration_plant</thingKey>
 					<mainThingDefName>AB_GlobularPlant</mainThingDefName>
-					<thingDefs>
-						<li>AB_GlobularPlant</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>blood bouquet_plant</thingKey>
 					<mainThingDefName>AB_BloodBouquet</mainThingDefName>
-					<thingDefs>
-						<li>AB_BloodBouquet</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>crystal horn_plant</thingKey>
 					<mainThingDefName>AB_CrystalHorn</mainThingDefName>
-					<thingDefs>
-						<li>AB_CrystalHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>frost leaf_plant</thingKey>
 					<mainThingDefName>AB_FrostLeaf</mainThingDefName>
-					<thingDefs>
-						<li>AB_FrostLeaf</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rime nodules_plant</thingKey>
 					<mainThingDefName>AB_RimeNodules</mainThingDefName>
-					<thingDefs>
-						<li>AB_RimeNodules</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>crystal flower_plant</thingKey>
 					<mainThingDefName>AB_CrystalFlower</mainThingDefName>
-					<thingDefs>
-						<li>AB_CrystalFlower</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flash frozen tree_plant</thingKey>
 					<mainThingDefName>AB_FlashFrozenTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_FlashFrozenTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>brown barrel cactus_plant</thingKey>
 					<mainThingDefName>AB_BrownBarrelCactus</mainThingDefName>
-					<thingDefs>
-						<li>AB_BrownBarrelCactus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tinkle grass_plant</thingKey>
 					<mainThingDefName>AB_TinkleGrass</mainThingDefName>
-					<thingDefs>
-						<li>AB_TinkleGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>firevine tree_plant</thingKey>
 					<mainThingDefName>AB_FirevineTree</mainThingDefName>
-					<thingDefs>
-						<li>AB_FirevineTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>green rock fern_plant</thingKey>
 					<mainThingDefName>AB_GreenRockFern</mainThingDefName>
-					<thingDefs>
-						<li>AB_GreenRockFern</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>iashiphus_plant</thingKey>
 					<mainThingDefName>AB_Iashiphus</mainThingDefName>
-					<thingDefs>
-						<li>AB_Iashiphus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sugar famewort_plant</thingKey>
 					<mainThingDefName>AB_SugarFamewort</mainThingDefName>
-					<thingDefs>
-						<li>AB_SugarFamewort</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raven nettle_plant</thingKey>
 					<mainThingDefName>AB_RavenNettle</mainThingDefName>
-					<thingDefs>
-						<li>AB_RavenNettle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fan palm_plant</thingKey>
 					<mainThingDefName>AB_FanPalm</mainThingDefName>
-					<thingDefs>
-						<li>AB_FanPalm</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>keening cordax_plant</thingKey>
 					<mainThingDefName>AB_KeeningCordax</mainThingDefName>
-					<thingDefs>
-						<li>AB_KeeningCordax</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tar puddle_plant</thingKey>
 					<mainThingDefName>AB_TarPuddle</mainThingDefName>
-					<thingDefs>
-						<li>AB_TarPuddle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dribbling cap poison dart_item</thingKey>
 					<mainThingDefName>AB_WeaponPoisonDart</mainThingDefName>
-					<thingDefs>
-						<li>AB_WeaponPoisonDart</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -21959,161 +21662,121 @@
 				<li>
 					<thingKey>jewish rose quartz tile_terrain</thingKey>
 					<mainThingDefName>AM_JewishTileRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AM_JewishTileRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>jewish mudstone tile_terrain</thingKey>
 					<mainThingDefName>AM_JewishTileMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_JewishTileMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>jewish cragstone tile_terrain</thingKey>
 					<mainThingDefName>AM_JewishTileCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_JewishTileCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>jewish obsidian tile_terrain</thingKey>
 					<mainThingDefName>AM_JewishTileObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AM_JewishTileObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>jewish fine rose quartz tile_terrain</thingKey>
 					<mainThingDefName>AM_JewishFineTileRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AM_JewishFineTileRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>jewish fine mudstone tile_terrain</thingKey>
 					<mainThingDefName>AM_JewishFineTileMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_JewishFineTileMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>jewish fine cragstone tile_terrain</thingKey>
 					<mainThingDefName>AM_JewishFineTileCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_JewishFineTileCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>jewish fine obsidian tile_terrain</thingKey>
 					<mainThingDefName>AM_JewishFineTileObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AM_JewishFineTileObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>kemetic rose quartz tile_terrain</thingKey>
 					<mainThingDefName>AM_KemeticTileRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AM_KemeticTileRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>kemetic mudstone tile_terrain</thingKey>
 					<mainThingDefName>AM_KemeticTileMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_KemeticTileMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>kemetic cragstone tile_terrain</thingKey>
 					<mainThingDefName>AM_KemeticTileCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_KemeticTileCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>kemetic obsidian tile_terrain</thingKey>
 					<mainThingDefName>AM_KemeticTileObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AM_KemeticTileObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>kemetic fine rose quartz tile_terrain</thingKey>
 					<mainThingDefName>AM_KemeticFineTileRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AM_KemeticFineTileRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>kemetic fine mudstone tile_terrain</thingKey>
 					<mainThingDefName>AM_KemeticFineTileMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_KemeticFineTileMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>kemetic fine cragstone tile_terrain</thingKey>
 					<mainThingDefName>AM_KemeticFineTileCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_KemeticFineTileCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>kemetic fine obsidian tile_terrain</thingKey>
 					<mainThingDefName>AM_KemeticFineTileObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AM_KemeticFineTileObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>steampunk rose quartz tile_terrain</thingKey>
 					<mainThingDefName>AM_SteampunkTileRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AM_SteampunkTileRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>steampunk mudstone tile_terrain</thingKey>
 					<mainThingDefName>AM_SteampunkTileMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_SteampunkTileMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>steampunk cragstone tile_terrain</thingKey>
 					<mainThingDefName>AM_SteampunkTileCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AM_SteampunkTileCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>steampunk obsidian tile_terrain</thingKey>
 					<mainThingDefName>AM_SteampunkTileObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AM_SteampunkTileObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -23312,8 +22975,10 @@
 				<li>
 					<thingKey>arasaka synthetic lung_item</thingKey>
 					<mainThingDefName>Arasaka_Lung_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Arasaka_Lung_AC</li>
+						<li>DetoxifierLung</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -24215,11 +23880,10 @@
 				</li>
 				<li>
 					<thingKey>sashimono_building</thingKey>
-					<mainThingDefName>HSSashimono</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>HSSashimono</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>katana stand_building</thingKey>
@@ -24511,10 +24175,12 @@
 				</li>
 				<li>
 					<thingKey>kabuto_item</thingKey>
-					<mainThingDefName>HSKabuto</mainThingDefName>
+					<mainThingDefName>TA_Kabuto</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>HSKabuto</li>
 						<li>TA_Kabuto</li>
+						<li>TSFApparel_SamuraiHelmet</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -24624,9 +24290,11 @@
 				</li>
 				<li>
 					<thingKey>dō_item</thingKey>
-					<mainThingDefName>HSApparel_Do</mainThingDefName>
+					<mainThingDefName>TA_SamuraiHarness</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>HSApparel_Do</li>
+						<li>TA_SamuraiHarness</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -24716,6 +24384,7 @@
 				<li>
 					<thingKey>kanabo_item</thingKey>
 					<mainThingDefName>HS_BasicKanabo</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>HS_BasicKanabo</li>
 						<li>TA_Kanabo</li>
@@ -24749,6 +24418,7 @@
 				<li>
 					<thingKey>wakizashi_item</thingKey>
 					<mainThingDefName>HS_BasicWakizashi</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>HS_BasicWakizashi</li>
 						<li>TA_Wakizashi</li>
@@ -26345,65 +26015,49 @@
 				<li>
 					<thingKey>explosive adrenaline injector_item</thingKey>
 					<mainThingDefName>MU_ExplosiveAdrenalineInjector</mainThingDefName>
-					<thingDefs>
-						<li>MU_ExplosiveAdrenalineInjector</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>short-term stability agent_item</thingKey>
 					<mainThingDefName>MU_ShortTermStabilityAgent</mainThingDefName>
-					<thingDefs>
-						<li>MU_ShortTermStabilityAgent</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>consciousness amplifier_item</thingKey>
 					<mainThingDefName>MU_ConsciousnessAmplifier</mainThingDefName>
-					<thingDefs>
-						<li>MU_ConsciousnessAmplifier</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>energy supplement_item</thingKey>
 					<mainThingDefName>MU_EnergySupplement</mainThingDefName>
-					<thingDefs>
-						<li>MU_EnergySupplement</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>potent healing injector_item</thingKey>
 					<mainThingDefName>MU_PotentHealingInjector</mainThingDefName>
-					<thingDefs>
-						<li>MU_PotentHealingInjector</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>"immortality" injector_item</thingKey>
 					<mainThingDefName>MU_ImmortalityInjector</mainThingDefName>
-					<thingDefs>
-						<li>MU_ImmortalityInjector</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>inspiration catalyst_item</thingKey>
 					<mainThingDefName>MU_InspirationCatalyst</mainThingDefName>
-					<thingDefs>
-						<li>MU_InspirationCatalyst</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>"chaos ω" injector_item</thingKey>
 					<mainThingDefName>MU_ChaosOmegaInjector</mainThingDefName>
-					<thingDefs>
-						<li>MU_ChaosOmegaInjector</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -28434,65 +28088,49 @@
 				<li>
 					<thingKey>tanegashima tan-zutsu_item</thingKey>
 					<mainThingDefName>RimTeppo_TanZutsu</mainThingDefName>
-					<thingDefs>
-						<li>RimTeppo_TanZutsu</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tanegashima ban-zutsu_item</thingKey>
 					<mainThingDefName>RimTeppo_BanZutsu</mainThingDefName>
-					<thingDefs>
-						<li>RimTeppo_BanZutsu</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tanegashima hazama-zutsu_item</thingKey>
 					<mainThingDefName>RimTeppo_HazamaZutsu</mainThingDefName>
-					<thingDefs>
-						<li>RimTeppo_HazamaZutsu</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tanegashima chu-zutsu_item</thingKey>
 					<mainThingDefName>RimTeppo_ChuZutsu</mainThingDefName>
-					<thingDefs>
-						<li>RimTeppo_ChuZutsu</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tanegashima o-zutsu_item</thingKey>
 					<mainThingDefName>RimTeppo_OZutsu</mainThingDefName>
-					<thingDefs>
-						<li>RimTeppo_OZutsu</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tanegashima bohiya-zutsu_item</thingKey>
 					<mainThingDefName>RimTeppo_BohiyaZutsu</mainThingDefName>
-					<thingDefs>
-						<li>RimTeppo_BohiyaZutsu</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>horokubiya (shrapnel)_item</thingKey>
 					<mainThingDefName>RimTeppo_ShrapnelHoroku</mainThingDefName>
-					<thingDefs>
-						<li>RimTeppo_ShrapnelHoroku</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>horokubiya (incendiary)_item</thingKey>
 					<mainThingDefName>RimTeppo_FlameHoroku</mainThingDefName>
-					<thingDefs>
-						<li>RimTeppo_FlameHoroku</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -29040,10 +28678,12 @@
 				</li>
 				<li>
 					<thingKey>sashimono banner_item</thingKey>
-					<mainThingDefName>TSFApparel_SashimonoBanner</mainThingDefName>
+					<mainThingDefName>TA_SashimonoBanner</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>TSFApparel_SashimonoBanner</li>
 						<li>TA_SashimonoBanner</li>
+						<li>HSSashimono</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -29163,6 +28803,7 @@
 				<li>
 					<thingKey>yari_item</thingKey>
 					<mainThingDefName>TSF_Yari</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>TSF_Yari</li>
 						<li>TA_Yari</li>
@@ -29180,6 +28821,7 @@
 				<li>
 					<thingKey>naginata_item</thingKey>
 					<mainThingDefName>TSF_Naginata</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>TSF_Naginata</li>
 						<li>TA_Naginata</li>
@@ -29189,6 +28831,7 @@
 				<li>
 					<thingKey>yumi_item</thingKey>
 					<mainThingDefName>TSF_Yumi</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>TSF_Yumi</li>
 						<li>TA_Yumi</li>
@@ -31487,6 +31130,7 @@
 					<mainThingDefName>VFEArch_InvisibleFence</mainThingDefName>
 					<thingDefs>
 						<li>VFEArch_InvisibleFence</li>
+						<li>oracle_voidFence</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -31815,304 +31459,229 @@
 				<li>
 					<thingKey>red bugloss_building</thingKey>
 					<mainThingDefName>VFEPD_RedBugloss</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_RedBugloss</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gomphoeria_building</thingKey>
 					<mainThingDefName>VFEPD_Gomphoeria</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_Gomphoeria</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>aaklac_building</thingKey>
 					<mainThingDefName>VFEPD_Aaklac</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_Aaklac</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deep jungle tree_building</thingKey>
 					<mainThingDefName>VFEPD_JungleTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_JungleTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant stikehr_building</thingKey>
 					<mainThingDefName>VFEPD_GiantStikehr</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantStikehr</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant septimum_building</thingKey>
 					<mainThingDefName>VFEPD_GiantSeptimum</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantSeptimum</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>glowing grass_building</thingKey>
 					<mainThingDefName>VFEPD_GlowingGrass</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GlowingGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>wild radagast_building</thingKey>
 					<mainThingDefName>VFEPD_WildRadagast</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_WildRadagast</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant gamma_building</thingKey>
 					<mainThingDefName>VFEPD_GiantGamma</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantGamma</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tangle tea_building</thingKey>
 					<mainThingDefName>VFEPD_TangleTea</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_TangleTea</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>euphorbia rimworldia_building</thingKey>
 					<mainThingDefName>VFEPD_EuphorbiaRimworldia</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_EuphorbiaRimworldia</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dead bower tree_building</thingKey>
 					<mainThingDefName>VFEPD_DeadBowerTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_DeadBowerTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimecasia_building</thingKey>
 					<mainThingDefName>VFEPD_Slimecasia</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_Slimecasia</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimy fern_building</thingKey>
 					<mainThingDefName>VFEPD_SlimyFern</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_SlimyFern</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tall slimy grass_building</thingKey>
 					<mainThingDefName>VFEPD_TallSlimyGrass</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_TallSlimyGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimy tree_building</thingKey>
 					<mainThingDefName>VFEPD_SlimyTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_SlimyTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>large slimy tree_building</thingKey>
 					<mainThingDefName>VFEPD_LargeSlimyTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_LargeSlimyTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>exotic flowers_building</thingKey>
 					<mainThingDefName>VFEPD_ExoticFlowers</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_ExoticFlowers</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>gargantuan lithops_building</thingKey>
 					<mainThingDefName>VFEPD_GargantuanLithops</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GargantuanLithops</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant mutant hibiscus_building</thingKey>
 					<mainThingDefName>VFEPD_GiantFlower</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantFlower</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant sunflower._building</thingKey>
 					<mainThingDefName>VFEPD_GiantSunflower</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantSunflower</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant tulips_building</thingKey>
 					<mainThingDefName>VFEPD_GiantTulip</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantTulip</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sessile mechanoid tree_building</thingKey>
 					<mainThingDefName>VFEPD_SessileMechanoid</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_SessileMechanoid</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>hardy grass_building</thingKey>
 					<mainThingDefName>VFEPD_HardyGrass</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_HardyGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mangrove tree_building</thingKey>
 					<mainThingDefName>VFEPD_MangroveTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_MangroveTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>parasitic mangrove_building</thingKey>
 					<mainThingDefName>VFEPD_ParasiticMangrove</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_ParasiticMangrove</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mangrove palm_building</thingKey>
 					<mainThingDefName>VFEPD_MangrovePalm</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_MangrovePalm</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>lilac beacon_building</thingKey>
 					<mainThingDefName>VFEPD_LilacBeacon</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_LilacBeacon</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>witches' oyster_building</thingKey>
 					<mainThingDefName>VFEPD_WitchesOyster</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_WitchesOyster</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>agaricus domecap_building</thingKey>
 					<mainThingDefName>VFEPD_AgaricusDomeCap</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AgaricusDomeCap</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant agarilux_building</thingKey>
 					<mainThingDefName>VFEPD_GiantAgarilux</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantAgarilux</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>arbuscular mycorrhiza_building</thingKey>
 					<mainThingDefName>VFEPD_ArbuscularMycorrhiza</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_ArbuscularMycorrhiza</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dribbling cap_building</thingKey>
 					<mainThingDefName>VFEPD_DribblingCap</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_DribblingCap</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>recurved stropharia_building</thingKey>
 					<mainThingDefName>VFEPD_RecurvedStropharia</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_RecurvedStropharia</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimy pholiota_building</thingKey>
 					<mainThingDefName>VFEPD_SlimyPholiota</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_SlimyPholiota</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>agarilux prime_building</thingKey>
 					<mainThingDefName>VFEPD_AgariluxPrime</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AgariluxPrime</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular grass_building</thingKey>
 					<mainThingDefName>VFEPD_AlienGrass</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AlienGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular plant_building</thingKey>
 					<mainThingDefName>VFEPD_RedLeaves</mainThingDefName>
 					<thingDefs>
-						<li>VFEPD_RedLeaves</li>
 						<li>VFEPD_RedPlantsTall</li>
 					</thingDefs>
 					<removedDefs />
@@ -32120,305 +31689,229 @@
 				<li>
 					<thingKey>ocular tree_building</thingKey>
 					<mainThingDefName>VFEPD_AlienTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AlienTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>half transformed ocular tree_building</thingKey>
 					<mainThingDefName>VFEPD_HalfAlienTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_HalfAlienTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tentacular aberration_building</thingKey>
 					<mainThingDefName>VFEPD_TentacularPlant</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_TentacularPlant</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>globular aberration_building</thingKey>
 					<mainThingDefName>VFEPD_GlobularPlant</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GlobularPlant</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>blood bouquet_building</thingKey>
 					<mainThingDefName>VFEPD_BloodBouquet</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_BloodBouquet</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>crystal horn_building</thingKey>
 					<mainThingDefName>VFEPD_CrystalHorn</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_CrystalHorn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>frost leaf_building</thingKey>
 					<mainThingDefName>VFEPD_FrostLeaf</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_FrostLeaf</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>rime nodules_building</thingKey>
 					<mainThingDefName>VFEPD_RimeNodules</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_RimeNodules</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>crystal flower_building</thingKey>
 					<mainThingDefName>VFEPD_CrystalFlower</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_CrystalFlower</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flash frozen tree_building</thingKey>
 					<mainThingDefName>VFEPD_FlashFrozenTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_FlashFrozenTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>brown barrel cactus_building</thingKey>
 					<mainThingDefName>VFEPD_BrownBarrelCactus</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_BrownBarrelCactus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>tinkle grass_building</thingKey>
 					<mainThingDefName>VFEPD_TinkleGrass</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_TinkleGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>firevine tree_building</thingKey>
 					<mainThingDefName>VFEPD_FirevineTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_FirevineTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>green rock fern_building</thingKey>
 					<mainThingDefName>VFEPD_GreenRockFern</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GreenRockFern</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>iashiphus_building</thingKey>
 					<mainThingDefName>VFEPD_Iashiphus</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_Iashiphus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sugar famewort_building</thingKey>
 					<mainThingDefName>VFEPD_SugarFamewort</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_SugarFamewort</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>raven nettle_building</thingKey>
 					<mainThingDefName>VFEPD_RavenNettle</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_RavenNettle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dried raven nettle_building</thingKey>
 					<mainThingDefName>VFEPD_DriedRavenNettle</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_DriedRavenNettle</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fan palm_building</thingKey>
 					<mainThingDefName>VFEPD_FanPalm</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_FanPalm</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>keening cordax_building</thingKey>
 					<mainThingDefName>VFEPD_KeeningCordax</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_KeeningCordax</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>toxic gamma_building</thingKey>
 					<mainThingDefName>VFEPD_ToxicGamma</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_ToxicGamma</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>polluted stikehr_building</thingKey>
 					<mainThingDefName>VFEPD_PollutedStikehr</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_PollutedStikehr</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>deep jungle polux_building</thingKey>
 					<mainThingDefName>VFEPD_JungleTree_Polluted</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_JungleTree_Polluted</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>weeping toxberry_building</thingKey>
 					<mainThingDefName>VFEPD_WeepingToxberry</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_WeepingToxberry</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>toxibulb_building</thingKey>
 					<mainThingDefName>VFEPD_ToxiBulb</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_ToxiBulb</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>euphorbia desiccata_building</thingKey>
 					<mainThingDefName>VFEPD_EuphorbiaDesiccata</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_EuphorbiaDesiccata</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>toxi grass_building</thingKey>
 					<mainThingDefName>VFEPD_ToxiGrass</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_ToxiGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant toxic flower_building</thingKey>
 					<mainThingDefName>VFEPD_GiantToxicFlower</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantToxicFlower</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>agaritox_building</thingKey>
 					<mainThingDefName>VFEPD_GiantAgariTox</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GiantAgariTox</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>amethyst land coral fungus_building</thingKey>
 					<mainThingDefName>VFEPD_LandCoral</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_LandCoral</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flowering ocular grass_building</thingKey>
 					<mainThingDefName>VFEPD_EyeGrass</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_EyeGrass</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mutated ocular tree_building</thingKey>
 					<mainThingDefName>VFEPD_AlienTree_Polluted</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AlienTree_Polluted</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>polluted globular aberration_building</thingKey>
 					<mainThingDefName>VFEPD_GlobularPlant_Polluted</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_GlobularPlant_Polluted</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>golden cube tree_building</thingKey>
 					<mainThingDefName>VFEPD_AB_GoldenCubeTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AB_GoldenCubeTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>flesh tree_building</thingKey>
 					<mainThingDefName>VFEPD_AB_FleshTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AB_FleshTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dessert tree_building</thingKey>
 					<mainThingDefName>VFEPD_AB_DessertTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AB_DessertTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>techno tree_building</thingKey>
 					<mainThingDefName>VFEPD_AB_TechnoTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AB_TechnoTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>luminescent tree_building</thingKey>
 					<mainThingDefName>VFEPD_AB_LuminescentTree</mainThingDefName>
-					<thingDefs>
-						<li>VFEPD_AB_LuminescentTree</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -40227,8 +39720,10 @@
 				<li>
 					<thingKey>drill appendage_item</thingKey>
 					<mainThingDefName>Gha_DrillAppendage</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>Gha_DrillAppendage</li>
+						<li>DrillArm</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -46116,153 +45611,115 @@
 				<li>
 					<thingKey>abyssal eel_item</thingKey>
 					<mainThingDefName>VCEF_AbyssalEel</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_AbyssalEel</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>blood leech_item</thingKey>
 					<mainThingDefName>VCEF_BloodLeech</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_BloodLeech</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>boreal sardine_item</thingKey>
 					<mainThingDefName>VCEF_BorealSardine</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_BorealSardine</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>dusky sprat_item</thingKey>
 					<mainThingDefName>VCEF_DuskySprat</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_DuskySprat</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>forsaken anglerfish_item</thingKey>
 					<mainThingDefName>VCEF_ForsakenAnglerfish</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_ForsakenAnglerfish</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>frigid swimmer_item</thingKey>
 					<mainThingDefName>VCEF_FrigidSwimmer</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_FrigidSwimmer</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>giant polar prawn_item</thingKey>
 					<mainThingDefName>VCEF_GiantPolarPrawn</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_GiantPolarPrawn</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>habdak longfin_item</thingKey>
 					<mainThingDefName>VCEF_HabdakLongfin</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_HabdakLongfin</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>jellyfungus_item</thingKey>
 					<mainThingDefName>VCEF_Jellyfungus</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_Jellyfungus</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mud splasher carp_item</thingKey>
 					<mainThingDefName>VCEF_MudSplasherCarp</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_MudSplasherCarp</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>mutant flatfish_item</thingKey>
 					<mainThingDefName>VCEF_MutantFlatfish</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_MutantFlatfish</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular fish_item</thingKey>
 					<mainThingDefName>VCEF_OcularFish</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_OcularFish</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>pink blobfish_item</thingKey>
 					<mainThingDefName>VCEF_PinkBlobfish</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_PinkBlobfish</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>propane bag_item</thingKey>
 					<mainThingDefName>VCEF_PropaneBag</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_PropaneBag</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>shadow fry_item</thingKey>
 					<mainThingDefName>VCEF_ShadowFry</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_ShadowFry</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>slimefish_item</thingKey>
 					<mainThingDefName>VCEF_Slimefish</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_Slimefish</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>spiderfish_item</thingKey>
 					<mainThingDefName>VCEF_Spiderfish</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_Spiderfish</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>spinyfish_item</thingKey>
 					<mainThingDefName>VCEF_Spinyfish</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_Spinyfish</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>sturgeon_item</thingKey>
 					<mainThingDefName>VCEF_Sturgeon</mainThingDefName>
-					<thingDefs>
-						<li>VCEF_Sturgeon</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -46279,17 +45736,19 @@
 				</li>
 				<li>
 					<thingKey>bionic strider leg_item</thingKey>
-					<mainThingDefName>BS_BionicStriderLeg</mainThingDefName>
-					<thingDefs>
+					<thingDefs />
+					<removedDefs>
 						<li>BS_BionicStriderLeg</li>
-					</thingDefs>
-					<removedDefs />
+					</removedDefs>
 				</li>
 				<li>
 					<thingKey>bionic locomotive spine_item</thingKey>
-					<mainThingDefName>BS_BionicLocomotiveSpine</mainThingDefName>
+					<mainThingDefName>Arasaka_Spine_AC</mainThingDefName>
+					<deduplicationEnabled>True</deduplicationEnabled>
 					<thingDefs>
 						<li>BS_BionicLocomotiveSpine</li>
+						<li>BionicSpine</li>
+						<li>Arasaka_Spine_AC</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -46326,65 +45785,49 @@
 				<li>
 					<thingKey>fine rose quartz tile_terrain</thingKey>
 					<mainThingDefName>AB_FinestoneRoseQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AB_FinestoneRoseQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fine mudstone tile_terrain</thingKey>
 					<mainThingDefName>AB_FinestoneMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_FinestoneMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fine cragstone tile_terrain</thingKey>
 					<mainThingDefName>AB_FinestoneCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_FinestoneCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>fine onyxglass tile_terrain</thingKey>
 					<mainThingDefName>AB_FinestoneObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AB_FinestoneObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular red quartz floor_terrain</thingKey>
 					<mainThingDefName>AB_Tile_OcularQuartz</mainThingDefName>
-					<thingDefs>
-						<li>AB_Tile_OcularQuartz</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular mudstone floor_terrain</thingKey>
 					<mainThingDefName>AB_Tile_OcularMudstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_Tile_OcularMudstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular cragstone floor_terrain</thingKey>
 					<mainThingDefName>AB_Tile_OcularCragstone</mainThingDefName>
-					<thingDefs>
-						<li>AB_Tile_OcularCragstone</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>ocular obsidian floor_terrain</thingKey>
 					<mainThingDefName>AB_Tile_OcularObsidian</mainThingDefName>
-					<thingDefs>
-						<li>AB_Tile_OcularObsidian</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -50793,6 +50236,7 @@
 					<mainThingDefName>VoidmetalWall</mainThingDefName>
 					<thingDefs>
 						<li>VoidmetalWall</li>
+						<li>MoreCreeps_VoidmetalWall</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -50803,6 +50247,7 @@
 						<li>VoidmetalMassSmall</li>
 						<li>VoidmetalMassMedium</li>
 						<li>VoidmetalMassLarge</li>
+						<li>MoreCreeps_VoidmetalBeacon</li>
 					</thingDefs>
 					<removedDefs />
 				</li>
@@ -51390,7 +50835,6 @@
 					<thingKey>ancient gray pall vent_building</thingKey>
 					<mainThingDefName>AB_AncientGreyPallVent</mainThingDefName>
 					<thingDefs>
-						<li>AB_AncientGreyPallVent</li>
 						<li>VFEPD_AB_AncientGreyPallVent</li>
 					</thingDefs>
 					<removedDefs />
@@ -51399,7 +50843,6 @@
 					<thingKey>ancient blood rain vent_building</thingKey>
 					<mainThingDefName>AB_AncientBloodRainVent</mainThingDefName>
 					<thingDefs>
-						<li>AB_AncientBloodRainVent</li>
 						<li>VFEPD_AB_AncientBloodRainVent</li>
 					</thingDefs>
 					<removedDefs />
@@ -51408,7 +50851,6 @@
 					<thingKey>ancient death pall vent_building</thingKey>
 					<mainThingDefName>AB_AncientDeathPallVent</mainThingDefName>
 					<thingDefs>
-						<li>AB_AncientDeathPallVent</li>
 						<li>VFEPD_AB_AncientDeathPallVent</li>
 					</thingDefs>
 					<removedDefs />
@@ -52245,17 +51687,13 @@
 				<li>
 					<thingKey>medic dartgun_item</thingKey>
 					<mainThingDefName>CH_MedicGun_Basic</mainThingDefName>
-					<thingDefs>
-						<li>CH_MedicGun_Basic</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
 					<thingKey>medic dartrifle_item</thingKey>
 					<mainThingDefName>CH_MedicGun_Advanced</mainThingDefName>
-					<thingDefs>
-						<li>CH_MedicGun_Advanced</li>
-					</thingDefs>
+					<thingDefs />
 					<removedDefs />
 				</li>
 				<li>
@@ -54928,6 +54366,1320 @@
 					<mainThingDefName>QWY_Amidonkey</mainThingDefName>
 					<thingDefs>
 						<li>QWY_Amidonkey</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fishy fish instanoodle_item</thingKey>
+					<mainThingDefName>Meal_BDsInstantNoodle_Fish</mainThingDefName>
+					<thingDefs>
+						<li>Meal_BDsInstantNoodle_Fish</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>classic flavor instanoodle_item</thingKey>
+					<mainThingDefName>Meal_BDsInstantNoodle</mainThingDefName>
+					<thingDefs>
+						<li>Meal_BDsInstantNoodle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>vegetarian friendly instanoodle_item</thingKey>
+					<mainThingDefName>Meal_BDsInstantNoodle_Veg</mainThingDefName>
+					<thingDefs>
+						<li>Meal_BDsInstantNoodle_Veg</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>extra protein instanoodle_item</thingKey>
+					<mainThingDefName>Meal_BDsInstantNoodle_Meat</mainThingDefName>
+					<thingDefs>
+						<li>Meal_BDsInstantNoodle_Meat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>aged prickle instanoodle_item</thingKey>
+					<mainThingDefName>Meal_BDsInstantNoodle_Prickle</mainThingDefName>
+					<thingDefs>
+						<li>Meal_BDsInstantNoodle_Prickle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>economic hpserum_item</thingKey>
+					<mainThingDefName>CH_HealingCanister_Basic</mainThingDefName>
+					<thingDefs>
+						<li>CH_HealingCanister_Basic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>standard hpserum_item</thingKey>
+					<mainThingDefName>CH_HealingCanister</mainThingDefName>
+					<thingDefs>
+						<li>CH_HealingCanister</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>experimental hpserum_item</thingKey>
+					<mainThingDefName>CH_HealingCanister_Advanced</mainThingDefName>
+					<thingDefs>
+						<li>CH_HealingCanister_Advanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>mendoria_pawn</thingKey>
+					<mainThingDefName>CH_Mendoria</mainThingDefName>
+					<thingDefs>
+						<li>CH_Mendoria</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chinis magister_item</thingKey>
+					<mainThingDefName>CH_MedicGun_Rifle</mainThingDefName>
+					<thingDefs>
+						<li>CH_MedicGun_Rifle</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chinis selaria_item</thingKey>
+					<mainThingDefName>CH_MedicGun_SMG</mainThingDefName>
+					<thingDefs>
+						<li>CH_MedicGun_SMG</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal focus_building</thingKey>
+					<mainThingDefName>MoreCreeps_VoidmetalFocus</mainThingDefName>
+					<thingDefs>
+						<li>MoreCreeps_VoidmetalFocus</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite leg (awful)_item</thingKey>
+					<mainThingDefName>BioferriteLegAwful</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteLegAwful</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite leg (poor)_item</thingKey>
+					<mainThingDefName>BioferriteLegPoor</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteLegPoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite leg (normal)_item</thingKey>
+					<mainThingDefName>BioferriteLegNormal</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteLegNormal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite leg (good)_item</thingKey>
+					<mainThingDefName>BioferriteLegGood</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteLegGood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite leg (excellent)_item</thingKey>
+					<mainThingDefName>BioferriteLegExcellent</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteLegExcellent</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite leg (masterwork)_item</thingKey>
+					<mainThingDefName>BioferriteLegMasterwork</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteLegMasterwork</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite leg (legendary)_item</thingKey>
+					<mainThingDefName>BioferriteLegLegendary</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteLegLegendary</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite arm (awful)_item</thingKey>
+					<mainThingDefName>BioferriteArmAwful</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteArmAwful</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite arm (poor)_item</thingKey>
+					<mainThingDefName>BioferriteArmPoor</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteArmPoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite arm (normal)_item</thingKey>
+					<mainThingDefName>BioferriteArmNormal</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteArmNormal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite arm (good)_item</thingKey>
+					<mainThingDefName>BioferriteArmGood</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteArmGood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite arm (excellent)_item</thingKey>
+					<mainThingDefName>BioferriteArmExcellent</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteArmExcellent</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite arm (masterwork)_item</thingKey>
+					<mainThingDefName>BioferriteArmMasterwork</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteArmMasterwork</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bioferrite arm (legendary)_item</thingKey>
+					<mainThingDefName>BioferriteArmLegendary</mainThingDefName>
+					<thingDefs>
+						<li>BioferriteArmLegendary</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal leg (awful)_item</thingKey>
+					<mainThingDefName>VoidmetalLegAwful</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalLegAwful</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal leg (poor)_item</thingKey>
+					<mainThingDefName>VoidmetalLegPoor</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalLegPoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal leg (normal)_item</thingKey>
+					<mainThingDefName>VoidmetalLegNormal</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalLegNormal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal leg (good)_item</thingKey>
+					<mainThingDefName>VoidmetalLegGood</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalLegGood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal leg (excellent)_item</thingKey>
+					<mainThingDefName>VoidmetalLegExcellent</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalLegExcellent</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal leg (masterwork)_item</thingKey>
+					<mainThingDefName>VoidmetalLegMasterwork</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalLegMasterwork</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal leg (legendary)_item</thingKey>
+					<mainThingDefName>VoidmetalLegLegendary</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalLegLegendary</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal arm (awful)_item</thingKey>
+					<mainThingDefName>VoidmetalArmAwful</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalArmAwful</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal arm (poor)_item</thingKey>
+					<mainThingDefName>VoidmetalArmPoor</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalArmPoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal arm (normal)_item</thingKey>
+					<mainThingDefName>VoidmetalArmNormal</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalArmNormal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal arm (good)_item</thingKey>
+					<mainThingDefName>VoidmetalArmGood</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalArmGood</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal arm (excellent)_item</thingKey>
+					<mainThingDefName>VoidmetalArmExcellent</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalArmExcellent</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal arm (masterwork)_item</thingKey>
+					<mainThingDefName>VoidmetalArmMasterwork</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalArmMasterwork</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal arm (legendary)_item</thingKey>
+					<mainThingDefName>VoidmetalArmLegendary</mainThingDefName>
+					<thingDefs>
+						<li>VoidmetalArmLegendary</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>voidmetal_item</thingKey>
+					<mainThingDefName>MoreCreeps_Voidmetal</mainThingDefName>
+					<thingDefs>
+						<li>MoreCreeps_Voidmetal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>null terrain_terrain</thingKey>
+					<mainThingDefName>VEF_NullTerrain</mainThingDefName>
+					<thingDefs>
+						<li>VEF_NullTerrain</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prefab border (white)_terrain</thingKey>
+					<mainThingDefName>VEF_PrefabBorderWhite</mainThingDefName>
+					<thingDefs>
+						<li>VEF_PrefabBorderWhite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prefab border (red)_terrain</thingKey>
+					<mainThingDefName>VEF_PrefabBorderRed</mainThingDefName>
+					<thingDefs>
+						<li>VEF_PrefabBorderRed</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prefab border (green)_terrain</thingKey>
+					<mainThingDefName>VEF_PrefabBorderGreen</mainThingDefName>
+					<thingDefs>
+						<li>VEF_PrefabBorderGreen</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prefab border (blue)_terrain</thingKey>
+					<mainThingDefName>VEF_PrefabBorderBlue</mainThingDefName>
+					<thingDefs>
+						<li>VEF_PrefabBorderBlue</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>prefab border (yellow)_terrain</thingKey>
+					<mainThingDefName>VEF_PrefabBorderYellow</mainThingDefName>
+					<thingDefs>
+						<li>VEF_PrefabBorderYellow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>economic hp serum_item</thingKey>
+					<mainThingDefName>CH_HealingCanister_Basic</mainThingDefName>
+					<thingDefs>
+						<li>CH_HealingCanister_Basic</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>standard hp serum_item</thingKey>
+					<mainThingDefName>CH_HealingCanister</mainThingDefName>
+					<thingDefs>
+						<li>CH_HealingCanister</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>experimental hp serum_item</thingKey>
+					<mainThingDefName>CH_HealingCanister_Advanced</mainThingDefName>
+					<thingDefs>
+						<li>CH_HealingCanister_Advanced</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>breakfast tea_item</thingKey>
+					<mainThingDefName>VBE_BlackTea</mainThingDefName>
+					<thingDefs>
+						<li>VBE_BlackTea</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>led lights strip_building</thingKey>
+					<mainThingDefName>NOE_LightsStrip</mainThingDefName>
+					<thingDefs>
+						<li>NOE_LightsStrip</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hidden led lights strip_building</thingKey>
+					<mainThingDefName>NOE_HiddenLightsStrip</mainThingDefName>
+					<thingDefs>
+						<li>NOE_HiddenLightsStrip</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>rich fungal soil_terrain</thingKey>
+					<mainThingDefName>AM_RichFungalGravel</mainThingDefName>
+					<thingDefs>
+						<li>AM_RichFungalGravel</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>hot spring_building</thingKey>
+					<mainThingDefName>SmallHotSpring</mainThingDefName>
+					<thingDefs>
+						<li>SmallHotSpring</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>abyss_terrain</thingKey>
+					<mainThingDefName>oracle_VoidFlooring</mainThingDefName>
+					<thingDefs>
+						<li>oracle_VoidFlooring</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chasm wall (metal)_building</thingKey>
+					<mainThingDefName>oracle_ChasmWall</mainThingDefName>
+					<thingDefs>
+						<li>oracle_ChasmWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chasm wall (natural)_building</thingKey>
+					<mainThingDefName>oracle_NaturalChasmWall</mainThingDefName>
+					<thingDefs>
+						<li>oracle_NaturalChasmWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>chasm wall (natural smoothed)_building</thingKey>
+					<mainThingDefName>oracle_SmoothNaturalChasmWall</mainThingDefName>
+					<thingDefs>
+						<li>oracle_SmoothNaturalChasmWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shadow_building</thingKey>
+					<mainThingDefName>oracle_Shadow</mainThingDefName>
+					<thingDefs>
+						<li>oracle_Shadow</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shadow (inner corner)_building</thingKey>
+					<mainThingDefName>oracle_ShadowCornerInner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_ShadowCornerInner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>shadow (outer corner)_building</thingKey>
+					<mainThingDefName>oracle_ShadowCornerOuter</mainThingDefName>
+					<thingDefs>
+						<li>oracle_ShadowCornerOuter</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff_building</thingKey>
+					<mainThingDefName>oracle_CliffWall</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (curve l)_building</thingKey>
+					<mainThingDefName>oracle_CliffCurveLeft</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffCurveLeft</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (curve r)_building</thingKey>
+					<mainThingDefName>oracle_CliffCurveRight</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffCurveRight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (steep slope l)_building</thingKey>
+					<mainThingDefName>oracle_CliffSteepLeftSlope</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffSteepLeftSlope</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (steep slope r)_building</thingKey>
+					<mainThingDefName>oracle_CliffSteepRightSlope</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffSteepRightSlope</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (gentle slope l)_building</thingKey>
+					<mainThingDefName>oracle_CliffGentleLeftSlope</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffGentleLeftSlope</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (gentle slope r)_building</thingKey>
+					<mainThingDefName>oracle_CliffGentleRightSlope</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffGentleRightSlope</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (turn l)_building</thingKey>
+					<mainThingDefName>oracle_Cliff90Left</mainThingDefName>
+					<thingDefs>
+						<li>oracle_Cliff90Left</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (turn r)_building</thingKey>
+					<mainThingDefName>oracle_CliffCurve90Right</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffCurve90Right</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (vert l)_building</thingKey>
+					<mainThingDefName>oracle_CliffWallVertL</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffWallVertL</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (vert r)_building</thingKey>
+					<mainThingDefName>oracle_CliffWallVertR</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffWallVertR</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (vert slope l)_building</thingKey>
+					<mainThingDefName>oracle_CliffVertSlopeLeft</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffVertSlopeLeft</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cliff (vert slope r)_building</thingKey>
+					<mainThingDefName>oracle_CliffVertSlopeRight</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CliffVertSlopeRight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>triple door_building</thingKey>
+					<mainThingDefName>Oracle_TripleDoor</mainThingDefName>
+					<thingDefs>
+						<li>Oracle_TripleDoor</li>
+						<li>Oracle_TripleDoorBrick</li>
+						<li>Oracle_TripleDoorPlank</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>triple autodoor_building</thingKey>
+					<mainThingDefName>Oracle_TripleAutodoor</mainThingDefName>
+					<thingDefs>
+						<li>Oracle_TripleAutodoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>blahaj_item</thingKey>
+					<mainThingDefName>oracle_RelicBlahaj</mainThingDefName>
+					<thingDefs>
+						<li>oracle_RelicBlahaj</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco sandstone sq tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoSqSandstone</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoSqSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco granite sq tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoSqGranite</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoSqGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco limestone sq tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoSqLimestone</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoSqLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco slate sq tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoSqSlate</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoSqSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco marble sq tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoSqMarble</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoSqMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco sandstone diamond tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoDiaSandstone</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoDiaSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco granite diamond tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoDiaGranite</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoDiaGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco limestone diamond tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoDiaLimestone</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoDiaLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco slate diamond tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoDiaSlate</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoDiaSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>art deco marble diamond tile_terrain</thingKey>
+					<mainThingDefName>oracle_DecoDiaMarble</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DecoDiaMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grassy sandstone cobblestone_terrain</thingKey>
+					<mainThingDefName>oracle_GrassySandstone</mainThingDefName>
+					<thingDefs>
+						<li>oracle_GrassySandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grassy granite cobblestone_terrain</thingKey>
+					<mainThingDefName>oracle_GrassyGranite</mainThingDefName>
+					<thingDefs>
+						<li>oracle_GrassyGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grassy limestone cobblestone_terrain</thingKey>
+					<mainThingDefName>oracle_GrassyLimestone</mainThingDefName>
+					<thingDefs>
+						<li>oracle_GrassyLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grassy slate cobblestone_terrain</thingKey>
+					<mainThingDefName>oracle_GrassySlate</mainThingDefName>
+					<thingDefs>
+						<li>oracle_GrassySlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>grassy marble cobblestone_terrain</thingKey>
+					<mainThingDefName>oracle_GrassyMarble</mainThingDefName>
+					<thingDefs>
+						<li>oracle_GrassyMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cracked sandstone tile_terrain</thingKey>
+					<mainThingDefName>oracle_CrackedSandstone</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CrackedSandstone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cracked granite tile_terrain</thingKey>
+					<mainThingDefName>oracle_CrackedGranite</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CrackedGranite</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cracked limestone tile_terrain</thingKey>
+					<mainThingDefName>oracle_CrackedLimestone</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CrackedLimestone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cracked slate tile_terrain</thingKey>
+					<mainThingDefName>oracle_CrackedSlate</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CrackedSlate</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>cracked marble tile_terrain</thingKey>
+					<mainThingDefName>oracle_CrackedMarble</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CrackedMarble</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corrugated double door_building</thingKey>
+					<mainThingDefName>oracle_CorrugatedDoor_Double</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CorrugatedDoor_Double</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>log door_building</thingKey>
+					<mainThingDefName>oracle_LogDoor</mainThingDefName>
+					<thingDefs>
+						<li>oracle_LogDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spacer alcohol_building</thingKey>
+					<mainThingDefName>oracle_MassEffectBooze</mainThingDefName>
+					<thingDefs>
+						<li>oracle_MassEffectBooze</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>afterlife holocolumn_building</thingKey>
+					<mainThingDefName>oracle_AfterlifeCenterpiece</mainThingDefName>
+					<thingDefs>
+						<li>oracle_AfterlifeCenterpiece</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>afterlife logo_building</thingKey>
+					<mainThingDefName>oracle_AfterlifeLogo</mainThingDefName>
+					<thingDefs>
+						<li>oracle_AfterlifeLogo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spacer fishtank_building</thingKey>
+					<mainThingDefName>oracle_FishTank</mainThingDefName>
+					<thingDefs>
+						<li>oracle_FishTank</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>caduceus decal_building</thingKey>
+					<mainThingDefName>oracle_CaduceusDecal</mainThingDefName>
+					<thingDefs>
+						<li>oracle_CaduceusDecal</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner_building</thingKey>
+					<mainThingDefName>oracle_PrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_PrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (progress)_building</thingKey>
+					<mainThingDefName>oracle_ProgressPrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_ProgressPrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (new progress)_building</thingKey>
+					<mainThingDefName>oracle_Progress2PrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_Progress2PrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (trans)_building</thingKey>
+					<mainThingDefName>oracle_TransPrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_TransPrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (nonbinary)_building</thingKey>
+					<mainThingDefName>oracle_NonbinaryPrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_NonbinaryPrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (lesbian)_building</thingKey>
+					<mainThingDefName>oracle_LesbianPrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_LesbianPrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (gay men)_building</thingKey>
+					<mainThingDefName>oracle_GayPrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_GayPrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (bisexual)_building</thingKey>
+					<mainThingDefName>oracle_BiPrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_BiPrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (pansexual)_building</thingKey>
+					<mainThingDefName>oracle_PanPrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_PanPrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>pride banner (asexual)_building</thingKey>
+					<mainThingDefName>oracle_AcePrideBanner</mainThingDefName>
+					<thingDefs>
+						<li>oracle_AcePrideBanner</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>platform base_building</thingKey>
+					<mainThingDefName>oracle_SteelBridgeLoop</mainThingDefName>
+					<thingDefs>
+						<li>oracle_SteelBridgeLoop</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>platform base edge_building</thingKey>
+					<mainThingDefName>oracle_SteelBridgeRight</mainThingDefName>
+					<thingDefs>
+						<li>oracle_SteelBridgeRight</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>platform heavy support_building</thingKey>
+					<mainThingDefName>oracle_SteelBridgeHeavy</mainThingDefName>
+					<thingDefs>
+						<li>oracle_SteelBridgeHeavy</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>heavy pillar_building</thingKey>
+					<mainThingDefName>oracle_SteelBridgePillar</mainThingDefName>
+					<thingDefs>
+						<li>oracle_SteelBridgePillar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>diagonal wall_building</thingKey>
+					<mainThingDefName>oracle_Diag</mainThingDefName>
+					<thingDefs>
+						<li>oracle_Diag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>diagonal brick wall_building</thingKey>
+					<mainThingDefName>oracle_DiagBrick</mainThingDefName>
+					<thingDefs>
+						<li>oracle_DiagBrick</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>diagonal metal wall_building</thingKey>
+					<mainThingDefName>oracle_ClutterDiag</mainThingDefName>
+					<thingDefs>
+						<li>oracle_ClutterDiag</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wallcap_building</thingKey>
+					<mainThingDefName>Oracle_Wallcap</mainThingDefName>
+					<thingDefs>
+						<li>Oracle_Wallcap</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>tire wall_building</thingKey>
+					<mainThingDefName>oracle_TireWall</mainThingDefName>
+					<thingDefs>
+						<li>oracle_TireWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>invisible wall_building</thingKey>
+					<mainThingDefName>oracle_voidWall</mainThingDefName>
+					<thingDefs>
+						<li>oracle_voidWall</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>invisible door_building</thingKey>
+					<mainThingDefName>oracle_voidDoor</mainThingDefName>
+					<thingDefs>
+						<li>oracle_voidDoor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fire nation armor_item</thingKey>
+					<mainThingDefName>oracle_FireNationArmor</mainThingDefName>
+					<thingDefs>
+						<li>oracle_FireNationArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>fire nation helmet_item</thingKey>
+					<mainThingDefName>oracle_FireNationHelmet</mainThingDefName>
+					<thingDefs>
+						<li>oracle_FireNationHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>earth empire uniform_item</thingKey>
+					<mainThingDefName>oracle_EarthEmpireUniform</mainThingDefName>
+					<thingDefs>
+						<li>oracle_EarthEmpireUniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>earth empire helmet_item</thingKey>
+					<mainThingDefName>oracle_EarthEmpireHelmet</mainThingDefName>
+					<thingDefs>
+						<li>oracle_EarthEmpireHelmet</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>earth empire engineer_item</thingKey>
+					<mainThingDefName>oracle_EarthEmpireEngineer</mainThingDefName>
+					<thingDefs>
+						<li>oracle_EarthEmpireEngineer</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>earth empire engineer headwrap_item</thingKey>
+					<mainThingDefName>oracle_EarthEmpireEngineerHat</mainThingDefName>
+					<thingDefs>
+						<li>oracle_EarthEmpireEngineerHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kyoshi warrior armor_item</thingKey>
+					<mainThingDefName>oracle_KyoshiArmor</mainThingDefName>
+					<thingDefs>
+						<li>oracle_KyoshiArmor</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>kyoshi warrior headdress_item</thingKey>
+					<mainThingDefName>oracle_KyoshiHeaddress</mainThingDefName>
+					<thingDefs>
+						<li>oracle_KyoshiHeaddress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>equalist jumpsuit_item</thingKey>
+					<mainThingDefName>oracle_EqualistUniform</mainThingDefName>
+					<thingDefs>
+						<li>oracle_EqualistUniform</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>equalist mask_item</thingKey>
+					<mainThingDefName>oracle_EqualistHat</mainThingDefName>
+					<thingDefs>
+						<li>oracle_EqualistHat</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>amon mask_item</thingKey>
+					<mainThingDefName>oracle_EqualistAmonMask</mainThingDefName>
+					<thingDefs>
+						<li>oracle_EqualistAmonMask</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>korra outfit_item</thingKey>
+					<mainThingDefName>oracle_KorraOutfit</mainThingDefName>
+					<thingDefs>
+						<li>oracle_KorraOutfit</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>asami racing jumpsuit_item</thingKey>
+					<mainThingDefName>oracle_AsamiRacing</mainThingDefName>
+					<thingDefs>
+						<li>oracle_AsamiRacing</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>asami dress_item</thingKey>
+					<mainThingDefName>oracle_AsamiDress</mainThingDefName>
+					<thingDefs>
+						<li>oracle_AsamiDress</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sticks fence gate_building</thingKey>
+					<mainThingDefName>GM_FenceGateSticks</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceGateSticks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>board fence gate_building</thingKey>
+					<mainThingDefName>GM_FenceGateBoard</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceGateBoard</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bamboo fence gate_building</thingKey>
+					<mainThingDefName>GM_FenceGateBamboo</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceGateBamboo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corrugated fence gate_building</thingKey>
+					<mainThingDefName>GM_FenceGateCorrugated</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceGateCorrugated</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>wrought fence gate_building</thingKey>
+					<mainThingDefName>GM_FenceGateWroughIron</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceGateWroughIron</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bars fence gate_building</thingKey>
+					<mainThingDefName>GM_FenceGateJail</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceGateJail</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bamboo gate frame_building</thingKey>
+					<mainThingDefName>GM_FrameBamboo</mainThingDefName>
+					<thingDefs>
+						<li>GM_FrameBamboo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>stone gate frame_building</thingKey>
+					<mainThingDefName>GM_FrameStoneArch</mainThingDefName>
+					<thingDefs>
+						<li>GM_FrameStoneArch</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sticks fence connector_building</thingKey>
+					<mainThingDefName>GM_ConnectorFenceSticks</mainThingDefName>
+					<thingDefs>
+						<li>GM_ConnectorFenceSticks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bamboo fence connector_building</thingKey>
+					<mainThingDefName>GM_ConnectorFenceBamboo</mainThingDefName>
+					<thingDefs>
+						<li>GM_ConnectorFenceBamboo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corrugated fence connector_building</thingKey>
+					<mainThingDefName>GM_ConnectorFenceCorrugated</mainThingDefName>
+					<thingDefs>
+						<li>GM_ConnectorFenceCorrugated</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spikes fence connector_building</thingKey>
+					<mainThingDefName>GM_ConnectorFenceIronSpikes</mainThingDefName>
+					<thingDefs>
+						<li>GM_ConnectorFenceIronSpikes</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bars fence connector_building</thingKey>
+					<mainThingDefName>GM_ConnectorFenceIronBased</mainThingDefName>
+					<thingDefs>
+						<li>GM_ConnectorFenceIronBased</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bars wall connector_building</thingKey>
+					<mainThingDefName>GM_ConnectorMetalBar</mainThingDefName>
+					<thingDefs>
+						<li>GM_ConnectorMetalBar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>sticks fence_building</thingKey>
+					<mainThingDefName>GM_FenceSticks</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceSticks</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>thin bamboo wall_building</thingKey>
+					<mainThingDefName>GM_FenceBamboo</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceBamboo</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bush fence_building</thingKey>
+					<mainThingDefName>GM_FenceBush</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceBush</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>rock pile fence_building</thingKey>
+					<mainThingDefName>GM_FenceRockpile</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceRockpile</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>corrugated fence wall_building</thingKey>
+					<mainThingDefName>GM_FenceCorrugated</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceCorrugated</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spike bars wall_building</thingKey>
+					<mainThingDefName>GM_FenceIronStone</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceIronStone</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>spikes fence_building</thingKey>
+					<mainThingDefName>GM_FenceIronSpikes</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceIronSpikes</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bars fence_building</thingKey>
+					<mainThingDefName>GM_FenceIronBased</mainThingDefName>
+					<thingDefs>
+						<li>GM_FenceIronBased</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>bars wall_building</thingKey>
+					<mainThingDefName>GM_WallMetalBar</mainThingDefName>
+					<thingDefs>
+						<li>GM_WallMetalBar</li>
+					</thingDefs>
+					<removedDefs />
+				</li>
+				<li>
+					<thingKey>biocoded remains_item</thingKey>
+					<mainThingDefName>MSS_Biocoded_Thing</mainThingDefName>
+					<thingDefs>
+						<li>MSS_Biocoded_Thing</li>
 					</thingDefs>
 					<removedDefs />
 				</li>

@@ -5,6 +5,7 @@
 			<li>ElectricStove</li>
 			<li>FueledStove</li>
 			<li>UFLI_stove</li>
+			<li>FabricationBench</li>
 		</disabledRecipes_keys>
 		<disabledRecipes_values>
 			<li>
@@ -30,7 +31,6 @@
 				<li>Make_BabyFoodBulk</li>
 				<li>RH2_CookRation_FOXHOUNDRation</li>
 				<li>RH2_CookRation_FOXHOUNDRation_Bulk</li>
-				<li>AB_MakeStoneBlocksSlimeStone</li>
 				<li>VBE_MakeCoffee</li>
 				<li>VCE_CookBakeSimple</li>
 				<li>VCE_CookBakeSimpleBulk</li>
@@ -40,19 +40,14 @@
 				<li>VCE_CookBakeLavishBulk</li>
 				<li>VCE_CookBakeGourmet</li>
 				<li>VCE_CookDessertSimple</li>
-				<li>VCE_CookDessertSimpleBulk</li>
 				<li>VCE_CookDessertFine</li>
-				<li>VCE_CookDessertFineBulk</li>
 				<li>VCE_CookDessertLavish</li>
-				<li>VCE_CookDessertLavishBulk</li>
 				<li>VCE_CookDessertGourmet</li>
 				<li>VCE_CookMealGourmet</li>
 				<li>VCE_CookSoupSimple</li>
 				<li>VCE_CookSoupFine</li>
 				<li>VCE_CookSoupLavish</li>
 				<li>VCE_CookSoupGourmet</li>
-				<li>BS_MakeAndroidFuelFromChemfuel_CookingStation</li>
-				<li>BS_MakeAndroidFuelFromWood_CookingStation</li>
 				<li>Make_PsychiteTea</li>
 				<li>Make_PsychiteTeaBulk</li>
 			</li>
@@ -79,7 +74,6 @@
 				<li>Make_BabyFoodBulk</li>
 				<li>RH2_CookRation_FOXHOUNDRation</li>
 				<li>RH2_CookRation_FOXHOUNDRation_Bulk</li>
-				<li>AB_MakeStoneBlocksSlimeStone</li>
 				<li>VBE_MakeCoffee</li>
 				<li>VCE_CookBakeSimple</li>
 				<li>VCE_CookBakeSimpleBulk</li>
@@ -89,19 +83,14 @@
 				<li>VCE_CookBakeLavishBulk</li>
 				<li>VCE_CookBakeGourmet</li>
 				<li>VCE_CookDessertSimple</li>
-				<li>VCE_CookDessertSimpleBulk</li>
 				<li>VCE_CookDessertFine</li>
-				<li>VCE_CookDessertFineBulk</li>
 				<li>VCE_CookDessertLavish</li>
-				<li>VCE_CookDessertLavishBulk</li>
 				<li>VCE_CookDessertGourmet</li>
 				<li>VCE_CookMealGourmet</li>
 				<li>VCE_CookSoupSimple</li>
 				<li>VCE_CookSoupFine</li>
 				<li>VCE_CookSoupLavish</li>
 				<li>VCE_CookSoupGourmet</li>
-				<li>BS_MakeAndroidFuelFromChemfuel_CookingStation</li>
-				<li>BS_MakeAndroidFuelFromWood_CookingStation</li>
 				<li>Make_PsychiteTea</li>
 				<li>Make_PsychiteTeaBulk</li>
 			</li>
@@ -120,7 +109,6 @@
 				<li>CookMealLavishBulk_Meat</li>
 				<li>RH2_CookRation_FOXHOUNDRation</li>
 				<li>RH2_CookRation_FOXHOUNDRation_Bulk</li>
-				<li>AB_MakeStoneBlocksSlimeStone</li>
 				<li>USAC_HeatMealSurvivalPack</li>
 				<li>USAC_HeatMealSurvivalPackx4</li>
 				<li>avCSDummyRecipeForNutrientPaste</li>
@@ -141,10 +129,7 @@
 				<li>VCE_CookBakeFineBulk</li>
 				<li>VCE_CookBakeSimpleBulk</li>
 				<li>VCE_CookBakeGourmet</li>
-				<li>VCE_CookDessertSimpleBulk</li>
-				<li>VCE_CookDessertFineBulk</li>
 				<li>VCE_CookDessertLavish</li>
-				<li>VCE_CookDessertLavishBulk</li>
 				<li>VCE_CookDessertGourmet</li>
 				<li>VCE_DeepFryMeats</li>
 				<li>VCE_DeepFryVegetables</li>
@@ -161,12 +146,43 @@
 				<li>VCE_CookSoupLavish</li>
 				<li>VCE_CookSoupGourmet</li>
 				<li>SI_MakeCoffeeMedium</li>
-				<li>BS_MakeAndroidFuelFromChemfuel_CookingStation</li>
-				<li>BS_MakeAndroidFuelFromWood_CookingStation</li>
 				<li>BS_MakeAndroidFuelFromChemfuel_Refinery</li>
 				<li>BS_MakeAndroidFuelFromWood_Refinery</li>
 				<li>Make_PsychiteTeaBulk</li>
 				<li>Make_PsychiteTea</li>
+			</li>
+			<li>
+				<li>Make_BionicEye</li>
+				<li>Make_BionicArm</li>
+				<li>Make_BionicLeg</li>
+				<li>Make_BionicSpine</li>
+				<li>Make_BionicHeart</li>
+				<li>Make_BionicStomach</li>
+				<li>Make_BionicEar</li>
+				<li>Make_BionicTongue</li>
+				<li>Make_BionicJaw</li>
+				<li>Make_BS_BionicStriderLeg</li>
+				<li>Make_Neurocalculator</li>
+				<li>Make_LearningAssistant</li>
+				<li>Make_GastroAnalyzer</li>
+				<li>Make_Immunoenhancer</li>
+				<li>Make_HealingEnhancer</li>
+				<li>Make_ToughskinGland</li>
+				<li>Make_Coagulator</li>
+				<li>Make_ArmorskinGland</li>
+				<li>Make_StoneskinGland</li>
+				<li>Make_AestheticShaper</li>
+				<li>Make_AestheticNose</li>
+				<li>Make_LoveEnhancer</li>
+				<li>Make_DetoxifierStomach</li>
+				<li>Make_ReprocessorStomach</li>
+				<li>Make_NuclearStomach</li>
+				<li>Make_CircadianAssistant</li>
+				<li>Make_CircadianHalfCycler</li>
+				<li>Make_DetoxifierLung</li>
+				<li>Make_DetoxifierKidney</li>
+				<li>Make_PilotAssistant</li>
+				<li>Make_VacskinGland</li>
 			</li>
 		</disabledRecipes_values>
 	</ModSettings>
