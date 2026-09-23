@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationInsert">
+    <xpath>Defs/DutyDef[defName="VFED_SitOnThrone"]/thinkNode/subNodes/li[@Class="VFED.JobGiver_SitOnThrone"]</xpath>
+    <order>Prepend</order>
+    <value>
+      <li Class="ShinobiFP.VFED.JobGiver_NobleFood" />
+    </value>
+  </Operation>
+</Patch>

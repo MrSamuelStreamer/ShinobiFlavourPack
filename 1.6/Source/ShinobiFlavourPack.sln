@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
@@ -6,6 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShinobiFlavourPack.UFLI", "UFLI\ShinobiFlavourPack.UFLI.csproj", "{A1B2C3D4-E5F6-4789-A012-3456789ABCDE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShinobiFlavourPack.EES", "EES\ShinobiFlavourPack.EES.csproj", "{B2C3D4E5-F6A7-4890-B123-456789ABCDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShinobiFP.VFED", "VFED\ShinobiFP.VFED.csproj", "{FC1DF608-D9C5-4243-A1C2-5F174E5B74DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,5 +23,9 @@ Global
 		{B2C3D4E5-F6A7-4890-B123-456789ABCDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2C3D4E5-F6A7-4890-B123-456789ABCDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2C3D4E5-F6A7-4890-B123-456789ABCDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1DF608-D9C5-4243-A1C2-5F174E5B74DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1DF608-D9C5-4243-A1C2-5F174E5B74DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1DF608-D9C5-4243-A1C2-5F174E5B74DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1DF608-D9C5-4243-A1C2-5F174E5B74DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
